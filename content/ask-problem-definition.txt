@@ -1,0 +1,49 @@
+## X → Y Framework
+### Current State (X - What's happening now that's problematic?)
+Organizations continuously face challenges with diversity in the workplace and often times don't manage it effectively. Companies nowadays preach about inclusion, but some statistics combat that. Employees may feel undervalued or uncomfortable around other employees. Managers in today's world need to know how to create a safe environment and use diversity to the organization's advantages.
+
+### Desired State (Y - What outcome do we want to achieve?)
+The outcome that we can hope for is one where diversity is respected and valued. This would increase innovation within organizations and also lead to a healthy competitive culture. Organizations need to start using diversity management practices and provide the proper training to their managers.
+
+## PICOC Framework
+### Population (P - Who is affected by this problem?)
+Organizations all over the United States. Especially the employers who work in human resources.
+
+### Intervention (I - What solution/action are we considering?)
+Organizations should implement a diversity management training course that teaches management how to lead diverse teams and eliminate biases.
+
+	Managing personalities
+
+### Comparison (C - What alternatives exist?)
+1. A lighter level course that just informs employees or managers, it wouldn't teach them strategies.
+2. Keep the current policies surrounding diversity.
+
+### Outcomes (O - What will success look like?)
+Success can be measured by the employees and how happy they are with the organizations. From a financial standpoint you can also look at how revenue increases with the new policies.
+
+### Context (C - Where/when does this apply?)
+This would apply to all organizations across the United States, big or small.
+
+## Clear Problem Statement
+Even though there's a lot of awareness about diversity, managers still fail at managing it. This leads to employee dissatisfaction and might leave a negative stigma around an organization.
+
+## Why This Problem Matters
+### Impact on Organization
+It could completely ruin an organization, it could lead to high employee turnover, low morale, and low reputation. Things would move slower in the organization, as there could be more conflict within teams.
+
+### Stakeholder Impact
+Employees with a diverse background would feel the most impact, along with human resource managers.
+
+### Strategic Alignment
+Addressing diversity and using it as an advantage would help the organization better reach its goals while having a positive image.
+
+## Evidence Questions to Explore
+### For the Problem (Step 2)
+- What evidence shows that employees face diversity challenges?
+- How widespread is poor diversity practices?
+- What are the root causes?
+
+### For the Solution (Step 4)
+- What evidence supports that diversity training works?
+- Has this solution worked in similar contexts?
+- What are the potential risks and benefits?

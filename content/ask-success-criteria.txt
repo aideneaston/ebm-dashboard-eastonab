@@ -1,0 +1,107 @@
+## SMART Success Criteria
+
+### Criterion 1: Employee inclusion
+- **Specific:** We can measure this by using monthly surveys
+- **Measurable:** At least 20% more inclusion engagement
+- **Achievable:** Yes, very achievable, regular courses will be given
+- **Relevant:** Yes, it will address any sort of discrimination within the organization
+- **Time-bound:** It will be achieved within the next year
+
+### Criterion 2: Leadership diversity
+- **Specific:** An increase in diversity within management roles
+- **Measurable:** Ensure that there's a 20% increase in diverse management roles
+- **Achievable:** Yes, start by using inclusive recruitment or promoting from within
+- **Relevant:** Shows the company cares about diversity and works to avoid biases
+- **Time-bound:** It will be achieved within the next year
+
+### Criterion 3: Lower employee turnover
+- **Specific:** Track employee turnover, all demographics will be recorded
+- **Measurable:** Reduce employee turnover by 40%
+- **Achievable:** Yes, create support groups and have acceptable policies
+- **Relevant:** It is directly related to employee satisfaction
+- **Time-bound:** Check in every month and aim for it to drop by 40% within a year
+
+## Measurement Framework
+
+### Quantitative Metrics
+- Survey scores, 75% positive replies
+- Diversity ratio, 20% increase in management roles
+- Retain employees for longer periods, 70% stay for more than a year
+
+### Qualitative Indicators
+- Improved team performance and a smooth working experience
+- A more positive and friendly culture in the workplace
+- A better sense of belonging for employees
+
+### Leading vs. Lagging Indicators
+
+#### Leading Indicators (Early signals of progress)
+Completion of diversity training, more diverse recruits, surveys being filled out on time
+
+#### Lagging Indicators (Final outcomes)
+Lower employee turnover, more promotions or roles to fill, improved team performance and engagement
+
+## Baseline Measurements
+
+### Current State Metrics
+
+**Metric 1:** Survey scores = 50%
+**Metric 2:** Diversity ratio = 10%
+**Metric 3:** Employee turnover = 30%
+
+### Data Collection Plan
+- Send out surveys as soon as possible
+- Track current management roles
+- Track current turnover rate, look at the past year
+
+## Success Thresholds
+
+### Minimum Acceptable Improvement
+Increase by 5% in all areas of interest
+
+### Target Performance Level
+Increase by 10-20% in all areas of interest
+
+### Stretch Goal
+- Increase of 50-70% in all areas of interest
+
+## Stakeholder-Specific Success Criteria
+
+### Management Success Measures
+More innovation and a better reputation
+
+### Employee Success Measures
+All employees would feel more valued and have a sense of belonging
+
+### Customer Success Measures
+A more diverse workplace and a better community presence
+
+## Risk Indicators
+
+### Red Flags
+Low survey engagement and more complaints about discrimination.
+
+### Mitigation Triggers
+As soon as reviews and surveys show negative results, immediately talk to employees involved.
+
+## Timeline for Assessment
+
+### Short-term (30-90 days)
+Any sort of diversity training along with survey feedback.
+
+### Medium-term (3-6 months)
+Survey responses become better and more thorough.
+
+### Long-term (6-12 months)
+The practices that employees were trained to do continue and become a normal way of work.
+
+## Reporting Framework
+
+### Dashboard Metrics
+Regularly send out emails that include statistics updates, or put up statistics on a board in the workplace.
+
+### Regular Reports
+Supply senior management with training and team performance updates.
+
+### Milestone Reviews
+Formal assessments will occur around the 12 month mark.

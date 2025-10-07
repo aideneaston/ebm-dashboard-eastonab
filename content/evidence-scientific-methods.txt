@@ -1,0 +1,144 @@
+# Scientific Evidence: Methods & Acquisition Strategy
+# Document your systematic approach to finding research evidence
+
+## Research Question
+Diversity in the workplace.... how to deal with it
+
+**Primary Research Question:**
+How can we use diversity in the workplace to better the organization and increase teams engagement and performance?
+How do we get around each others differences?
+What are the challenges and potential negative outcomes, such as discrimination, prejudice, or group conflict?(consensus)
+How do HR practices, leadership, and organizational culture influence the success of diversity initiatives? (consensus)
+What are the effects of workplace diversity on team and organizational performance, innovation, creativity, and employee well-being? (consensus)
+
+## Search Strategy
+
+### Databases Searched
+- [ ] **PubMed/MEDLINE** [For health/organizational behavior research]
+- [ ] **Business Source Premier** [For business and management research] 
+- [ ] **Google Scholar** [For multidisciplinary academic content]
+- [ ] **JSTOR** [For established academic journals]
+- [ ] **SSRN** [For business and social science working papers]
+- [ ] **Other:** [List additional relevant databases]
+
+### Keywords and Search Terms
+
+#### Primary Keywords
+Table: Top 15 Terms and Their Focus
+Term	Focus/Definition	Citations
+Surface-Level Diversity	Observable attributes (age, gender, ethnicity)	4155
+Deep-Level Diversity	Values, beliefs, personality	41513
+Cognitive Diversity	Knowledge, perspectives, thinking styles	13175
+Demographic Diversity	Demographic attributes (age, gender, etc.)	1045
+Cultural Diversity	Cultural backgrounds, nationalities	715
+Functional Diversity	Expertise, roles, functions	510
+Team Heterogeneity	Degree of difference among members	54
+Team Composition	Mix of individual characteristics	510
+Perceived Diversity	Awareness of differences	368
+Social Categorization	Grouping by salient attributes	45
+Similarity-Attraction	Preference for similar others	412
+Information/Decision-Making	Diversity as informational resource	412
+Inclusion	Feeling valued and integrated	111
+Diversity Beliefs	Attitudes about diversity’s value	611
+Team Processes	Communication, conflict, knowledge sharing	4209
+
+
+#### Boolean Search Combinations
+[Document your search string combinations]
+- Example: ("employee retention" OR "staff turnover") AND ("small business" OR SME)
+
+### Search Filters Applied
+- **Date Range:** [Years included in search]
+- **Language:** [Languages included]
+- **Study Types:** [Research designs included/excluded]
+- **Geographic Scope:** [Regions/countries of interest]
+- **Industry Focus:** [Relevant sectors]
+
+## Selection Criteria
+
+### Inclusion Criteria
+[What studies WILL you include?]
+- Study design requirements
+- Population/context requirements
+- Outcome measures
+- Quality thresholds
+
+### Exclusion Criteria  
+[What studies will you EXCLUDE?]
+- Study limitations
+- Context mismatches
+- Quality concerns
+- Accessibility issues
+
+## Search Results Summary
+
+### Initial Search Results
+- **Total Articles Found:** [Number across all databases]
+- **After Removing Duplicates:** [Number of unique articles]
+- **After Title/Abstract Screening:** [Number meeting basic criteria]
+- **Selected for Full Review:** [Final number for detailed analysis]
+
+### Search Documentation
+[Keep a record of what you searched and when]
+
+**Date:** [Search date]
+**Database:** [Which database]
+**Search Terms:** [Exact search string used]
+**Results:** [Number of results]
+**Notes:** [Any observations about the search]
+
+## Quality Assessment Approach
+[How will you evaluate study quality?]
+
+### Research Design Hierarchy
+1. **Systematic Reviews/Meta-analyses** [Highest quality]
+2. **Randomized Controlled Trials** [High quality]
+3. **Quasi-experimental Studies** [Medium-high quality]
+4. **Cohort Studies** [Medium quality]
+5. **Cross-sectional Studies** [Medium-low quality]
+6. **Case Studies** [Lower quality but valuable for context]
+
+### Quality Criteria Checklist
+- [ ] Clear research question
+- [ ] Appropriate methodology
+- [ ] Adequate sample size
+- [ ] Valid measurement tools
+- [ ] Appropriate statistical analysis
+- [ ] Clear reporting of results
+- [ ] Discussion of limitations
+- [ ] Peer-reviewed publication
+
+## Documentation Process
+[How you'll organize and track your findings]
+
+### Reference Management
+[How you'll keep track of citations]
+
+### Evidence Extraction Form
+[What information you'll record for each study]
+- Citation details
+- Study design and methodology
+- Sample characteristics
+- Key findings
+- Relevance to your problem/solution
+- Quality assessment
+
+## Challenges and Limitations
+[Document any issues with your search process]
+
+### Search Limitations
+[What couldn't you access or find?]
+
+### Resource Constraints
+[Time, database access, or other limitations]
+
+### Topic-Specific Challenges
+[Issues unique to your research area]
+
+---
+INSTRUCTIONS:
+1. Be systematic and comprehensive in your approach
+2. Document everything so others could replicate your search
+3. Focus on research relevant to both your problem AND potential solutions
+4. Use library resources and ask librarians for help with database searches
+5. Keep detailed records of what you find and why you include/exclude studies

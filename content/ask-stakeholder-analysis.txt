@@ -1,0 +1,81 @@
+## Internal Stakeholders
+
+### Senior Management
+- **Interest in Problem:** Problems with diversity can harm an organization's reputation. Often times management will face a lot of pressure regarding inclusion.
+- **Interest in Solution:** Leadership would gain an increase in image, innovation, employee turnover would decrease and people would want to join the company.
+- **Influence Level:** High, they create the policies and help shape the culture.
+- **Support Level:** Likely supporter, especially if it helps organization goals.
+
+### Middle Management
+- **Interest in Problem:** Middle managers are usually the ones leading these teams. If managed poorly they will reduce the productivity of the team.
+- **Interest in Solution:** Diversity management will increase team performance and morale.
+- **Influence Level:** High, they are directly affected as they lead these teams.
+- **Support Level:** Likely supporter, they would want to work in a good environment.
+
+### Employees/Staff
+- **Interest in Problem:** If they feel excluded they might be unsure of new diversity policies.
+- **Interest in Solution:** It would increase morale, and make them have a sense of belonging. There would be less tension and the work would go smoother.
+- **Influence Level:** Medium, they don't actually control anything and can't change policies.
+- **Support Level:** Likely supporter, they want to see change and have it work for their benefit.
+
+### Other Internal Groups
+- **Department/Group:** Human Resources Department
+- **Interest in Problem:** HR is responsible for keeping the company in check, works to avoid lawsuits.
+- **Interest in Solution:** If they can create good management strategies it shows that they have knowledge on the topic and that they care.
+- **Influence Level:** High, they help shape policies.
+- **Support Level:** Likely supporter
+
+## External Stakeholders
+
+### Customers/Clients
+- **Interest in Problem:** Customers want to shop at brands that have a good reputation, organizations that share the same views.
+- **Interest in Solution:** A more inclusive environment might lead to customers buying more product.
+- **Influence Level:** High, companies have to make money somehow, and the customers supply that money.
+- **Support Level:** Likely supporter
+
+### Suppliers/Partners
+- **Interest in Problem:** It might affect their collaboration or deals, they won't want to harm their own reputation by working with a negative organization.
+- **Interest in Solution:** It would create a fair partnership.
+- **Influence Level:** Medium, having a good relationship with suppliers can be a huge advantage
+- **Support Level:** Likely supporter
+
+### Regulatory Bodies
+- **Interest in Problem:** Violating any sort of employment laws can lead to lawsuits.
+- **Interest in Solution:** Ensures that organizations won't break these rules, it leads to a more ethical environment.
+- **Influence Level:** High, they create unbreakable rules that will lead to harsh punishments.
+- **Support Level:** Likely supportive but won't influence anything.
+
+### Community/Society
+- **Interest in Problem:** Society doesn't wish to see anybody excluded, as we have seen a lot recently.
+- **Interest in Solution:** It leads to more opportunity for everyone, represents what the majority of society wants.
+- **Influence Level:** Medium, society can easily topple an organization ruining their sales.
+- **Support Level:** Likely supportive
+
+## Stakeholder Engagement Strategy
+
+### High Influence, High Interest (Manage Closely)
+Senior Management, HR department, they engage through policies and organizational goals.
+
+### High Influence, Low Interest (Keep Satisfied)
+Regulatory bodies, they set forth the rules that have to be followed.
+
+### Low Influence, High Interest (Keep Informed)
+Community and employees, they talk amongst themselves.
+
+### Low Influence, Low Interest (Monitor)
+Suppliers, keep an eye on what companies they want to work with.
+
+## Key Stakeholder Insights for Evidence Collection
+
+### Who to Interview/Survey
+- Human resource managers and middle management
+- Customers
+- Employees
+
+### What Questions to Ask
+- How important is diversity to you?
+- What are some of the problems that you face when working with diverse teams?
+- What would you do to change any sort of discrimination?
+
+### How to Engage
+Utilize surveys, have often meetings with teams to make sure everyone is feeling good.
