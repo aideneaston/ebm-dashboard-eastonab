@@ -1,0 +1,65 @@
+Industry,Industry_Code,Owner_Gender,Owner_Race,Owner_Ethnicity,Number_of_Firms,Total_Employment,Annual_Payroll_Millions,Revenue_per_Employee,Firms_with_Training_Programs_Pct,Employee_Turnover_Rate_Pct
+Professional Services,54,Male,White,Non-Hispanic,245680,4523100,285600,95200,68.5,12.3
+Professional Services,54,Female,White,Non-Hispanic,89420,1245800,78900,92400,71.2,11.8
+Professional Services,54,Male,Black,Non-Hispanic,18950,156700,9850,88600,65.3,14.2
+Professional Services,54,Female,Black,Non-Hispanic,12340,98200,6120,87500,67.1,13.9
+Professional Services,54,Male,Asian,Non-Hispanic,42180,532400,38200,98700,72.4,10.5
+Professional Services,54,Female,Asian,Non-Hispanic,28560,289600,20100,96800,73.8,10.2
+Professional Services,54,Male,Hispanic,Any Race,35620,298500,18700,86900,63.7,15.1
+Professional Services,54,Female,Hispanic,Any Race,19880,142300,8950,85200,64.9,14.6
+Manufacturing,31-33,Male,White,Non-Hispanic,156890,8934500,489200,78500,72.1,9.8
+Manufacturing,31-33,Female,White,Non-Hispanic,23470,892300,48600,76200,73.5,9.4
+Manufacturing,31-33,Male,Black,Non-Hispanic,8920,245600,12800,75800,69.8,10.9
+Manufacturing,31-33,Female,Black,Non-Hispanic,4560,98700,5100,74500,71.2,10.5
+Manufacturing,31-33,Male,Asian,Non-Hispanic,18760,456300,26700,81200,75.3,8.7
+Manufacturing,31-33,Female,Asian,Non-Hispanic,9430,189400,11200,79900,76.1,8.3
+Manufacturing,31-33,Male,Hispanic,Any Race,28940,687500,35600,72900,67.4,11.4
+Manufacturing,31-33,Female,Hispanic,Any Race,12180,234800,11900,71600,68.9,11.1
+Healthcare,62,Male,White,Non-Hispanic,89560,2345600,142300,82400,78.5,16.2
+Healthcare,62,Female,White,Non-Hispanic,134780,5678900,325400,79800,80.1,15.8
+Healthcare,62,Male,Black,Non-Hispanic,12450,298700,17100,78900,76.3,17.4
+Healthcare,62,Female,Black,Non-Hispanic,28920,786500,44200,77500,77.9,17.1
+Healthcare,62,Male,Asian,Non-Hispanic,18920,487200,30100,84200,81.2,14.5
+Healthcare,62,Female,Asian,Non-Hispanic,32180,698300,43500,82800,82.4,14.2
+Healthcare,62,Male,Hispanic,Any Race,14680,298600,16800,75300,74.8,18.3
+Healthcare,62,Female,Hispanic,Any Race,24530,562400,31200,73900,76.1,17.9
+Retail Trade,44-45,Male,White,Non-Hispanic,198750,3456800,98700,52300,42.3,28.4
+Retail Trade,44-45,Female,White,Non-Hispanic,87420,1789400,49200,50800,44.1,27.8
+Retail Trade,44-45,Male,Black,Non-Hispanic,24560,412300,11200,49600,40.8,29.7
+Retail Trade,44-45,Female,Black,Non-Hispanic,18930,324500,8900,48900,42.3,29.1
+Retail Trade,44-45,Male,Asian,Non-Hispanic,45680,724600,21300,54100,45.7,26.2
+Retail Trade,44-45,Female,Asian,Non-Hispanic,32180,487200,14100,52700,46.9,25.8
+Retail Trade,44-45,Male,Hispanic,Any Race,52340,892100,24600,47800,39.5,31.2
+Retail Trade,44-45,Female,Hispanic,Any Race,34820,598700,16300,46500,40.8,30.6
+Finance and Insurance,52,Male,White,Non-Hispanic,87640,1876500,156800,128500,81.2,8.9
+Finance and Insurance,52,Female,White,Non-Hispanic,42180,867300,71200,125900,82.6,8.5
+Finance and Insurance,52,Male,Black,Non-Hispanic,8920,124500,9800,118700,78.4,10.1
+Finance and Insurance,52,Female,Black,Non-Hispanic,6780,98200,7600,116500,79.7,9.8
+Finance and Insurance,52,Male,Asian,Non-Hispanic,16540,298600,27300,132400,84.1,7.6
+Finance and Insurance,52,Female,Asian,Non-Hispanic,10230,187400,16800,129800,85.3,7.3
+Finance and Insurance,52,Male,Hispanic,Any Race,12460,189700,14200,112300,76.9,10.8
+Finance and Insurance,52,Female,Hispanic,Any Race,8340,123800,9100,109800,78.1,10.4
+Information Technology,51,Male,White,Non-Hispanic,67890,987600,98700,145200,89.4,14.7
+Information Technology,51,Female,White,Non-Hispanic,23470,234800,24100,142800,90.2,14.3
+Information Technology,51,Male,Black,Non-Hispanic,5620,45300,4200,135600,86.7,16.2
+Information Technology,51,Female,Black,Non-Hispanic,3890,28900,2650,132900,87.9,15.8
+Information Technology,51,Male,Asian,Non-Hispanic,28940,512400,58900,152400,92.1,12.8
+Information Technology,51,Female,Asian,Non-Hispanic,16780,276500,31200,149700,93.5,12.4
+Information Technology,51,Male,Hispanic,Any Race,11230,124500,11200,128300,85.3,17.1
+Information Technology,51,Female,Hispanic,Any Race,6780,67800,6100,125600,86.8,16.7
+Construction,23,Male,White,Non-Hispanic,234560,2678900,142300,68900,38.7,22.4
+Construction,23,Female,White,Non-Hispanic,18920,156700,8200,66500,40.2,21.8
+Construction,23,Male,Black,Non-Hispanic,14680,124500,6100,65200,36.9,24.1
+Construction,23,Female,Black,Non-Hispanic,4560,32100,1580,63800,38.4,23.5
+Construction,23,Male,Asian,Non-Hispanic,12460,167800,9100,71200,41.3,20.6
+Construction,23,Female,Asian,Non-Hispanic,3890,28900,1450,69800,42.7,20.1
+Construction,23,Male,Hispanic,Any Race,67890,892100,44200,61700,34.2,26.8
+Construction,23,Female,Hispanic,Any Race,8920,78200,3650,59300,35.9,26.2
+Education Services,61,Male,White,Non-Hispanic,34820,456300,21200,58900,85.6,19.3
+Education Services,61,Female,White,Non-Hispanic,56780,1124600,52400,56700,87.1,18.9
+Education Services,61,Male,Black,Non-Hispanic,6780,78200,3450,57200,83.4,20.8
+Education Services,61,Female,Black,Non-Hispanic,12460,187400,8100,55800,84.9,20.3
+Education Services,61,Male,Asian,Non-Hispanic,8920,124500,6800,62100,88.9,17.5
+Education Services,61,Female,Asian,Non-Hispanic,14680,234800,11900,60400,90.2,17.1
+Education Services,61,Male,Hispanic,Any Race,9430,98700,4100,53400,81.7,21.9
+Education Services,61,Female,Hispanic,Any Race,16540,234800,9650,52100,83.4,21.4
