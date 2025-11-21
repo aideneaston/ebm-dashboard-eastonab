@@ -7,14 +7,11 @@ For this analysis, I used full-year 2022 data (January–December) from five mai
 - HR analytics (turnover and promotion cuts by demographics)
 - Industry benchmarks (Census ABS, BLS, benchmark consortiums)
 
-Data quality is high (generally >95% completeness), cross-verified against external benchmarks, and covers 64 organizational units across 8 sectors. This gives me enough confidence to use it for decision-making, while still being honest about limitations.
-
 Key X–M–Y Metrics
 X: Workforce Diversity
 - Overall ownership/lead composition across units: 66.8% male-owned, 33.2% female-owned; 66.2% White, 16.9% Hispanic, 13.0% Asian, 8.7% Black.
 - Representation has improved slightly (e.g., female +1.2 pp over 12 months), but leadership is still ~15 pp less diverse than the broader workforce.
 - Compared to Census ABS, the organization underrepresents women in ownership/leadership by about 6–7 pp and is only modestly above minority ownership benchmarks.
-- Implication: We do have diversity (X), especially at lower levels, but it is not equally reflected in leadership. That sets the stage for a diversity-without-equity problem.
 
 M: Inclusive Leadership Training & Mechanisms
 - 68.4% of business units have some form of D&I training, but only ~34% of managers have completed behavior-focused inclusive leadership training.
@@ -22,7 +19,6 @@ M: Inclusive Leadership Training & Mechanisms
 - Internal comparisons show a clear pattern:
     - Units with 80%+ inclusive leadership training: 15.2% turnover for diverse employees
     - Units with <70% training: 23.8% turnover
-- Implication: The "M" in the X→M→Y pathway is underbuilt. Training exists on paper, but the coverage, depth, and accountability are nowhere near best practice. Where serious, behavior-focused training is present, outcomes are noticeably better.
 
 Y: Performance Outcomes (Turnover & Revenue)
 - Average turnover: 16.8% overall. Diverse employees are at 27% vs. 16% for majority employees – a 69% higher rate.
@@ -33,7 +29,6 @@ Y: Performance Outcomes (Turnover & Revenue)
     - Diverse + low training units: 23.8% turnover, $68,400 per employee
     - Diverse + high training units (80%+): 15.2% turnover, $98,200 per employee
     - Homogeneous units (any training level): ~17.5% turnover, $79,100 per employee
-- Implication: Diversity plus strong inclusion mechanisms outperforms everything. Diversity without inclusion underperforms even homogeneous teams.
 
 Internal Reports: What They Tell Us
 Engagement & Inclusion (Survey Data)
@@ -69,8 +64,6 @@ Using conservative assumptions:
 - Excess turnover cost attributable to the inclusion problem is roughly $8.4M per year.
 - Productivity and time-to-productivity impacts add several more million (e.g., ~$3.6M from disengagement and ~$1.8M from slower ramp-up).
 - Opportunity cost from underperforming diverse teams (compared to our own high-inclusion teams) is estimated around $14.2M in unrealized contribution.
-- Putting it all together, the organization is conservatively leaving around $20M+ per year on the table due to diversity-without-inclusion.
-- On the other side, the organization currently has ~$6.9M in potential budget for training and D&I efforts, and the finance function typically requires a 2-year payback and a 3:1 five-year ROI. Even if we only close a fraction of the gap, an inclusive leadership program easily clears that bar.
 
 Readiness & Success Factors
 
@@ -89,7 +82,3 @@ Given what we see in the internal data, five conditions seem non-negotiable for 
 - Behavior-focused, long-term training (not one-off awareness).
 - Real accountability (manager metrics and compensation tied to inclusion outcomes).
 - Systematic measurement and transparent dashboards at the team/manager level.
-- A pilot-then-scale approach to prove impact and rebuild credibility.
-- Structured processes (especially in performance management and promotions) to interrupt bias, not just rely on good intentions.
-
-When those elements are present in our own internal examples (and in external benchmarks), diverse teams match or outperform homogeneous ones. That’s ultimately the strongest internal evidence that fixing the “M” in the X→M→Y chain is worth the investment.
