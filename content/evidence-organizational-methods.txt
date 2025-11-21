@@ -6,15 +6,11 @@ Collect internal data to establish baseline levels of:
 - M (Mechanisms): Training participation and inclusive leadership behaviors
 - Y (Outcomes): Engagement, performance, innovation, and financial results
 
-Then analyze whether meaningful relationships exist between X, M, and Y, and pinpoint where the X→M→Y pathway is breaking down (e.g., strong diversity but weak inclusion, or training with no impact on outcomes).
-
 Secondary Goal
 Assess solution feasibility by gathering data on:
 - Organizational readiness and culture
 - Manager capabilities, attitudes, and capacity
 - Existing infrastructure and resources for training and accountability
-
-This evidence should show whether the organization can realistically implement practitioner-recommended inclusive leadership training at scale.
 
 Available Data Sources
 
@@ -36,7 +32,6 @@ Internal Systems
 - ERP / Operations: Production, output, and project data at team or unit level; resource allocation; potentially useful for linking team composition to outcomes.
 - HRIS: Core people data (demographics, job levels, dates, compensation, promotions, training history, manager relationships, survey responses).
 - Financial Systems: Revenue, cost, and margin by unit; payroll and comp data; training program costs.
-- Other Ops / Collaboration Tools: Productivity metrics, project outcomes, collaboration and communication patterns, innovation tools (idea platforms, etc.).
 
 Reports and Documentation
 - Regular Reports: EEO-1, diversity dashboards, engagement survey summaries, turnover reports, performance review summaries, training completion reports, business unit performance reviews.
@@ -52,28 +47,17 @@ X (Diversity) Metrics
 - Workforce diversity % by demographic group (overall and by level/function/location)
 - Leadership diversity (manager and above)
 - Team-level diversity indices (e.g., Blau index)
-- Diversity of high-potential/succession pools
-- Hiring diversity (% diverse hires over time)
-- Primary Sources: HRIS, EEO-1, talent review and applicant tracking systems.
 
 M (Mechanisms) Metrics
 - Manager completion rate of inclusive leadership and D&I training
 - 360 scores on inclusive leadership behaviors
 - Total and type of diversity/inclusion training hours per manager
-- Frequency of equity-focused reviews (e.g., promotion and pay audits by demographics)
-- Extent to which manager compensation or performance metrics are tied to diversity and inclusion
-- Primary Sources: LMS, performance/compensation systems, HR/Talent review processes.
 
 Y (Outcome) Metrics
 - Team/segment innovation (ideas submitted/implemented, innovation output per team)
 - Engagement scores by team and demographics
 - Turnover by demographics and team, including early-tenure turnover
 - Productivity (output per employee or per FTE)
-- Team performance ratings and distribution by demographics
-- Revenue per employee by team or unit
-- Customer satisfaction by team or account (where attributable)
-- Time-to-promotion and promotion rates by demographic group
-- Primary Sources: HRIS, survey systems, ERP/operations, financial systems, CRM.
 
 Control Variables
 To avoid misleading conclusions, analyses should control for:
@@ -105,10 +89,10 @@ Data Access Strategy
 Required Permissions
 - Key Data Owners:
     - HR/CHRO (HRIS, surveys, performance, training)
-    - Compensation and Finance (comp, payroll, training costs, financial performance)
-    - Diversity/Compliance (EEO-1, prior D&I reporting)
+    - Compensation and Finance 
+    - Diversity/Compliance 
     - L&D (training catalog and completions)
-    - Customer/Marketing/Insights (customer metrics, where relevant)
+    - Customer/Marketing/Insights (
 - Approvals & Process:
     - Submit clear data requests stating: what is needed, why (X→M→Y analysis), how privacy is protected, and how data will be stored and used.
     - Involve Legal/Privacy for demographic and sensitive data, and secure an executive sponsor (ideally the CHRO and/or CEO) to support access.
@@ -135,34 +119,23 @@ Data Analysis Plan
 Establishing Baselines
 
 X (Diversity):
-
-Track diversity by level, function, and location over several years.
-
-Identify when the organization reached current diversity levels and where representation drops (e.g., entry vs. leadership).
+      - Track diversity by level, function, and location over several years.
+      - Identify when the organization reached current diversity levels and where representation drops (e.g., entry vs. leadership).
 
 M (Mechanisms):
+      - Baseline training coverage and depth (e.g., awareness-only vs. skills-based, one-and-done vs. ongoing).
+      - Baseline manager inclusive behavior scores (where 360s exist).
+      - Baseline frequency of equity-focused reviews (pay, promotion, assignments).
 
-Baseline training coverage and depth (e.g., awareness-only vs. skills-based, one-and-done vs. ongoing).
-
-Baseline manager inclusive behavior scores (where 360s exist).
-
-Baseline frequency of equity-focused reviews (pay, promotion, assignments).
-
-Y (Outcomes):
-
-Normal operating ranges for engagement, turnover, promotion, innovation, productivity, and revenue per employee.
-
-Define what “good” looks like internally and compare current values by demographic group.
+- Y (Outcomes):
+    - Normal operating ranges for engagement, turnover, promotion, innovation, productivity, and revenue per employee.
+    - Define what "good" looks like internally and compare current values by demographic group.
 
 Benchmarking
-
-Compare organizational diversity to:
-
-Labor market availability (Census/industry data), and
-
-Industry peer diversity (from public reports, where available).
-
-Compare performance metrics (turnover, engagement, revenue per employee) with industry benchmarks and survey vendor norms.
+- Compare organizational diversity to:
+    - Labor market availability (Census/industry data), and
+    - Industry peer diversity (from public reports, where available).
+- Compare performance metrics (turnover, engagement, revenue per employee) with industry benchmarks and survey vendor norms.
 
 Analyzing the Problem
 
@@ -179,7 +152,6 @@ Indicators of Missing or Weak Mechanisms (M)
 - Training that is mainly one-off awareness sessions with no behavior focus or follow-through.
 - Limited or no accountability for inclusion in performance or pay decisions.
 - Weak 360 scores or survey indicators on inclusion (psychological safety, voice, fairness).
-- Feedback and exit narratives that consistently reference bias, exclusion, or lack of opportunity.
 
 Quantifying Severity
 - Engagement gaps (points difference between majority and underrepresented groups).
@@ -192,8 +164,6 @@ Compare outcomes for:
 - Teams with high diversity + high inclusion training/behavior scores
 - Teams with high diversity + low inclusion metrics
 - More homogeneous teams
-
-Control for confounders (tenure, function, location, business unit performance, etc.) as much as possible.
 
 Solution Feasibility Analysis
 
@@ -212,11 +182,9 @@ Risk Assessment
 Identify and rate risks such as:
 - Manager and employee resistance or backlash
 - Budget or staffing constraints
-- Weak data quality in key areas (e.g., demographics, team-level performance attribution)
+- Weak data quality in key areas 
 - Legal or compliance concerns
 - Lack of sustained leadership support
-
-Then outline basic mitigation strategies (start with a pilot, involve Legal early, communicate clearly, frame the initiative as performance and culture-enhancing rather than punitive, etc.).
 
 Documentation Strategy
 
@@ -233,53 +201,7 @@ For each analysis step, document:
 
 Quality Assurance
 
-Check data totals and basic logic (e.g., headcount consistency, rates within plausible ranges).
-
-Investigate outliers and inconsistencies.
-
-Where possible, have a second person (or your “future self”) re-run key analyses or sanity-check results.
-
-Triangulate numbers with qualitative findings and stakeholder feedback.
-
-Version Control
-
-Keep raw and processed data separate and clearly labeled.
-
-Use a consistent folder and file naming convention with dates.
-
-Track changes to analysis code or spreadsheets (even a simple changelog is helpful if you’re not using Git).
-
-Expected Challenges & Backup Plans
-Likely Challenges
-
-Limited or incomplete demographic, historical, or team-level data.
-
-Inconsistent definitions across time (turnover, job levels, departments).
-
-Self-report and response biases in surveys and 360s.
-
-Legal or political resistance to sharing sensitive data.
-
-Time delays in getting access and completing complex integrations.
-
-Workarounds and Minimum Viable Evidence
-
-If ideal data are not available, fall back to:
-
-Higher-level, aggregated metrics rather than team-level detail.
-
-Using HR and survey data as primary Y outcomes even without full financial linkage.
-
-Collecting new targeted survey or interview data if existing data are missing or outdated.
-
-Focusing on directional evidence (e.g., “turnover is clearly higher for group X”) rather than perfectly precise estimates.
-
-Even with imperfect data, you can still credibly say:
-
-The organization has built some level of diversity (X).
-
-There are signs of unequal outcomes (Y) for underrepresented groups.
-
-Inclusion mechanisms (M) are patchy or underdeveloped.
-
-Practitioner and research evidence suggest that systematic inclusive leadership training and accountability are likely to help.
+- Check data totals and basic logic (e.g., headcount consistency, rates within plausible ranges).
+- Investigate outliers and inconsistencies.
+- Where possible, have a second person (or your "future self") re-run key analyses or sanity-check results.
+- Triangulate numbers with qualitative findings and stakeholder feedback.
