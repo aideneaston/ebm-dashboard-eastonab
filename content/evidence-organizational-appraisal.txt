@@ -4,43 +4,18 @@ Primary Data Sources
 Data Source 1: HRIS (Workday)
 - Reliability Rating: High – Demographic, employment, and turnover data are ~97% complete and reconciled with payroll.
 - Collection & Updates: Employee self-reported demographics; hires, terminations, and job changes entered by HR; pay tied to payroll integration. Employment actions update in real time; demographics are refreshed quarterly with an annual verification.
-- Historical Coverage: Strong, consistent data from 2018–2022; pre-2018 legacy data is less reliable.
 - Key Limitations:
     - 3% of employees do not self-identify demographics, creating an “unknown” bucket.
     - Self-report and infrequent updates introduce some bias.
-    - Job levels and turnover definitions changed over time, requiring recoding for trend analysis.
-    - Very short-tenure employees (<1 week) may be missing.
-    - Diversity dimensions are limited to legally required categories (no LGBTQ+, disability, socioeconomic status, etc.).
 
 Data Source 2: LMS (Cornerstone)
 - Reliability Rating: Medium–High – Training completion and hours are tracked well; behavior change is not.
 - Collection & Updates: Automated tracking of enrollments, completions, scores, and hours; manager certifications via e-signature; 360 feedback for a subset of managers via CultureAmp. Data updates in real time; 360s are annual.
-- Historical Coverage: Solid from 2020–2022 (LMS implementation); 360s have only 2021–2022 history.
 - Key Limitations:
     - Captures completion, not competence; high completion rates don't automatically translate to behavior change.
     - 360 coverage is only 42% and skewed toward higher-performing or volunteer managers → selection bias.
-    - No objective behavioral observation; ratings are perception-based and vulnerable to social desirability.
-    - Training hours sometimes treat all hours as equal, regardless of program quality or intensity.
-    - Linking training to outcomes requires manual data merging and careful analysis.
-
-Data Source 3: Employee Engagement Survey (Qualtrics)
-- Reliability Rating: Medium–High – Well-validated instrument, but inherently perceptual and subject to response bias.
-- Collection & Updates: Annual census survey with anonymous responses, plus quarterly short pulse surveys. HRIS integration allows demographic cuts.
-- Historical Coverage: Comparable data from 2020–2022; earlier years used different items/vendor, limiting trend comparisons.
-- Key Limitations:
-    - 76% overall response rate, but slightly lower among diverse employees (72% vs. 79%) → potential nonresponse bias.
-    - Captures perceptions ("My manager values my input") rather than directly observed behavior.
-    - Social desirability may cause underreporting of negative experiences.
-    - Point-in-time snapshots miss intra-year swings.
-    - Minimum cell size rules prevent analysis of smaller teams.
-
-Data Integration
-- Cross-System Consistency: Good (~85% alignment). HRIS, finance, LMS, and survey data line up reasonably well after reconciliation. Most issues stem from timing lags, inconsistent coding of departments, and varying treatment of contractors/temps.
-- Data Definition Consistency: Moderate. Key definitions (e.g., "turnover," "manager," "training hours," performance rating scales) have changed over time. These changes are documented, but they complicate longitudinal comparisons and require careful recoding.
-- Temporal Alignment: Good for 2020–2022; weak before that. The most reliable and aligned dataset spans 2020–2022, when HRIS, LMS, survey, and financial systems were all stable and comparable. Analysis is therefore strongest in this 3-year window.
 
 Measurement Quality
-
 Validity
 - Face Validity: High. The metrics clearly map onto the diversity (X) → inclusion/training (M) → performance (Y) logic. Demographics and representation capture X; training and inclusive leadership scores capture M (with some gaps); and turnover, engagement, promotion rates, and revenue per employee capture Y.
 - Construct Validity: Medium–High.
@@ -53,9 +28,6 @@ Validity
     - Internal relationships behave as theory predicts:
         - More training → lower diverse employee turnover.
         - Higher inclusive behavior scores → higher team engagement.
-        - Higher engagement → lower turnover.
-        - High diversity + strong inclusion → better revenue and innovation metrics.
-    - These are correlations, not proof of causation, but they are consistent with the proposed model.
 
 Reliability
 - Objective Administrative Data: High reliability. HRIS, payroll, and LMS data are stable on re-query and subject to regular audits. Estimated error rates are below 2% for core fields.
@@ -104,38 +76,22 @@ Accuracy Assessment
 - Verification:
     - HRIS headcount reconciles with payroll and EEO-1 reports.
     - Turnover, revenue, and training data have been cross-checked against independent systems and external benchmarks.
-    - External financial audits increase confidence in the fiscal side of the analysis.
 - Error Rates (Estimated):
     - Objective HR and financial data: <2% error.
     - Semi-subjective metrics (360s, ratings): 5–10%.
-    - Survey-based metrics: 10–15% noise.
-    - Financial allocations and derived metrics: ~5–8%.
-- Impact:
-    - Error margins are too small to overturn the main story: diverse employees are experiencing significantly worse outcomes, and the financial impact is clearly material, even allowing for reasonable uncertainty ranges.
 
 Organizational Context Assessment
 Data Collection Environment & Culture
-
-Data Culture: Improving but still uneven. Financial data has long been treated as “mission-critical,” while people data only became a high priority after 2019. An HR analytics team now exists, and data quality is explicitly on the agenda.
-
 - Transparency & Politics: Leadership and the board have pushed for more honest visibility on diversity and inclusion–related outcomes. However, pockets of fear and defensiveness remain, particularly at the manager level, which can dampen full candor in surveys, exit interviews, and internal reporting.
 - Technology & Process Constraints:
     - Systems are modern but still somewhat siloed, so a lot of integration happens manually in tools like Excel/Tableau.
     - Data entry and process delays (e.g., late terminations, infrequent demographic updates) affect timeliness.
-    - Exit interviews and performance reviews are not fully standardized, creating variability in data quality.
-- Resource Constraints:
-    - The HR analytics function is small relative to the size of the organization.
-    - Analytical sophistication is concentrated in a few individuals; many managers and leaders can interpret simple dashboards but struggle with deeper analysis and limitations.
 
 Context-Specific Reliability
 
 Problem-Specific Assessment
 - Problem Detection: Very strong. Across multiple data sources, it is clear that the organization has successfully increased diversity in the workforce but has not matched that with inclusion and equitable outcomes. Diverse employees have higher turnover, slower promotions, and lower engagement than majority employees, and these gaps are sizable and consistent.
 - Problem Severity: Well-estimated, within a reasonable range. The annual estimated cost of the problem (~$20.3M, with a ±15% range) is directionally reliable even if the exact dollar figure is not perfect.
-- Ability to Measure Impact of Solutions: Good. The organization already has enough data infrastructure to:
-    - Track which managers receive inclusive leadership training,
-    - Monitor their behavior scores (if 360 coverage is expanded), and
-    - Follow their teams' turnover, engagement, and performance over time.
 
 Quality Ratings by Category
 
@@ -168,46 +124,10 @@ Overall Organizational Evidence Assessment
 Key Strengths
 - Clear, Converging Evidence of a Diversity-without-Inclusion Problem: Multiple independent data sources consistently show that diverse employees face worse outcomes in retention, advancement, and engagement, with real financial consequences.
 - Strong Support for the X → M → Y Model: Internal data supports the idea that diversity (X) only translates into performance (Y) when inclusive mechanisms (M) are present. Units that combine diversity with strong inclusive leadership training and behaviors perform better than diverse but low-inclusion units and even better than homogeneous teams.
-- Robust Financial Linkage and ROI Case: The cost of the problem is clearly large enough to justify investment, even allowing for reasonable error margins. The financial data is especially trustworthy.
-- Adequate Infrastructure to Evaluate Interventions: The organization is capable of running a serious pilot, tracking before/after outcomes, comparing to control groups, and learning what works.
 
 Main Limitations
 - Survivorship Bias: The current dataset underrepresents those who already left due to poor inclusion, likely understating both the human and financial cost.
 - Limited Historical Window: Most of the high-quality, comparable data is recent (past 3–5 years), so the organization cannot fully reconstruct the long-term trajectory of inclusion.
-- Weak Measurement of Mechanisms (M): Diversity (X) and outcomes (Y) are measured fairly well, but inclusion mechanisms (manager behaviors, psychological safety, sponsorship, etc.) are only partially captured.
-- Causal Ambiguity: Although the patterns are consistent with the proposed causal story, the evidence is still largely correlational. Stronger causal claims will require piloted interventions.
-- Context and Politics: Ongoing pressures to show progress, combined with pockets of fear of blame, may still slightly bias how people respond and how results are framed.
 
 Confidence Level
 - Overall confidence in using this data to justify action: Medium–High (~7.5/10).
-- The evidence is more than strong enough to justify:
-    - A significant pilot of inclusive leadership training (e.g., 50–100 managers),
-    - Measured over 18–24 months,
-    - With a rigorous evaluation design.
-- What the evidence is not strong enough for (yet) is a blind, organization-wide rollout with no testing or adjustment.
-
-Recommendations to Improve Data Quality and Use
-
-Strengthen Measurement of Manager Behaviors (M)
-- Expand 360 coverage to most or all managers.
-- Introduce simple, frequent pulse check questions focused on inclusion behaviors.
-- Build dashboards for managers that show key diversity and inclusion outcomes at the team level.
-
-Reduce Survivorship Bias
-- Reach out to former employees for follow-up surveys or interviews focused on reasons for leaving.
-- Compare internal patterns to external benchmarks and peer organizations to sanity-check estimates.
-
-Improve Timeliness with Leading Indicators
-- Add regular, short inclusion pulse surveys.
-- Track leading behavioral metrics (e.g., 1:1 frequency, participation levels, etc.).
-- Set up alerts for early warning signals (e.g., sudden spikes in turnover or engagement gaps).
-
-Upgrade Causal Inference for Interventions
-- Design the pilot with clear baselines, control groups, and a pre-agreed evaluation window.
-- Use more robust analytical approaches (difference-in-differences, matching, etc.) where possible.
-- If feasible, randomize training rollout (early vs. later cohorts).
-
-Tackle Cultural and Political Biases Around Data
-- Make it safe for leaders and managers to surface problems without being punished.
-- Consider involving an independent evaluator for the pilot.
-- Increase transparency to employees about both successes and gaps.
