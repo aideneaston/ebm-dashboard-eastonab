@@ -13,7 +13,6 @@ Assess solution feasibility by gathering data on:
 - Existing infrastructure and resources for training and accountability
 
 Available Data Sources
-
 Performance Metrics / KPIs
 - Financial Data (Y): Revenue per employee, department/team profitability, training/diversity program spend, turnover and recruitment costs.
 - Operational Data: Team productivity (output per FTE), project completion and quality, innovation indicators (ideas submitted/implemented), collaboration and cross-functional effectiveness.
@@ -22,10 +21,6 @@ Performance Metrics / KPIs
     - Turnover, engagement, promotion, and performance by demographics (Y)
     - Training completion and hours, especially for diversity/inclusion and leadership (M)
     - 360 feedback on inclusive behaviors (M)
-    - Time-to-promotion and internal mobility by demographics (Y)
-    - Compensation equity and other workforce health indicators (Y)
-- Customer Data (Y, Context): Customer satisfaction, especially by segment; retention and market share in diverse markets; where available, customer demographics and whether diverse, inclusive teams perform better with diverse clients.
-- Other Potential Metrics: Patent/publication counts, internal referrals by demographics, absenteeism and safety incidents (in relevant settings).
 
 Internal Systems
 - CRM: Customer demographics, satisfaction scores, retention, and sales performance by account or segment.
@@ -38,8 +33,6 @@ Reports and Documentation
 - Survey Results: Engagement and inclusion surveys, 360 manager feedback, pulse surveys, exit interviews.
 - Audits & Assessments: Pay equity audits, hiring/promotion process reviews, HR compliance audits, training evaluations, culture and organizational assessments.
 - Historical Studies: Earlier diversity initiatives, retention or turnover studies, benchmarking reports, prior internal analytics projects on team performance and composition.
-
-Data Collection Plan
 
 Quantitative Data Collection
 
@@ -73,51 +66,35 @@ Qualitative Data Collection
 Internal Documents Review
 - Policies & Processes: D&I, EEO, promotion, performance management, compensation, training requirements, and code of conduct.
 - Leadership & Governance: Executive and board meeting minutes referencing diversity/inclusion, town hall transcripts, ERG reports.
-- Communications & Feedback: Leadership messages about diversity, survey comments (especially from underrepresented groups), exit interview narratives, internal announcements about diversity programs and participation.
-- Historical Evaluations: Reports on prior D&I initiatives, culture surveys, consulting assessments, and lessons learned.
 
 Observational and Process Data
 - Decision Processes: Observe promotion, hiring, and calibration discussions (who speaks, whose input carries weight, how criteria are applied).
 - Workflows: How people actually get stretch roles, visibility, and sponsorship compared to formal processes.
-- Informal Networks & Communication: Who is looped into key conversations; access to leaders; patterns in meetings (who speaks, gets interrupted, or is credited for ideas).
-- Culture in Practice: Representation in visible spaces and events, recognition practices, observable micro-inclusions or microaggressions, comfort level of different groups in meetings and social spaces.
-
-Access and Permissions
 
 Data Access Strategy
-
 Required Permissions
 - Key Data Owners:
     - HR/CHRO (HRIS, surveys, performance, training)
     - Compensation and Finance 
     - Diversity/Compliance 
-    - L&D (training catalog and completions)
-    - Customer/Marketing/Insights (
 - Approvals & Process:
     - Submit clear data requests stating: what is needed, why (X→M→Y analysis), how privacy is protected, and how data will be stored and used.
     - Involve Legal/Privacy for demographic and sensitive data, and secure an executive sponsor (ideally the CHRO and/or CEO) to support access.
 - Privacy & Confidentiality:
     - Use de-identified, aggregated data; enforce minimum group sizes (e.g., 5–10 employees) for reporting.
     - De-identify qualitative data (comments, interviews).
-    - Agree in writing to use data only for internal analysis, with secure storage and defined retention/destruction practices.
 
 Contact Plan
 - CHRO / HR Director – anchor sponsor for HRIS, survey, performance, succession, and training data.
 - CFO / Finance Director – for team-level or unit-level financials and cost-of-turnover estimates.
 - Chief Diversity Officer / D&I Lead – for historical program context, ERG information, and prior analysis.
-- L&D Director – for training infrastructure, current offerings, capacity for inclusive leadership training.
-- IT / Analytics Team – for data extraction, integration, and tools support.
 
 Ethical Considerations
 - Protect employee privacy and confidentiality at all stages.
 - Follow organizational and legal data use policies strictly.
 - Limit data to what is actually needed to answer the X→M→Y questions.
-- Commit to aggregated reporting and avoid using demographic data in any way that could harm individuals or groups.
-- Anonymize the organization and individuals if any results are ever used outside the company or class setting.
 
-Data Analysis Plan
 Establishing Baselines
-
 X (Diversity):
       - Track diversity by level, function, and location over several years.
       - Identify when the organization reached current diversity levels and where representation drops (e.g., entry vs. leadership).
@@ -135,7 +112,6 @@ Benchmarking
 - Compare organizational diversity to:
     - Labor market availability (Census/industry data), and
     - Industry peer diversity (from public reports, where available).
-- Compare performance metrics (turnover, engagement, revenue per employee) with industry benchmarks and survey vendor norms.
 
 Analyzing the Problem
 
@@ -144,29 +120,21 @@ Look for patterns such as:
 - Rising or strong workforce diversity, but:
     - Persistent or widening engagement gaps for underrepresented groups,
     - Much lower representation at leadership levels,
-    - Higher turnover and slower promotions for diverse employees,
-    - No corresponding lift in innovation or financial outcomes.
 
 Indicators of Missing or Weak Mechanisms (M)
 - Low or uneven participation in inclusive leadership training.
 - Training that is mainly one-off awareness sessions with no behavior focus or follow-through.
-- Limited or no accountability for inclusion in performance or pay decisions.
-- Weak 360 scores or survey indicators on inclusion (psychological safety, voice, fairness).
 
 Quantifying Severity
 - Engagement gaps (points difference between majority and underrepresented groups).
 - Turnover ratios (diverse vs. majority turnover).
-- Promotion and time-to-promotion gaps.
-- Estimated cost of excess turnover and underperformance using standard cost-of-turnover ranges and revenue-per-employee gaps.
 
 Testing the X→M→Y Pathway
 Compare outcomes for:
 - Teams with high diversity + high inclusion training/behavior scores
 - Teams with high diversity + low inclusion metrics
-- More homogeneous teams
 
 Solution Feasibility Analysis
-
 Resources and Infrastructure
 - Budget: Current L&D and D&I spend; potential to reallocate or add investment for a pilot.
 - Systems: LMS, HRIS, performance systems, and analytics capabilities needed to track X, M, and Y.
@@ -175,33 +143,3 @@ Resources and Infrastructure
 Capability and Culture
 - Managers: Baseline leadership effectiveness and openness to D&I; span of control and workload; historical responsiveness to prior initiatives.
 - HR and D&I: Ability to interpret and act on data; credibility with the business; experience implementing change.
-- Culture: Trust in leadership, openness to feedback, track record with past change efforts, and appetite for data-driven decision-making.
-- Leadership Commitment: Evidence that executives and the board are willing to back a multi-year effort with real resources and accountability.
-
-Risk Assessment
-Identify and rate risks such as:
-- Manager and employee resistance or backlash
-- Budget or staffing constraints
-- Weak data quality in key areas 
-- Legal or compliance concerns
-- Lack of sustained leadership support
-
-Documentation Strategy
-
-Data Collection Log
-Maintain a simple tracking log for:
-- What was requested, from whom, when, and what was actually received
-- Coverage (time period, org units) and key quality notes
-- Any constraints or restrictions on use
-
-Analysis Log
-For each analysis step, document:
-- The question, data used, methods, assumptions, findings, and limitations
-- Enough detail that work can be replicated or revisited later
-
-Quality Assurance
-
-- Check data totals and basic logic (e.g., headcount consistency, rates within plausible ranges).
-- Investigate outliers and inconsistencies.
-- Where possible, have a second person (or your "future self") re-run key analyses or sanity-check results.
-- Triangulate numbers with qualitative findings and stakeholder feedback.
