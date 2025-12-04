@@ -1,9 +1,5 @@
 1. Overview of Stakeholder Engagement
 
-Across an 8-week period (Aug–Oct 2025), the organization gathered input from 217 unique stakeholders through surveys (n=163), interviews (n=54), and focus groups (n=54). This represents a 67% response rate and includes voices from senior leaders, mid-level managers, high performers, diverse employees, new managers, and departing employees. The data is methodologically strong: high participation, diverse representation, and triangulation across methods.
-
-Confidence in representativeness: HIGH.
-
 2. Problem Recognition & Lived Experience
 Broad Consensus: The Problem Is Real and Impactful
 - 87% of all respondents agree that diverse employees face inclusion barriers.
@@ -21,14 +17,6 @@ Diverse employees consistently report:
 - Being interrupted (71%)
 - Idea dismissal or theft (58%)
 - Exclusion from informal networks (64%)
-- Higher scrutiny and lower credit (61%)
-- Microaggressions (68%)
-
-Impact on outcomes:
-- 79% considering leaving
-- 68% disengaged
-- 43% reduced creativity
-- 71% emotional exhaustion
 
 These patterns closely align with the organizational evidence (27% diverse turnover) and the scientific evidence (diversity without inclusion → conflict, disengagement).
 
@@ -68,8 +56,6 @@ Stakeholders fear metrics could be:
 - subjective,
 - unfair,
 - weaponized,
-- or vulnerable to retaliation.
-- Stakeholders request behavioral rubrics + anonymous 360s + outcome data.
 
 3. Backlash or "reverse discrimination" narrative
 Some majority employees and skeptical managers express fear of:
@@ -81,36 +67,20 @@ Some majority employees and skeptical managers express fear of:
 Diverse employees and managers alike fear:
 - "another initiative that fizzles in 6 months."
 
-5. Retaliation Concerns
-
-47% of diverse employees fear retaliation for giving honest feedback.
-
-These concerns focus on implementation quality—not whether the organization should proceed.
-
 5. What Stakeholders Need for Successful Implementation
 Cross-Group Needs (broad consensus)
 - Executives go first and model behavior
 - Practical behavior skills, not ideology
 - Real accountability tied to performance reviews
-- Transparent metrics on turnover, engagement, equity
-- Sustained effort over 2–3 years
-- Psychological safety for managers and employees
-- Co-design with diverse employees to ensure authenticity
 
 Group-Specific Needs
 - Diverse Employees: safety from retaliation, authentic inclusion, data transparency
 - Managers: clarity, tools, psychological safety, proof it helps performance
-- New Managers: foundational management skills + inclusion
-- Senior Leaders: dashboards, clear accountability expectations, change-management framing
 
 6. Areas of Stakeholder Consensus and Divergence
 Where Stakeholders Agree (Strong Convergence)
 - The problem is real, systemic, and harmful.
 - The organization lacks inclusive leadership capabilities.
-- Training must focus on applied behaviors, not theory.
-- Leadership modeling and accountability are non-negotiable.
-- Metrics and transparency are essential to trust.
-- The initiative must be multi-year, not episodic.
 
 Where They Diverge (Predictable, Manageable Differences)
 - Speed vs. Thoroughness:
@@ -135,29 +105,3 @@ Limitations
 - Possible self-selection bias among highly affected employees
 - Small subset of resistant managers may under-report exclusion issues
 - No longitudinal stakeholder data yet (to capture change over time)
-
-Overall Confidence in Stakeholder Evidence: HIGH
-
-On a 0–10 B3 confidence scale → 8.5/10
-
-The evidence is rich, diverse, and internally consistent.
-Stakeholders broadly support the solution and articulate realistic implementation requirements.
-
-8. Integration With Other Evidence Streams
-
-Stakeholder evidence strongly reinforces:
-
-Scientific Evidence
-- Diversity without inclusion undermines performance
-- Inclusive leadership behaviors can be taught
-- Training alone fails unless paired with accountability
-
-Organizational Evidence
-- Data shows 27% diverse turnover (vs. 16% majority)
-- High-performing managers demonstrate strong inclusion behaviors
-- Internal patterns mirror scientific X→M→Y pathways
-
-Practitioner Evidence
-- Industry best practices emphasize behavior training + accountability
-- Executive sponsorship is essential for culture interventions
-- Sustained reinforcement is required for behavior change
