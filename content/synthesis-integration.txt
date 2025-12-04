@@ -1,249 +1,157 @@
-# Evidence Integration & Synthesis
-# Bringing together all four types of evidence to inform your decision
+Scientific Evidence
 
-## Evidence Summary by Type
+Finding 1: Diversity without inclusion decreases performance
+- Strong meta-analytic support (10k+ teams; 31-year longitudinal evidence)
+- Diverse teams underperform homogeneous teams by 8–15% in low-inclusion climates
+- Matches internal turnover (27% vs. 16%)
+- Certainty: High
 
-### Scientific Evidence Summary
-**Key Finding 1:** [Main research conclusion relevant to your problem]
-- **Source Quality:** [High/Medium/Low]
-- **Relevance to Context:** [How well this applies to your specific situation]
-- **Certainty Level:** [How confident you are in this finding]
+Finding 2: Training + accountability works; training alone does not
+- Training alone: d ≈ 0.08
+- Training + accountability / 40–60 hour behavior-focused programs: d ≈ 0.38–0.52, with 12–19% performance gains and 35–42% turnover reduction
+- Certainty: High
 
-**Key Finding 2:** [Second most important research conclusion]
-- **Source Quality:** [High/Medium/Low]  
-- **Relevance to Context:** [How well this applies to your specific situation]
-- **Certainty Level:** [How confident you are in this finding]
+Finding 3: Inclusion climate mediates the diversity → outcomes link
+- Low inclusion: r ≈ –0.18; High inclusion: r ≈ +0.23 (0.41 swing)
+- Certainty: High
 
-**Key Finding 3:** [Third most important research conclusion]
-- **Source Quality:** [High/Medium/Low]
-- **Relevance to Context:** [How well this applies to your specific situation]  
-- **Certainty Level:** [How confident you are in this finding]
+Overall Scientific Strength: HIGH
 
-**Overall Scientific Evidence Strength:** [High/Medium/Low/Insufficient]
+Practitioner Evidence
 
-### Practitioner Evidence Summary
-**Key Insight 1:** [Main lesson from practitioner experience]
-- **Source Credibility:** [How trustworthy the practitioner source is]
-- **Context Similarity:** [How similar their situation is to yours]
-- **Implementation Detail:** [How much you know about how they did it]
+Insight 1: Manager behavior is the mechanism through which diversity becomes performance
+- Validated in Intel, J&J, Salesforce
+- All use 40–60 hour behavioral programs + accountability + bias interrupters
 
-**Key Insight 2:** [Second most important practitioner lesson]
-- **Source Credibility:** [How trustworthy the practitioner source is]
-- **Context Similarity:** [How similar their situation is to yours]
-- **Implementation Detail:** [How much you know about how they did it]
+Insight 2: ROI ranges from 2.5:1 to 6.5:1
+- Savings from reduced turnover + increased innovation/output
+- Results appear in 6–18 months
 
-**Key Insight 3:** [Third most important practitioner lesson]
-- **Source Credibility:** [How trustworthy the practitioner source is]
-- **Context Similarity:** [How similar their situation is to yours]
-- **Implementation Detail:** [How much you know about how they did it]
+Insight 3: Structural bias interrupters are mandatory
+- Standardized interviews, rubric-based evaluations, transparent assignment processes
 
-**Overall Practitioner Evidence Strength:** [High/Medium/Low/Insufficient]
+Overall Practitioner Strength: HIGH
 
-### Organizational Evidence Summary
-**Key Data Point 1:** [Most important organizational fact/metric]
-- **Data Quality:** [How reliable and accurate this data is]
-- **Trend Direction:** [Whether this suggests problem is getting better/worse/stable]
-- **Decision Relevance:** [How directly this informs your decision]
+Organizational Evidence
 
-**Key Data Point 2:** [Second most important organizational fact/metric]
-- **Data Quality:** [How reliable and accurate this data is]
-- **Trend Direction:** [Whether this suggests problem is getting better/worse/stable]
-- **Decision Relevance:** [How directly this informs your decision]
+Data Point 1: Diverse turnover is 69% higher (27% vs. 16%)
+- Units with high inclusion training: 15.2% turnover vs. 23.8% in low-training units
 
-**Key Data Point 3:** [Third most important organizational fact/metric]
-- **Data Quality:** [How reliable and accurate this data is]
-- **Trend Direction:** [Whether this suggests problem is getting better/worse/stable]
-- **Decision Relevance:** [How directly this informs your decision]
+Data Point 2: 12-point engagement gap (56% vs. 68%)
+- "Ideas valued" gap: 19 points
+- "Authenticity" gap: 25 points
+- Exit interviews: belonging & fair evaluation are primary themes
 
-**Overall Organizational Evidence Strength:** [High/Medium/Low/Insufficient]
+Data Point 3: Total annual cost: $26.2M
+- Turnover + disengagement + lost team performance
 
-### Stakeholder Evidence Summary
-**Key Stakeholder Insight 1:** [Most important stakeholder perspective]
-- **Representative Level:** [How well this represents broader stakeholder views]
-- **Bias Assessment:** [Potential biases in this perspective]
-- **Implementation Implication:** [What this means for how you implement]
+Overall Organizational Strength: HIGH
 
-**Key Stakeholder Insight 2:** [Second most important stakeholder perspective] 
-- **Representative Level:** [How well this represents broader stakeholder views]
-- **Bias Assessment:** [Potential biases in this perspective]
-- **Implementation Implication:** [What this means for how you implement]
+Stakeholder Evidence
 
-**Key Stakeholder Insight 3:** [Third most important stakeholder perspective]
-- **Representative Level:** [How well this represents broader stakeholder views]
-- **Bias Assessment:** [Potential biases in this perspective] 
-- **Implementation Implication:** [What this means for how you implement]
+Insight 1: 86% support for 40–60 hour inclusive leadership training
+- Broad representation across roles
+- Some time-burden concerns; overall support remains high
 
-**Overall Stakeholder Evidence Strength:** [High/Medium/Low/Insufficient]
+Insight 2: Diverse employees report chronic exclusion
+- 62% weekly exclusion; 71% interruptions; 58% dismissed ideas; 79% considering leaving
+- Managers overestimate inclusion (self-rating 4.2 vs. 3.1 from 360s)
 
-## Cross-Evidence Analysis
+Insight 3: Divergence on pace, not direction
+- Diverse employees want faster change; managers want preparation time
+- Framing as leadership development reduces resistance
 
-### Convergent Findings (Where Evidence Types Agree)
+Overall Stakeholder Strength: HIGH
 
-#### Strong Convergence
-**Finding:** [What multiple evidence types consistently support]
-**Supporting Evidence Types:** [Which types of evidence support this]
-**Confidence Level:** [High/Medium/Low] - [Why you're confident in this]
-**Implication:** [What this convergent finding means for your decision]
+Cross-Evidence Analysis
 
-#### Moderate Convergence  
-**Finding:** [What some evidence types support with some variation]
-**Supporting Evidence Types:** [Which types of evidence support this]
-**Variation Notes:** [How the evidence types differ slightly in their conclusions]
-**Implication:** [What this means for your decision]
+Strong Convergence (All four evidence types agree)
+- Finding: Diversity without inclusion harms outcomes; inclusion flips effects positive
+- Consistent effect sizes: turnover +23–27%, engagement gaps 10–19 points
+- Confidence: VERY HIGH
 
-### Divergent Findings (Where Evidence Types Disagree)
+Timeline convergence
+- Results begin 6–12 months; full effects by 12–24 months
+- Implications: Set realistic expectations and communicate multi-year commitment
 
-#### Major Divergence
-**Issue:** [What the evidence types disagree about]
-**Scientific Evidence Says:** [What research suggests]
-**Practitioner Evidence Says:** [What practitioners report]
-**Organizational Evidence Says:** [What your data shows]
-**Stakeholder Evidence Says:** [What stakeholders believe]
+Divergent Findings
 
-**Possible Explanations for Disagreement:**
-- Context differences: [How different contexts might explain the disagreement]
-- Timing factors: [How when evidence was collected might matter]
-- Bias influences: [How biases might create apparent disagreements]
-- Quality differences: [How evidence quality might explain disagreements]
+Major Divergence: Optimal program dosage
+- Science: 40+ hours required
+- Practitioners: 40–60 hours over 6 months + reinforcement
+- Organization: Short training failed; 40-hour leadership training succeeded
+- Stakeholders: Support long duration if spread over time
 
-**Resolution Approach:** [How you'll handle this disagreement in your decision]
+Resolution
+- Adopt 40–60 hour core, spread over 6 months, with quarterly reinforcement
 
-#### Minor Divergence
-**Issue:** [What the evidence types disagree about - less critical]
-**Resolution Approach:** [How you'll handle this disagreement]
+Minor Divergence: DEI framing vs. leadership framing
+- Mandatory "fix your bias" training backfires
+- Leadership framing increases engagement and reduces defensiveness
 
-### Evidence Gaps
+Resolution
+- Frame as Inclusive Leadership Development, not DEI compliance
 
-#### Critical Gaps
-**Gap 1:** [Important question none of your evidence answers well]
-- **Impact on Decision:** [How this gap affects your ability to decide]
-- **Mitigation Strategy:** [How you'll proceed despite this gap]
+Evidence Gaps
 
-**Gap 2:** [Second important question with insufficient evidence]
-- **Impact on Decision:** [How this gap affects your ability to decide]
-- **Mitigation Strategy:** [How you'll proceed despite this gap]
+- Intersectional impacts not yet measured (e.g., outcomes for Black women vs. Asian men)
+- Alternative turnover causes (compensation, advancement opportunities) not fully controlled
+- Long-term sustainment (>24 months) uncertain
 
-#### Minor Gaps
-**Gap:** [Less critical question with insufficient evidence]
-**Mitigation Strategy:** [How you'll handle this]
+Mitigation
+- Disaggregate future data, use listening sessions, track psychological safety, and build a 3–5 year measurement plan
 
-## Evidence-Based Problem Refinement
+Evidence-Based Problem Refinement
 
-### Original Problem Statement
-[Your original problem definition]
+Refined Problem Statement
+- The organization has diversity but lacks inclusion mechanisms. Diverse employees face significantly higher turnover (27% vs. 16%), lower engagement (–12 points), and slower promotions. Awareness-only bias training has failed because it does not change manager behavior or address structural inequities. The problem is not diversity itself but the absence of inclusive leadership practices, accountability, and system-level bias interrupters needed to convert diversity into performance.
 
-### Evidence-Refined Problem Statement  
-[How your understanding of the problem has changed based on all the evidence]
+Evidence-Informed Solution Design
 
-**Key Refinements:**
-- **Scope Changes:** [How evidence changed your understanding of problem scope]
-- **Root Cause Updates:** [How evidence changed your understanding of causes]
-- **Impact Reassessment:** [How evidence changed your understanding of problem impact]
-- **Stakeholder Effects:** [How evidence revealed different stakeholder impacts than expected]
+Core Solution Components
+- 40–60 hour inclusive leadership program over 6 months
+- Behavior-focused training with deliberate practice
+- Mandatory accountability systems (evaluation rubrics, bias interrupters, tracking)
+- Quarterly reinforcement sessions
+- Leadership framing (performance + innovation), not DEI compliance
 
-## Evidence-Based Solution Development
+Key Contributions by Evidence Type
+- Scientific: Dosage threshold; behavior > awareness; need for accountability; inclusion climate pathway
+- Practitioners: Implementation blueprint; ROI; timeline realism
+- Organizational: Strong alignment with internal turnover/performance patterns; business case ($26.2M)
+- Stakeholders: High feasibility & support; legitimacy; specific behavior change targets
 
-### Original Solution Concept
-[Your initial solution idea]
+Integrated Evidence Assessment
 
-### Evidence-Informed Solution Design
-[How your solution has evolved based on evidence]
+Confidence Levels
+- Problem Definition: High
+- Solution Design: High
+- Implementation Approach: Medium-High
+- Outcome Prediction: Medium-High (context may shift magnitude)
 
-**Scientific Evidence Contributions:**
-- **Design Elements:** [What research suggests should be included in solution]
-- **Implementation Approaches:** [What research says about how to implement]
-- **Success Factors:** [What research identifies as crucial for success]
+Key Risks & Mitigations
+- Backlash: Mitigate with leadership framing + voluntary pilot
+- Training without accountability: Implement interrupters + track metrics
+- Premature abandonment: Set 6–18 month expectations; celebrate early leading indicators
+- Intersectional differences: Disaggregate data and adapt over time
 
-**Practitioner Evidence Contributions:**
-- **Practical Modifications:** [How practitioner experience suggests modifying your approach]
-- **Implementation Lessons:** [What practitioners learned about implementation]
-- **Avoiding Pitfalls:** [What practitioners say not to do]
+Recommendations
 
-**Organizational Evidence Contributions:**  
-- **Resource Requirements:** [What organizational data suggests about resource needs]
-- **Timing Considerations:** [What organizational data suggests about timing]
-- **Readiness Assessment:** [Whether organizational data suggests readiness for solution]
+1. Implement a 40–60 hour Inclusive Leadership Development Program with accountability
+    - Supported by all evidence types
+    - Expected ROI 2.5:1–6.5:1
 
-**Stakeholder Evidence Contributions:**
-- **Stakeholder Support Elements:** [What needs to be included to maintain stakeholder support]
-- **Resistance Management:** [How to address stakeholder concerns and resistance]
-- **Communication Needs:** [What stakeholders need to know and when]
+2. Begin with a voluntary pilot cohort, then scale
+    - Reduces resistance
+    - Produces local success stories
 
-## Integrated Evidence Assessment
+3. Install bias interrupters across hiring, promotion, and assignments with transparent tracking
+    - Necessary for training effectiveness (turns d ≈ 0.08 into d ≈ 0.42)
+    - Addresses core organizational pain points
 
-### Overall Evidence Quality
+Evidence Limitations & Monitoring Priorities
 
-#### Evidence Strength by Decision Component
-**Problem Definition:** [How well all evidence supports your problem understanding]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports problem definition]
-- Evidence Quality: [High/Medium/Low]
-
-**Solution Design:** [How well all evidence supports your solution approach]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports solution design]
-- Evidence Quality: [High/Medium/Low]
-
-**Implementation Approach:** [How well all evidence supports your implementation plan]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports implementation approach]
-- Evidence Quality: [High/Medium/Low]
-
-**Success Prediction:** [How well all evidence supports predictions about success]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports success predictions]
-- Evidence Quality: [High/Medium/Low]
-
-#### Evidence-Based Confidence Assessment
-**Overall Confidence in Decision:** [High/Medium/Low]
-
-**High Confidence Areas:** [Decision aspects where evidence is strong and convergent]
-**Medium Confidence Areas:** [Decision aspects where evidence is moderate or somewhat mixed]
-**Low Confidence Areas:** [Decision aspects where evidence is weak or highly divergent]
-
-### Risk Assessment Based on Evidence
-
-#### Risks with Strong Evidence Support
-**Risk 1:** [Risk that multiple evidence types consistently identify]
-- **Likelihood:** [High/Medium/Low based on evidence]
-- **Impact:** [High/Medium/Low based on evidence]
-- **Mitigation Strategy:** [How you'll address this evidence-supported risk]
-
-#### Risks with Weak Evidence Support
-**Risk:** [Risk that only one type of evidence suggests or that evidence is mixed on]
-- **Evidence Uncertainty:** [Why evidence doesn't clearly support this risk]
-- **Approach:** [How you'll handle this uncertain risk]
-
-## Evidence-Based Recommendations
-
-### Recommendation 1: [Primary recommendation based on integrated evidence]
-**Supporting Evidence Types:** [Which evidence types support this recommendation]
-**Confidence Level:** [High/Medium/Low]
-**Implementation Priority:** [High/Medium/Low]
-
-**Evidence Basis:**
-- **Scientific Support:** [How research supports this recommendation]
-- **Practitioner Support:** [How practitioner experience supports this recommendation]  
-- **Organizational Support:** [How organizational data supports this recommendation]
-- **Stakeholder Support:** [How stakeholder input supports this recommendation]
-
-### Recommendation 2: [Second recommendation based on integrated evidence]
-[Follow same structure as Recommendation 1]
-
-### Recommendation 3: [Third recommendation based on integrated evidence]
-[Follow same structure as Recommendation 1]
-
-## Evidence Limitations and Uncertainties
-
-### Key Limitations Affecting Recommendations
-[The most important limitations in your evidence base that affect your recommendations]
-
-### Uncertainties Requiring Monitoring
-[Things you'll need to track during implementation because evidence is uncertain]
-
-### Future Evidence Needs
-[Additional evidence you should collect during or after implementation]
-
----
-INSTRUCTIONS:
-1. Look for patterns where different evidence types support similar conclusions
-2. Pay special attention to disagreements between evidence types
-3. Use evidence integration to refine both your problem understanding and solution design
-4. Be honest about where evidence is strong vs. weak
-5. Make recommendations that are proportional to the strength of supporting evidence
+- Track outcomes by race × gender × identity
+- Measure retention, engagement, and psychological safety quarterly
+- Conduct 6-, 12-, 18-month reviews
+- Document long-term sustainment across 3–5 years
