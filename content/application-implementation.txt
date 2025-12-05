@@ -37,9 +37,6 @@ Outcomes (12–24 months)
 - Promotion parity within 5–10%
 - 12–19% performance lift in diverse teams
 
-Impact
-- Diversity shifts from liability to competitive advantage; ~$10M+ annual savings; stronger innovation pipeline; improved employer brand
-
 Implementation Phases
 
 Phase 1: Preparation (Months 1–2)
@@ -132,9 +129,6 @@ Diverse Employees
 - Disaggregated data shared transparently
 - Emphasis on psychological safety + anti-retaliation
 
-HR & People Analytics
-- Facilitate interrupters, maintain dashboards, deliver 360 cycles, perform evaluations
-
 Key Performance Indicators
 
 Leading Indicators (0–6 months)
@@ -155,42 +149,3 @@ Long-Term Indicators (12–24 months)
 - Promotion parity (within 5–10%)
 - Performance gains in diverse teams (12–19%)
 - ROI 2.5:1–6.5:1
-
-Risk Management
-
-Risk 1: Premature abandonment
-- Mitigation: upfront timeline communication, early wins, CEO reinforcement, quarterly reporting
-
-Risk 2: Training without accountability
-- Mitigation: mandatory interrupters, transparent dashboard, attach behaviors to performance reviews
-
-Risk 3: Backlash / perceptions of "reverse discrimination"
-- Mitigation: leadership framing, voluntary pilot, equitable—not preferential—treatment emphasized
-
-Risk 4: Retaliation
-- Mitigation: anonymous reporting, zero-tolerance policy, HR monitoring, confidential 360s
-
-Communication Plan
-
-- Month 1: CEO announces ILDP with business case + data
-- Monthly: Updates on progress and early signals
-- Quarterly: All-staff town halls; dashboard review
-- Pilot: Real stories from managers and diverse employees
-- 12 & 18 months: Formal evaluations shared transparently
-
-Sustainability Plan
-
-Institutionalization
-- IL behaviors embedded in performance reviews, leadership competency models, new manager onboarding
-- Internal facilitators replace external consultants by Month 18+
-- Dashboard continues as a leadership reporting tool
-
-Continuous Improvement
-- Annual curriculum updates
-- Semiannual intersectional analysis
-- Quarterly review of interrupter effectiveness
-- Regular listening sessions
-
-Resource Needs (ongoing)
-- ~$175k annually (primarily internal facilitation + analytics)
-- Funded through demonstrated savings ($9M–$18M/year improvement once turnover reduces)
