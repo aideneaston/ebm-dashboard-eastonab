@@ -1,309 +1,153 @@
-# Assessment: Monitoring & Evaluation Plan
-# Systematic approach to measuring implementation success and organizational impact
-
-## Evaluation Framework Overview
-
-### Evaluation Questions
-**Primary Evaluation Question:** [Main question about whether your solution worked]
-
-**Secondary Evaluation Questions:**
-1. [Second most important question about effectiveness]
-2. [Third most important question about implementation process]
-3. [Fourth question about stakeholder satisfaction]
-4. [Fifth question about unintended consequences]
-
-### Evaluation Approach
-**Evaluation Type:** [Formative (during implementation) and/or Summative (after completion)]
-**Evaluation Design:** [Before-and-after comparison, with-and-without comparison, case study, etc.]
-**Mixed Methods Approach:** [How you'll combine quantitative and qualitative data]
-
-## Key Performance Indicators (KPIs)
-
-### Outcome KPIs (What Changed)
-
-#### Primary Outcome KPI
-**KPI:** [Most important measure of whether your solution worked]
-- **Current Baseline:** [Where you're starting from]
-- **Target:** [What you want to achieve]
-- **Timeline:** [When you expect to see this change]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll gather this data]
-- **Measurement Frequency:** [How often you'll measure this]
-
-#### Secondary Outcome KPIs
-**KPI 1:** [Second most important outcome measure]
-- **Current Baseline:** [Starting point]
-- **Target:** [Goal]
-- **Timeline:** [Expected timeframe]
-- **Data Source & Method:** [How you'll measure]
-
-**KPI 2:** [Third most important outcome measure]
-[Follow same structure]
-
-**KPI 3:** [Fourth most important outcome measure]
-[Follow same structure]
-
-### Process KPIs (How Implementation Went)
-
-#### Implementation Quality KPIs
-**KPI:** [Measure of how well you implemented the solution]
-- **Target:** [What good implementation looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
-- **Measurement Frequency:** [How often you'll measure]
-
-**KPI:** [Second measure of implementation quality]
-[Follow same structure]
-
-#### Stakeholder Engagement KPIs
-**KPI:** [Measure of stakeholder participation/satisfaction]
-- **Target:** [What good stakeholder engagement looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
-
-#### Resource Utilization KPIs
-**KPI:** [Measure of whether you used resources efficiently]
-- **Target:** [What efficient resource use looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
-
-### Impact KPIs (Broader Organizational Effects)
-
-#### Organizational Performance KPIs
-**KPI:** [Measure of broader organizational improvement]
-- **Current Baseline:** [Starting point]
-- **Target:** [Expected improvement]
-- **Timeline:** [When you expect to see this]
-- **Data Source & Method:** [How you'll measure]
-
-#### Cultural/Climate KPIs
-**KPI:** [Measure of organizational culture/climate changes]
-[Follow same structure]
-
-## Data Collection Plan
-
-### Quantitative Data Collection
-
-#### Organizational Data
-**Data Type 1:** [First type of organizational data you'll collect]
-- **Source:** [Where this data comes from]
-- **Collection Frequency:** [How often you'll collect it]
-- **Collection Method:** [How you'll extract/gather it]
-- **Analysis Plan:** [How you'll analyze this data]
+1. Core Evaluation Questions
 
-**Data Type 2:** [Second type of organizational data]
-[Follow same structure]
+- Is ILDP reducing diverse employee turnover by the predicted 35–42%?
+    - Baseline: 27% → Target: 16–18%
 
-#### Survey Data
-**Survey 1: Stakeholder Satisfaction Survey**
-- **Target Population:** [Who will take this survey]
-- **Sample Size Goal:** [How many responses you want]
-- **Timing:** [When you'll conduct survey - before, during, after implementation]
-- **Key Questions:** [Most important questions on the survey]
-- **Administration Method:** [How you'll distribute and collect the survey]
+- Are engagement and promotion inequities closing?
+    - Engagement gap (12 pts) → ≤4 pts; promotion gap (35% slower) → ≤10% slower
 
-**Survey 2:** [Second survey, if conducting multiple]
-[Follow same structure]
+- Are inclusive leadership behaviors improving at scale?
+    - 360 ratings: 3.1 baseline → 3.8+ target
 
-### Qualitative Data Collection
+- Are accountability mechanisms implemented with fidelity?
+    - 100% bias interrupter usage + full demographic tracking
 
-#### Interview Data
-**Interview Type 1: Implementation Experience Interviews**
-- **Target Participants:** [Who you'll interview]
-- **Number of Interviews:** [How many interviews you plan]
-- **Timing:** [When you'll conduct interviews]
-- **Key Topics:** [Main questions you'll explore]
-- **Interview Method:** [In-person, phone, video, etc.]
+- Is the initiative delivering expected ROI (2.5:1–6.5:1)?
 
-**Interview Type 2:** [Second type of interviews]
-[Follow same structure]
+- Do stakeholders maintain confidence, and is inclusion authentically improving?
 
-#### Focus Group Data
-**Focus Group:** [Topic/purpose of focus group]
-- **Participants:** [Who will participate]
-- **Timing:** [When you'll conduct focus group]
-- **Key Questions:** [Main topics you'll explore]
+2. Success Metrics Dashboard (Executive Summary)
 
-#### Observation Data
-**What You'll Observe:** [Behaviors, processes, interactions you'll observe]
-- **Observation Settings:** [Where you'll observe]
-- **Observation Schedule:** [When and how often you'll observe]
-- **Documentation Method:** [How you'll record observations]
+Primary Outcome KPIs:
 
-### Document Review
-**Document Type 1:** [First type of documents you'll review]
-- **Purpose:** [What these documents will tell you]
-- **Collection Method:** [How you'll access these documents]
+- Diverse turnover: Baseline 27% → Target 16–18% (18–24 months)
+- Engagement gap: Baseline 12 pts → Target ≤4 pts (18–24 months)
+- Promotion equity: Baseline 35% slower → Target ≤10% slower (18–24 months)
+- 360 leadership behaviors: Baseline 3.1 → Target 3.8+ (12–18 months)
+- ROI: Target ≥2.5:1 (18–24 months)
 
-**Document Type 2:** [Second type of documents]
-[Follow same structure]
+Process KPIs:
 
-## Evaluation Timeline
+- 85%+ training completion
+- 90%+ quarterly reinforcement attendance
+- 100% bias interrupter usage in hiring/promotion
+- Stakeholder support ≥80%
+- Zero retaliation incidents
 
-### Pre-Implementation Data Collection [Baseline Period]
-**Timeline:** [When you'll collect baseline data]
+3. Evaluation Design
 
-**Activities:**
-- [ ] [First baseline data collection activity]
-- [ ] [Second baseline data collection activity]
-- [ ] [Third baseline data collection activity]
+Approach:
 
-### During Implementation Monitoring
-**Timeline:** [When you'll collect monitoring data during implementation]
+- Mixed-method, before-after, and multi-cohort evaluation using:
+    - HRIS trend analysis (monthly)
+    - Annual engagement surveys + 6-month pulse surveys
+    - 360-degree feedback at baseline, 6, and 12 months
+    - Bias interrupter adoption logs
+    - Listening sessions with diverse employees (Months 6, 13, 18)
+    - Manager interviews (Month 12)
+    - Financial ROI modeling (Months 12, 18, 24)
 
-**Month 1 Activities:**
-- [ ] [First month monitoring activities]
+Why it works:
 
-**Month 2 Activities:**
-- [ ] [Second month monitoring activities]
+- This design directly tests whether the training → behavior change → talent outcomes pathway operates as predicted by scientific evidence
 
-**Quarterly Activities:**
-- [ ] [Quarterly monitoring activities]
+4. Timeline for Executive Decision Points
 
-### Post-Implementation Evaluation
-**Timeline:** [When you'll conduct final evaluation]
+Month 6 – Early Pilot Readout:
 
-**Immediate Post-Implementation (0-1 month after):**
-- [ ] [Immediate follow-up data collection]
+- Executives see:
+    - Behavior change emerging (360s + observations)
+    - Bias interrupter compliance
+    - Early turnover and engagement trends
+    - Stakeholder confidence score
+- Decision: Proceed to full rollout? Adjust curriculum? Strengthen accountability?
 
-**Short-term Follow-up (3-6 months after):**
-- [ ] [Short-term follow-up activities]
+Month 12 – Critical Go/No-Go Evaluation:
 
-**Long-term Follow-up (12+ months after):**
-- [ ] [Long-term follow-up activities]
+- Executives receive:
+    - Turnover trajectory (≥10% reduction required to stay on track)
+    - 360 improvement (≥25–30%)
+    - Engagement/promotion movement
+    - ROI early estimate (≥1.5:1)
+    - Support levels (≥80%)
+- Decision: Continue / Modify / Pause
 
-## Data Analysis Plan
+Month 18 – Performance Impact Window:
 
-### Quantitative Analysis
+- Executives receive:
+    - Turnover reduction approaching target
+    - Promotion equity trending toward parity
+    - Inclusion climate improvements
+    - ROI estimate trending ≥2.5:1
+- Decision: Institutionalize ILDP? Scale to new managers? Adjust reinforcement cadence?
 
-#### Outcome Analysis
-**Primary Outcome Analysis:** [How you'll analyze your main success measure]
-- **Statistical Approach:** [What statistical methods you'll use]
-- **Comparison Strategy:** [Before vs. after, treatment vs. control, etc.]
-- **Significance Criteria:** [What counts as meaningful change]
+Month 24 – Final Summative Evaluation:
 
-**Secondary Outcome Analysis:** [How you'll analyze other outcome measures]
-[Follow same structure]
+- Comprehensive outcome review
+- ROI confirmation
+- Long-term sustainability plan
+- Recommendations for Years 3–5
+- Decision: Embed ILDP into core leadership model
 
-#### Trend Analysis
-**How You'll Examine Trends Over Time:** [Method for analyzing changes over time]
-**Patterns You'll Look For:** [What kinds of trends would be meaningful]
+5. Executive-Facing Success Thresholds
 
-### Qualitative Analysis
+Must-Achieve (Program success depends on these):
 
-#### Thematic Analysis
-**Interview Analysis Approach:** [How you'll analyze interview data]
-**Coding Strategy:** [How you'll organize and categorize qualitative data]
-**Theme Identification:** [How you'll identify key themes]
+- 35–42% turnover reduction (primary ROI driver)
+- ROI ≥2.5:1 by Month 24
+- No retaliation incidents
+- Stakeholder confidence ≥80%
 
-#### Content Analysis
-**Document Analysis Approach:** [How you'll analyze documents]
-**Observation Analysis:** [How you'll analyze observational data]
+Should-Achieve:
 
-### Mixed Methods Integration
-**How You'll Combine Quantitative and Qualitative Findings:** [Strategy for integrating different types of data]
-**Triangulation Approach:** [How you'll use multiple data sources to validate findings]
+- Engagement gap closes by ≥60%
+- Promotion equity gap cut in half
+- 360 behaviors rise to ≥3.7
 
-## Success Criteria and Interpretation
+Could-Achieve (strategic upside):
 
-### Success Thresholds
+- Revenue-per-FTE gap narrows significantly
+- Psychological safety reaches high-performing team norms
+- Inclusion becomes normalized cultural behavior
 
-#### Must-Achieve Criteria (Implementation considered successful only if these are met)
-**Criterion 1:** [First essential success criterion]
-- **Measurement:** [How you'll measure this]
-- **Threshold:** [Specific level that must be achieved]
+6. Reporting to Executives
 
-**Criterion 2:** [Second essential success criterion]
-[Follow same structure]
+Monthly Dashboard:
 
-#### Should-Achieve Criteria (Important for full success but not make-or-break)
-**Criterion 1:** [First important success criterion]
-- **Measurement:** [How you'll measure this]
-- **Target:** [Desired level of achievement]
+- Turnover trendline
+- Bias interrupter usage
+- Training completion
+- Reinforcement attendance
+- Budget status
 
-**Criterion 2:** [Second important success criterion]
-[Follow same structure]
+Quarterly Executive Review:
 
-#### Could-Achieve Criteria (Nice-to-have outcomes)
-**Criterion 1:** [First nice-to-have success criterion]
-[Follow same structure]
+- Updated KPI dashboard
+- Early ROI projections
+- Qualitative insights (listening sessions, interviews)
+- Risk indicators (backlash, support decline, fidelity issues)
 
-### Interpretation Framework
+12- & 24-Month Comprehensive Reports:
 
-#### Strong Success Indicators
-[What combination of results would indicate strong success]
+- Full organizational impact (turnover, engagement, promotions, performance)
+- ROI calculations
+- Intersectional analysis
+- Recommendations for continuation and scaling
 
-#### Moderate Success Indicators
-[What combination of results would indicate moderate success]
+7. Risks Monitored at the Executive Level
 
-#### Weak Success or Failure Indicators
-[What combination of results would indicate the solution didn't work well]
+- Premature abandonment:
+    - Executive Signal: Leaders question ROI before Month 12
+    - Mitigation: Reinforce evidence timeline + show leading indicators
 
-#### Unintended Consequences Assessment
-**Positive Unintended Consequences:** [Good things that might happen that you didn't plan for]
-**Negative Unintended Consequences:** [Problems that might arise that you need to watch for]
-**Monitoring Strategy:** [How you'll detect unintended consequences]
+- Training without accountability:
+    - Executive Signal: Bias interrupter usage <80%
+    - Mitigation: Link usage to performance reviews
 
-## Stakeholder Feedback Integration
+- Backlash:
+    - Executive Signal: Majority employee engagement declines
+    - Mitigation: Reframe ILDP as performance initiative
 
-### Feedback Collection Strategy
-
-#### Formal Feedback Mechanisms
-**Mechanism 1:** [First formal way stakeholders can provide feedback]
-- **Frequency:** [How often this feedback is collected]
-- **Participants:** [Who provides this feedback]
-- **Process:** [How feedback is collected and processed]
-
-**Mechanism 2:** [Second formal feedback mechanism]
-[Follow same structure]
-
-#### Informal Feedback Mechanisms  
-**Mechanism:** [How you'll capture informal feedback]
-**Documentation:** [How you'll record and use informal feedback]
-
-### Feedback Integration Process
-**How You'll Incorporate Stakeholder Feedback:** [Process for using feedback to improve implementation]
-**Decision-Making Process:** [How feedback will influence decisions about continuing/modifying the solution]
-
-## Evaluation Reporting
-
-### Reporting Schedule
-**Monthly Reports:** [What you'll include in monthly progress reports]
-**Quarterly Reports:** [What you'll include in quarterly reports]
-**Annual Report:** [What you'll include in comprehensive annual evaluation]
-
-### Report Audiences
-**Leadership Reports:** [What leaders need to know and when]
-**Staff Reports:** [What staff need to know about progress and results]
-**Stakeholder Reports:** [What other stakeholders need to know]
-**External Reports:** [Any external reporting requirements]
-
-### Report Content Framework
-**Executive Summary:** [Key points for busy executives]
-**Progress Against Goals:** [Status on achieving targets]
-**Key Findings:** [Most important discoveries from evaluation]
-**Lessons Learned:** [What you've learned about implementation]
-**Recommendations:** [What should be done next based on evaluation results]
-
-## Continuous Improvement Process
-
-### Learning Integration
-**How You'll Use Evaluation Results for Ongoing Improvement:** [Process for applying what you learn]
-**Adjustment Mechanisms:** [How you'll modify the solution based on evaluation findings]
-
-### Knowledge Management
-**Documentation Strategy:** [How you'll document lessons learned]
-**Knowledge Sharing:** [How you'll share learnings with others who might implement similar solutions]
-
-### Sustainability Assessment
-**Long-term Viability Evaluation:** [How you'll assess whether the solution can be sustained long-term]
-**Resource Requirement Assessment:** [How you'll evaluate ongoing resource needs]
-**Adaptation Planning:** [How you'll plan for future modifications based on changing conditions]
-
----
-INSTRUCTIONS:
-1. Design evaluation to answer the most important questions about your solution's effectiveness
-2. Include both quantitative metrics and qualitative insights
-3. Plan for both implementation monitoring and outcome evaluation
-4. Build in mechanisms for continuous improvement based on evaluation findings
-5. Consider different stakeholder information needs in your reporting plan
+- Retaliation:
+    - Executive Signal: Exit interviews mention subtle retaliation
+    - Mitigation: Immediate HR investigation + CEO messaging
