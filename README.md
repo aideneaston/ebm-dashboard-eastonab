@@ -66,7 +66,7 @@ This dashboard demonstrates **Evidence-Based Management in action** through 5 sy
 - **[Synthesis](content/synthesis-integration.txt)** - Shows how all 4 evidence types converge on same solution
 
 ### **4. APPLY - Implementation Plan**
-- **[Application](content/application-implementation.txt)** - 40-60 hour program design, 4-phase rollout
+- **[Application](content/application-implementation.txt)** - 40-60 hour program design with detailed 6-module curriculum (see "What Actually Happens" section for concrete examples: Module 1 foundations with 360 feedback, Module 2 structured hiring bias interrupters, Module 3 fair performance evaluations, Module 4 equitable assignments, Module 5 psychological safety, Module 6 accountability systems), plus 4-phase rollout (Months 1-24)
 
 ### **5. ASSESS - Evaluation Design**
 - **[Assessment](content/assessment-monitoring.txt)** - Success metrics, decision points at Months 6/12/18/24
@@ -75,9 +75,12 @@ This dashboard demonstrates **Evidence-Based Management in action** through 5 sy
 
 ## 🎯 Key Findings
 
+**Note:** See [Navigation Guide](content/00-NAVIGATION-START-HERE.txt) for KEY TERMS GLOSSARY (defines bias interrupters, effect size d ≈ 0.42, inclusive leadership, psychological safety, ROI calculations).
+
 ### **What Doesn't Work (Why Most Diversity Training Fails):**
 - ❌ 2-hour awareness training: d ≈ 0.08 effect (negligible)
 - ❌ Training without accountability: 80%+ failure rate
+- ❌ Abstract awareness without concrete skills ("recognize unconscious bias" vs. "use this 8-question interview guide with scoring rubric")
 - ❌ One-and-done programs: behavior change requires sustained practice
 
 ### **What Works (Evidence-Based Approach):**

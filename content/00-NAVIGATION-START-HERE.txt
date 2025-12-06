@@ -111,13 +111,31 @@
 
 ---
 
+## KEY TERMS GLOSSARY
+
+**Bias Interrupters:** Structural processes that reduce bias in talent decisions without relying solely on manager goodwill. Examples: standardized interview guides with scoring rubrics, blind resume review, calibration meetings for performance ratings, transparent assignment criteria. These are system-level guardrails embedded in workflows—not just awareness training.
+
+**40-60 Hour Behavioral Training:** The evidence-based threshold for sustained behavior change (d ≈ 0.42 effect). Delivered as 6 monthly modules over 6 months with deliberate practice, role-plays, skill application. NOT 2-hour awareness sessions (d ≈ 0.08, negligible).
+
+**Effect Size (d ≈ 0.42):** Statistical measure of impact. d ≈ 0.42 = moderate-to-large effect = roughly 35-42% improvement in turnover outcomes = moving from 50th percentile (average performance) to 66th percentile (above-average). For context: d < 0.20 is small/negligible, d = 0.50 is moderate, d ≥ 0.80 is large.
+
+**Inclusive Leadership:** Manager behaviors that create psychological safety, equitable access to opportunities, and belonging. Measured via 360 feedback (manager self-rated 4.2, diverse employees rated them 3.1—revealing 1.1-point gap). Includes: ensuring all voices heard in meetings, fair project assignments, developmental feedback without stereotypes, microaggression interruption.
+
+**Pilot Units:** Internal teams that participated in 45-hour training program (Jan-June 2022) with 18-month outcome tracking. Product Engineering (80 employees, 38% diverse), Customer Success (45, 42% diverse), Data Analytics (28, 35% diverse), Marketing Operations (32, 40% diverse). Achieved 15.2% diverse turnover vs. 23.8% in comparison units (p=0.004, statistically significant).
+
+**Psychological Safety:** Team climate where members feel safe to take interpersonal risks, speak up with ideas/concerns, admit mistakes without fear of punishment. Predicts team learning, innovation, performance. Measured via surveys (7-item Edmondson scale). Diverse employees report lower psychological safety (average gap ~12 points on 100-point scale).
+
+**ROI (Return on Investment):** Financial return relative to investment. Internal pilot: $1.8M savings (reduced turnover + higher performance) on $135k investment = 13:1 return. Benchmarks from Intel/J&J/Salesforce: 2.5:1-6.5:1 typical for 40-60 hour programs with accountability systems.
+
+---
+
 ## THE BOTTOM LINE
 
 **Current state:** Diversity is costing us $26.2M annually because we lack inclusion mechanisms. Diverse teams underperform, diverse employees leave at 69% higher rates, and we're missing competitive advantage.
 
 **Evidence shows:** The right practices (40-60 hour behavioral training + accountability + reinforcement) flip diverse team performance from -8-15% to +12-19%, reduce turnover 35-42%, and deliver 2.5:1-6.5:1 ROI.
 
-**This dashboard shows:** The problem, the evidence, the solution, the implementation plan, and the accountability framework—everything needed to turn diversity into competitive advantage.
+**This dashboard shows:** The problem, the evidence, the solution (see application-implementation.txt for detailed 6-module curriculum and concrete bias interrupter examples), the implementation plan, and the accountability framework—everything needed to turn diversity into competitive advantage.
 
 ---
 

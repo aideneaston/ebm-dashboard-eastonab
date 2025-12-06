@@ -28,6 +28,108 @@ Core Components
 - Quarterly reinforcement sessions + peer cohorts for sustained behavior change
 - Leadership framing (performance, retention, innovation), not DEI compliance
 
+---
+
+**What Actually Happens: 6-Module Curriculum (40-60 hours over 6 months)**
+
+**Module 1: Inclusive Leadership Foundations (8 hours, Month 1)**
+- **Content:** Business case for inclusion (ROI data, turnover cost breakdowns), self-assessment using 360 feedback, growth mindset framing (skills not identity politics)
+- **Activities:** 
+  - Hour 1-2: Review personal 360 feedback results (manager self-rated 4.2, diverse employees rated 3.1—discuss gap without defensiveness)
+  - Hour 3-4: Case study analysis: "Why did this diverse employee leave?" (analyze exit interview data, identify missed signals)
+  - Hour 5-6: Deliberate practice—microaggression interruption role-plays (e.g., "Let's hear from someone else" when same voices dominate meetings)
+  - Hour 7-8: Personal action planning (identify 2-3 high-leverage behaviors to change)
+- **Takeaway Tool:** Inclusive meeting checklist (pre-assign speaking roles, rotate note-takers, use chat for introverts, track who speaks)
+
+**Module 2: Bias Interrupters for Hiring (8 hours, Month 2)**
+- **Content:** How unstructured hiring introduces bias, evidence-based structured hiring practices
+- **Activities:**
+  - Hour 1-2: Data review—compare structured vs. unstructured interview outcomes (diversity rate, 90-day performance scores)
+  - Hour 3-4: Create standardized interview guide (8 behavioral questions, 1-5 scoring rubric for each, "tell me about a time" format)
+  - Hour 5-6: Practice scoring candidate responses using rubric (reduce "gut feel" variation)
+  - Hour 7-8: Role-play diverse interview panels (how to surface different perspectives without groupthink)
+- **Takeaway Tool:** Structured interview guide template + scoring rubric (embedded in ATS system, 100% usage required for all manager-led interviews)
+
+**Module 3: Fair Performance Evaluations (8 hours, Month 3)**
+- **Content:** Performance rating bias patterns (leniency bias, recency bias, stereotype threat), evidence-based evaluation practices
+- **Activities:**
+  - Hour 1-2: Calibration exercise—rate same performance samples, compare scores, discuss discrepancies (reveals hidden biases)
+  - Hour 3-4: Rewrite vague feedback into concrete behavioral descriptions ("needs to be more strategic" → "missed 3 quarterly OKR reviews, recommend attending planning workshops")
+  - Hour 5-6: Practice giving developmental feedback to diverse direct reports without stereotype triggers (avoid "aggressive" for women, "not technical enough" for non-engineers)
+  - Hour 7-8: Peer review simulation—calibrate ratings across managers before finalizing (reduce 0.8-point rating gap between diverse/non-diverse employees)
+- **Takeaway Tool:** Performance review rubric (competencies defined with 1-5 behavioral anchors, calibration meeting required before final ratings submitted)
+
+**Module 4: Equitable Assignments & Sponsorship (8 hours, Month 4)**
+- **Content:** High-visibility project access patterns (who gets stretch assignments), sponsorship vs. mentorship
+- **Activities:**
+  - Hour 1-2: Assignment audit—map last 12 months of project assignments by employee demographics (reveals inequitable distribution)
+  - Hour 3-4: Define criteria for stretch assignments (skill development potential, business impact, visibility to execs) and create transparent nomination process
+  - Hour 5-6: Sponsorship skill practice—advocate for direct report in calibration meeting (role-play scenarios, practice specific language)
+  - Hour 7-8: Create individual sponsorship action plans (each manager commits to sponsor 1-2 diverse employees for high-visibility projects in next 6 months)
+- **Takeaway Tool:** Assignment tracking dashboard (shows project distribution by demographics, flags inequities when >20% gap exists)
+
+**Module 5: Psychological Safety & Belonging (8 hours, Month 5)**
+- **Content:** Psychological safety science (Edmondson's research), inclusion behaviors vs. exclusion behaviors, microaggression intervention
+- **Activities:**
+  - Hour 1-2: Analyze team psychological safety survey results (identify specific behaviors that predict safety scores)
+  - Hour 3-4: Practice responding to microaggressions in real-time ("Actually, Sarah raised that idea 10 minutes ago—let's credit her")
+  - Hour 5-6: Team meeting simulation—facilitate discussion where quieter voices speak first, manage dominant voices without shutting them down
+  - Hour 7-8: Develop team norms collaboratively (response times, meeting etiquette, disagreement protocols, credit-sharing)
+- **Takeaway Tool:** Psychological safety checklist (weekly team check-ins, rotating facilitators, anonymous input channels, "learning from failure" rituals)
+
+**Module 6: Accountability & Sustained Change (8-12 hours, Month 6)**
+- **Content:** Accountability mechanisms that sustain behavior change, quarterly reinforcement plans, peer cohort structures
+- **Activities:**
+  - Hour 1-2: Review 6-month progress data (360 scores, turnover trends, assignment distribution, promotion patterns)
+  - Hour 3-4: Identify backsliding patterns (where did bias interrupters fail? where did old habits return?)
+  - Hour 5-6: Peer coaching triads—managers commit to observing each other's meetings, providing feedback on inclusive behaviors
+  - Hour 7-8: Create quarterly reinforcement plan (cohort learning sessions, case study discussions, ongoing skill practice)
+  - Hour 9-10 (optional): Advanced topics—intersectionality, neurodiversity inclusion, global team dynamics
+  - Hour 11-12 (optional): Executive panel—senior leaders share their inclusion journey, model vulnerability
+- **Takeaway Tool:** Accountability dashboard (shows each manager's bias interrupter usage %, 360 behavior scores, team outcomes—transparent to skip-level leaders)
+
+**Ongoing Reinforcement (Post-Training):**
+- **Quarterly 2-hour cohort sessions** (case study discussions, skill refreshers, new research updates)
+- **Monthly peer coaching check-ins** (30-minute triads, observe meetings, give feedback)
+- **Annual 360 feedback refresh** (track behavior change longitudinally)
+
+---
+
+**What Are "Bias Interrupters"? Concrete Examples**
+
+**Definition:** Structural processes that reduce bias in talent decisions without relying solely on manager goodwill or awareness. These are system-level guardrails embedded in workflows.
+
+**Hiring Bias Interrupters:**
+1. **Standardized interview guides:** 8 pre-defined behavioral questions, 1-5 scoring rubric, no "tell me about yourself" freeform questions (reduces favoritism based on rapport)
+2. **Diverse interview panels:** Minimum 2 interviewers per candidate, at least 1 from underrepresented group, separate scoring before discussion (reduces groupthink)
+3. **Blind resume review:** Remove names, schools, graduation years from initial screening (reduces prestige bias, age bias, ethnicity assumptions)
+4. **Skills-based assessments:** Work sample tests or case studies evaluated before personality interviews (predicts performance better than unstructured interviews)
+
+**Performance Evaluation Bias Interrupters:**
+1. **Calibration meetings:** Managers present draft ratings to peers + skip-level leader, justify scores with behavioral evidence before finalizing (reduces leniency bias, halo effects)
+2. **Behavioral rating anchors:** Each competency defined with 1-5 behavioral descriptions (e.g., "Strategic Thinking Level 3: Identifies quarterly risks, proposes mitigation plans" vs. vague "somewhat strategic")
+3. **Forced distribution limits:** No more than 30% "exceeds expectations" ratings per team (prevents rating inflation for favored employees)
+4. **Demographic audits:** People Analytics reviews rating distributions by demographics before final approval, flags >0.3-point gaps (triggers manager re-review)
+
+**Assignment & Promotion Bias Interrupters:**
+1. **Transparent criteria:** High-visibility projects require documented business case + skill fit assessment, posted for nominations (no informal "tap on the shoulder" assignments)
+2. **Rotation tracking:** Dashboard shows assignment distribution by demographics, alerts when >20% gap (e.g., if 40% employees are diverse but only 25% get stretch assignments)
+3. **Promotion slates:** Leadership reviews promotion-ready pipeline quarterly, requires diverse candidate slates before external hiring for senior roles (prevents "we couldn't find anyone" excuses)
+4. **Sponsorship requirements:** Directors+ required to sponsor 1-2 diverse employees annually with documented advocacy actions (attend calibration, nominate for projects, introduce to execs)
+
+**Meeting & Collaboration Bias Interrupters:**
+1. **Round-robin speaking:** Facilitator calls on quiet voices first, uses chat for async input, rotates meeting leadership (prevents loudest voices from dominating)
+2. **Idea attribution:** Meeting notes explicitly credit who raised each idea (prevents "Sarah said X, then Brian repeated X and got credit")
+3. **Pre-reads + think time:** Share materials 24 hours before meeting, start with silent review time (helps non-native speakers, introverts, neurodivergent employees)
+
+**Why Structural Interrupters Matter:**
+- Training changes awareness; interrupters change systems
+- Removes burden from diverse employees to self-advocate
+- Makes bias visible through data (can't improve what you don't measure)
+- Sustains behavior change after training ends (habits reinforced by workflow design)
+
+---
+
 Evidence Base
 - Scientific evidence: 40+ hours + accountability → moderate–large effects (d ≈ 0.42); training alone → negligible
 - Practitioner evidence (Intel, J&J, Salesforce): 40–60 hour programs + structural changes → ROI 2.5:1–6.5:1
