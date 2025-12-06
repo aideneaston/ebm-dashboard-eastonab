@@ -1,3 +1,23 @@
+## The Practices That Turn Diversity Into Advantage
+
+**What This Is:** Evidence-based inclusive leadership training—NOT traditional diversity awareness training. This is a leadership effectiveness program focused on reducing turnover, boosting team performance, and driving ROI. Inclusion is the mechanism, not the message.
+
+**What Makes It Different from Failed Diversity Training:**
+- ❌ NOT 2-hour awareness training (d ≈ 0.08 effect—negligible)
+- ❌ NOT compliance checkbox ("unconscious bias" training with no behavior change)
+- ❌ NOT aspirational without accountability (training evaporates without structural reinforcement)
+
+- ✅ 40-60 hour behavioral skill training (d ≈ 0.42 effect—moderate to large)
+- ✅ Mandatory accountability systems (bias interrupters in every talent decision)
+- ✅ Quarterly reinforcement + peer cohorts (sustains behavior change)
+- ✅ Framed as leadership development (reduces resistance, increases buy-in)
+
+**Evidence Base:** Scientific meta-analyses, Intel/J&J/Salesforce practitioner cases, our internal data showing 15.2% vs. 23.8% turnover in high-inclusion vs. low-inclusion units, 86% stakeholder support.
+
+**Expected Outcomes:** 35-42% turnover reduction (27%→16-18%), 12-19% team performance gains, ROI 2.5:1-6.5:1, achieved in 18-24 months.
+
+---
+
 Solution Design Summary
 
 Final Solution: Inclusive Leadership Development Program (ILDP)

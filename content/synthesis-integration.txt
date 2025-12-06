@@ -1,3 +1,21 @@
+## Executive Summary: How Diversity Becomes Competitive Advantage
+
+**The Core Insight:** Diversity is neither inherently good nor inherently bad for performance—it's a double-edged sword. Without the right management practices, diverse teams underperform homogeneous teams by 8-15%. WITH evidence-based inclusive leadership practices, diverse teams outperform by 12-19%. The difference is inclusion mechanisms (M).
+
+**What All Four Evidence Types Agree On:**
+- **The Problem (X without M):** Our 27% diverse employee turnover vs. 16% majority (69% higher) mirrors scientific research showing 23-27% higher turnover in low-inclusion environments. $26.2M annual cost.
+- **The Solution (M):** 40-60 hour behavioral training + accountability mechanisms (bias interrupters) + quarterly reinforcement. NOT 2-hour awareness training (d ≈ 0.08—negligible).
+- **The Outcomes (Y):** 35-42% turnover reduction, 12-19% performance gains, ROI 2.5:1-6.5:1, achieved in 18-24 months. Validated by Intel, J&J, Salesforce practitioner cases.
+- **The Timeline:** Behavior change visible 6-12 months; performance/turnover impacts 12-24 months. Requires sustained commitment, not quick fix.
+
+**Confidence Level:** VERY HIGH—convergence across scientific meta-analyses (10k+ teams, 31-year longitudinal), practitioner benchmarks (Fortune 500 implementations), internal organizational data (diverse units with 80%+ training show 15.2% turnover vs. 23.8% without), and stakeholder voice (86% support for 40-60 hour program).
+
+**The Business Case:** We're currently leaving $9-11M in annual savings on the table, plus performance upside from our fastest-growing workforce segment. This isn't about compliance—it's about competitive advantage.
+
+---
+
+## Detailed Evidence Synthesis
+
 Scientific Evidence
 
 Finding 1: Diversity without inclusion decreases performance

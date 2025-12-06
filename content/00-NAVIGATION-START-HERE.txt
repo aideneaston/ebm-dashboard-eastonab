@@ -1,0 +1,127 @@
+## HOW TO USE THIS DASHBOARD
+
+**Purpose:** This dashboard demonstrates evidence-based management in action—showing how to transform workforce diversity from a $26.2M cost center into a competitive advantage delivering 2.5:1-6.5:1 ROI.
+
+**Intended Audience:** HR professionals, managers, and business leaders facing diversity-without-inclusion challenges (high diverse turnover, engagement gaps, diverse team underperformance).
+
+---
+
+## KEY MESSAGES
+
+1. **Diversity can be a competitive advantage, but only if we manage it right.**
+   - Without inclusion practices: diverse teams underperform by 8-15%, diverse turnover 69% higher
+   - With inclusion practices: diverse teams outperform by 12-19%, turnover reduces 35-42%
+   
+2. **Most diversity training doesn't work—but here's what does.**
+   - Awareness training: d ≈ 0.08 effect (negligible)
+   - 40-60 hour behavioral training + accountability + reinforcement: d ≈ 0.42 effect (moderate-large)
+   
+3. **Here are the practices, backed by converging evidence, with an implementation playbook.**
+   - Scientific evidence (10k+ teams, 31-year longitudinal)
+   - Practitioner evidence (Intel, J&J, Salesforce ROI 2.5:1-6.5:1)
+   - Organizational evidence ($26.2M cost, 27% vs. 16% turnover)
+   - Stakeholder evidence (86% support for evidence-based approach)
+
+---
+
+## NAVIGATION GUIDE
+
+### **Busy? Read These First (15 minutes):**
+
+1. **Synthesis (synthesis-integration.txt)** — Executive Summary shows how all four evidence types converge on one solution
+2. **Application Overview (application-implementation.txt)** — First section "The Practices That Turn Diversity Into Advantage" explains what works and why
+3. **Assessment Decision Points (assessment-monitoring.txt)** — Sections 4 & 5 show go/no-go evaluation at Months 6/12/18/24
+
+### **Want to Understand the Problem? (20 minutes):**
+
+1. **Problem Definition (ask-problem-definition.txt)** — X→Y framework: where we are (27% turnover, $26.2M cost) vs. where we could be (16-18% turnover, 2.5:1 ROI)
+2. **Stakeholder Analysis (ask-stakeholder-analysis.txt)** — Who's affected and what they need
+3. **Success Criteria (ask-success-criteria.txt)** — Evidence-based targets (not aspirational round numbers)
+
+### **Need to Verify the Evidence? (45-60 minutes):**
+
+**12 Detailed Evidence Documents organized by type:**
+
+**Scientific Evidence** (What peer-reviewed research shows):
+- evidence-scientific-sources.txt
+- evidence-scientific-methods.txt  
+- evidence-scientific-appraisal.txt
+
+**Practitioner Evidence** (What Intel, J&J, Salesforce achieved):
+- evidence-practitioner-sources.txt
+- evidence-practitioner-methods.txt
+- evidence-practitioner-appraisal.txt
+
+**Organizational Evidence** (Our internal data):
+- evidence-organizational-sources.txt
+- evidence-organizational-methods.txt
+- evidence-organizational-appraisal.txt
+
+**Stakeholder Evidence** (What employees/managers actually experience and want):
+- evidence-stakeholder-sources.txt
+- evidence-stakeholder-methods.txt
+- evidence-stakeholder-appraisal.txt
+
+**Then read:** synthesis-integration.txt (shows how all evidence converges)
+
+### **Ready to Implement? (30 minutes):**
+
+1. **Implementation Plan (application-implementation.txt)** — 4-phase approach: Preparation → Pilot → Rollout → Institutionalization (Months 1-24)
+2. **Assessment Plan (assessment-monitoring.txt)** — Evaluation design with clear decision points
+
+---
+
+## DOCUMENT FLOW LOGIC
+
+**ASK Section** → Defines problem and success criteria using evidence-based targets (not initial guesses)
+
+**EVIDENCE Section** → 12 detailed documents showing the research backing our approach (can be read selectively based on skepticism level)
+
+**SYNTHESIS Section** → Integrates all four evidence types, shows convergence, identifies gaps—this is where evidence "speaks"
+
+**APPLICATION Section** → Translates evidence into actionable practices—the "how-to" playbook
+
+**ASSESSMENT Section** → Shows accountability framework—how we'll know if it works and when to adjust
+
+---
+
+## WHAT TO LOOK FOR
+
+### **If You're a Skeptical Manager:**
+- Check synthesis evidence convergence (all four types agree—rare in management research)
+- Review practitioner ROI (2.5:1-6.5:1 at Intel, J&J, Salesforce)
+- Note this is framed as leadership training (reduces turnover, boosts performance) not diversity compliance
+
+### **If You're an HR Professional:**
+- Evidence shows why 2-hour awareness training fails (d ≈ 0.08)
+- 40-60 hour behavioral training + accountability is the threshold for behavior change (d ≈ 0.42)
+- Implementation plan includes bias interrupters (structural tools that don't rely on manager goodwill alone)
+
+### **If You're Making Budget Decisions:**
+- Investment: $360-540k over 24 months
+- Expected return: $9-11M annual turnover savings + 12-19% performance gains in diverse teams
+- ROI: 2.5:1-6.5:1 (validated across multiple organizations)
+- Decision checkpoints: Month 12 go/no-go requires ≥10% turnover reduction trajectory and ≥1.5:1 ROI
+
+### **If You're Concerned About Risk:**
+- Assessment plan includes red flags and mitigation triggers
+- Pilot phase (Months 3-8) with 30-40 managers tests approach before full rollout
+- Month 12 is formal go/no-go decision point (if not working, we pause and reassess)
+- Stakeholder support monitored quarterly (baseline 86%, must maintain ≥80%)
+
+---
+
+## THE BOTTOM LINE
+
+**Current state:** Diversity is costing us $26.2M annually because we lack inclusion mechanisms. Diverse teams underperform, diverse employees leave at 69% higher rates, and we're missing competitive advantage.
+
+**Evidence shows:** The right practices (40-60 hour behavioral training + accountability + reinforcement) flip diverse team performance from -8-15% to +12-19%, reduce turnover 35-42%, and deliver 2.5:1-6.5:1 ROI.
+
+**This dashboard shows:** The problem, the evidence, the solution, the implementation plan, and the accountability framework—everything needed to turn diversity into competitive advantage.
+
+---
+
+**Questions as you read:**
+1. Does the evidence convince you that this approach works? (Check synthesis convergence)
+2. Is the implementation feasible in our context? (Check application plan phases and resource requirements)
+3. How will we know if it's working? (Check assessment decision points at Months 6/12/18/24)

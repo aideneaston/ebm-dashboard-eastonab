@@ -1,99 +1,172 @@
 ## SMART Success Criteria
+*Note: Initial criteria updated based on evidence synthesis. Evidence predicts specific effect sizes and timelines that inform realistic targets.*
 
-### Criterion 1: Employee inclusion
-- **Specific:** We can measure this by using monthly surveys
-- **Measurable:** At least 20% more inclusion engagement
-- **Achievable:** Yes, very achievable, regular courses will be given
-- **Relevant:** Yes, it will address any sort of discrimination within the organization
-- **Time-bound:** It will be achieved within the next year
+### Criterion 1: Diverse Employee Turnover Reduction
+- **Specific:** Reduce diverse employee voluntary turnover rate tracked monthly via HRIS, disaggregated by race × gender × identity
+- **Measurable:** 35-42% reduction from baseline 27% to target 16-18% (matching scientific effect size d ≈ 0.42 and practitioner benchmarks)
+- **Achievable:** Yes—convergent evidence from 4 sources shows 40-60 hour behavioral training + accountability achieves this range; requires sustained implementation fidelity
+- **Relevant:** Primary ROI driver ($9-11M annual savings) and ethical imperative; directly addresses "revolving door" problem
+- **Time-bound:** Behavior change visible 6-12 months; turnover reduction achieved 18-24 months; monthly tracking with quarterly analysis; critical go/no-go evaluation at Month 12 (must show ≥10% reduction trajectory)
 
-### Criterion 2: Leadership diversity
-- **Specific:** An increase in diversity within management roles
-- **Measurable:** Ensure that there's a 20% increase in diverse management roles
-- **Achievable:** Yes, start by using inclusive recruitment or promoting from within
-- **Relevant:** Shows the company cares about diversity and works to avoid biases
-- **Time-bound:** It will be achieved within the next year
+### Criterion 2: Engagement Gap Closure
+- **Specific:** Close gap between diverse employee engagement (baseline 56%) and majority employee engagement (68%)—currently 12-point gap
+- **Measurable:** Reduce gap to ≤4 points (from 12 to ≤4) using annual engagement survey + 6-month pulse surveys, with particular focus on inclusion items ("ideas valued," "can be authentic")
+- **Achievable:** Yes—evidence shows inclusion climate improvements directly impact engagement; realistic based on practitioner case studies showing 50-70% gap closure
+- **Relevant:** Engagement predicts performance, innovation, and retention; validates that inclusion improvements are authentic, not performative
+- **Time-bound:** Expect 25-50% gap closure (12→6-9 points) by Month 12; full target (≤4 points) by Month 24; pulse surveys every 6 months
 
-### Criterion 3: Lower employee turnover
-- **Specific:** Track employee turnover, all demographics will be recorded
-- **Measurable:** Reduce employee turnover by 40%
-- **Achievable:** Yes, create support groups and have acceptable policies
-- **Relevant:** It is directly related to employee satisfaction
-- **Time-bound:** Check in every month and aim for it to drop by 40% within a year
+### Criterion 3: Promotion Equity
+- **Specific:** Reduce time-to-promotion gap for diverse employees (currently 35% slower: 3.2 years vs. 2.4 years) and achieve rate parity
+- **Measurable:** Reduce gap to 5-10% slower (demonstrating practical equity while acknowledging structural pipeline constraints)
+- **Achievable:** Yes—bias interrupters in promotion processes + manager behavior change address root cause (subjective criteria like "executive presence" currently disadvantage diverse employees)
+- **Relevant:** Pipeline sustainability—if diverse employees hired but don't advance, problem perpetuates; also tests whether bias interrupters work structurally
+- **Time-bound:** Expect 15-20% improvement by Month 12, full target 5-10% gap by Month 24; tracked via HRIS quarterly
 
 ## Measurement Framework
 
 ### Quantitative Metrics
-- Survey scores, 75% positive replies
-- Diversity ratio, 20% increase in management roles
-- Retain employees for longer periods, 70% stay for more than a year
+- **Primary:** Diverse employee turnover rate (monthly HRIS extracts, quarterly trend analysis, disaggregated by demographics)
+- **Secondary:** Engagement gap (annual survey + 6-month pulses), promotion equity ratio (quarterly HRIS analysis), 360-degree inclusive behavior ratings (baseline, 6-month, 12-month waves)
+- **Financial:** ROI calculation—(turnover cost savings + performance gains) ÷ program investment; target 2.5:1-6.5:1 by Month 24
+- **Process:** Training completion rates (target 85%+), bias interrupter usage (target 100% by Month 4), reinforcement attendance (target 90%+)
 
 ### Qualitative Indicators
-- Improved team performance and a smooth working experience
-- A more positive and friendly culture in the workplace
-- A better sense of belonging for employees
+- **Listening sessions:** Diverse employees report authentic inclusion vs. performative diversity (62% currently experience weekly exclusion—target reduction to 20-30%)
+- **Exit interview themes:** Shift from inclusion-related departures (74% cite "lack of belonging") to other factors (compensation, external opportunities)
+- **Manager interviews:** Perceived utility of bias interrupters, behavioral confidence, peer cohort effectiveness
+- **Cultural markers:** Inclusive behaviors become normalized beyond trained managers; new managers adopt practices without formal training (cultural diffusion)
 
 ### Leading vs. Lagging Indicators
 
-#### Leading Indicators (Early signals of progress)
-Completion of diversity training, more diverse recruits, surveys being filled out on time
+#### Leading Indicators (Early signals of progress—visible Months 3-12)
+- Training completion rates and satisfaction scores (target 85%+ and 4.0+)
+- Bias interrupter adoption in talent decisions (usage logs show 100% by Month 4)
+- 360-degree behavior ratings show 25-40% improvement by Month 6
+- Stakeholder confidence maintains ≥80% (baseline 86%)
+- Psychological safety pulse improvements (6-month intervals)
 
-#### Lagging Indicators (Final outcomes)
-Lower employee turnover, more promotions or roles to fill, improved team performance and engagement
+#### Lagging Indicators (Final outcomes—visible Months 12-24)
+- Turnover rate reductions (critical evaluation at Month 12: ≥10% reduction required; full target 35-42% by Month 24)
+- Engagement gap closure (expect 25-50% by Month 12, full closure ≤4 points by Month 24)
+- Promotion equity shifts (rate parity movement visible Month 12-18)
+- Team performance improvements (12-19% gains in diverse teams, measured via revenue per FTE or productivity metrics)
+- ROI confirmation (≥1.5:1 by Month 12, ≥2.5:1 by Month 24)
 
 ## Baseline Measurements
 
-### Current State Metrics
+### Current State Metrics (Evidence-Based)
 
-**Metric 1:** Survey scores = 50%
-**Metric 2:** Diversity ratio = 10%
-**Metric 3:** Employee turnover = 30%
+**Primary Outcome Metrics:**
+- Diverse employee turnover: 27% (vs. 16% majority = 69% higher rate)
+- Engagement gap: 12 points (56% diverse vs. 68% majority)
+- Promotion equity: 35% slower (3.2 years vs. 2.4 years)
+- Annual cost: $26.2M (turnover + disengagement + lost performance)
+
+**Behavioral Metrics:**
+- Manager self-rated inclusion: 4.2 (360-degree ratings from diverse employees: 3.1—significant gap indicates low self-awareness)
+- Current training: 2-hour awareness training, no measurable impact (d ≈ 0.08 per evidence)
+
+**Performance Metrics:**
+- Diverse teams in low-inclusion units: underperform by 8-15%, turnover 23.8%
+- Diverse teams in high-inclusion units: 15.2% turnover, $98,200 revenue per FTE (vs. $68,400 low-inclusion)
 
 ### Data Collection Plan
-- Send out surveys as soon as possible
-- Track current management roles
-- Track current turnover rate, look at the past year
+- **HRIS:** Monthly turnover/promotion extracts (3-year historical baseline for trend analysis); disaggregated by race × gender × identity
+- **Engagement surveys:** Annual comprehensive + 6-month pulses; baseline collected Month -2 to 0
+- **360-degree feedback:** Baseline assessment for all 180 managers (Month -1 to 0); repeat at Months 6, 12
+- **Stakeholder confidence:** Survey 217 stakeholders at baseline, Months 6, 12, 18, 24
+- **Financial tracking:** Budget actuals vs. plan ($360-540k investment); turnover cost savings calculated quarterly
 
 ## Success Thresholds
+*Evidence-based targets aligned with scientific effect sizes and practitioner benchmarks*
 
-### Minimum Acceptable Improvement
-Increase by 5% in all areas of interest
+### Must-Achieve (Program success depends on meeting these)
+- **35-42% turnover reduction** (27%→16-18% by Month 24); Month 12 checkpoint requires ≥10% reduction trajectory
+- **ROI ≥2.5:1** by Month 24 (≥1.5:1 by Month 12 to stay on track)
+- **Zero systematic retaliation** incidents (monitored via exit interviews, listening sessions, HR complaints)
+- **Stakeholder support ≥80%** maintained throughout (baseline 86%)
 
-### Target Performance Level
-Increase by 10-20% in all areas of interest
+### Target Performance Level (Should-Achieve)
+- **Engagement gap reduces to ≤4 points** (from 12); expect 6-9 points by Month 12, ≤4 by Month 24
+- **Promotion equity within 5-10%** (from 35% slower); expect 15-20% improvement by Month 12
+- **Inclusive behaviors 3.8+** on 360s (from 3.1 baseline; effect size d ≈ 0.42); expect 3.5-3.7 by Month 12
+- **12-19% team performance improvement** in diverse units (measured via revenue per FTE, productivity metrics)
 
-### Stretch Goal
-- Increase of 50-70% in all areas of interest
+### Stretch Goals (Could-Achieve—Strategic upside)
+- **Revenue per FTE gap fully closes** ($29,800 gap→$10-15k or less)
+- **Psychological safety reaches high-performing norms** (<10% weekly exclusion vs. current 62%)
+- **Cultural transformation** beyond trained managers (inclusion behaviors diffuse organizationally, embedded in processes/norms)
+- **Employer brand strength** in diverse talent markets (becomes recruiting advantage)
 
 ## Stakeholder-Specific Success Criteria
 
-### Management Success Measures
-More innovation and a better reputation
+### Executive Leadership Success Measures
+- **Financial:** $9-11M annual savings from turnover reduction; ROI 2.5:1-6.5:1
+- **Strategic:** Competitive advantage through diverse team performance (12-19% gains); employer brand strength
+- **Risk mitigation:** Reputation protection; reduced legal/compliance risk; talent pipeline sustainability
 
-### Employee Success Measures
-All employees would feel more valued and have a sense of belonging
+### Manager Success Measures  
+- **Practical tools:** Bias interrupters reduce subjective decision-making burden; clear frameworks for inclusive behaviors
+- **Team performance:** Diverse teams shift from underperforming (-8-15%) to outperforming (+12-19%)
+- **Retention:** Reduce churn and associated costs/disruption (diverse employee turnover 27%→16-18%)
+- **Career development:** Inclusive leadership becomes valued competency; linked to advancement
 
-### Customer Success Measures
-A more diverse workplace and a better community presence
+### Diverse Employee Success Measures
+- **Authentic inclusion:** Weekly exclusion drops from 62% to 20-30%; ideas valued, can be authentic at work
+- **Career equity:** Promotion parity within 5-10%; advancement at similar pace to majority employees
+- **Psychological safety:** Trust in organizational commitment; reduced fear of retaliation; voice heard in decisions
+- **Belonging:** Engagement gap closes from 12 points to ≤4 points
+
+### HR/Diversity Function Success Measures
+- **Evidence-based credibility:** Program grounded in rigorous evidence, not trends; measurable impact validation
+- **Cost management:** $26.2M annual cost reduced significantly through turnover prevention
+- **Scalability:** Model can extend to new managers, other employee populations, sustainability mechanisms
+- **Strategic partnership:** HR positioned as driver of competitive advantage, not compliance function
 
 ## Risk Indicators
 
-### Red Flags
-Low survey engagement and more complaints about discrimination.
+### Red Flags (Trigger immediate investigation)
+- **Turnover increases or stalls:** Month 12 turnover shows <10% reduction trajectory
+- **Backlash evidence:** Majority employee engagement declines; resistance themes in manager feedback
+- **Retaliation signals:** Exit interviews mention subtle retaliation; diverse employees report increased fear
+- **Implementation fidelity failure:** Bias interrupter usage <80%; training completion <85%; reinforcement attendance <90%
+- **Stakeholder support collapse:** Confidence drops below 75% (from 86% baseline)
 
 ### Mitigation Triggers
-As soon as reviews and surveys show negative results, immediately talk to employees involved.
+- **Month 6 evaluation:** If pilot shows weak behavior change (<20% on 360s), intensify practice/reinforcement before scaling
+- **Month 12 go/no-go:** If must-achieve criteria off-track, pause rollout for root cause analysis (implementation failure? theory failure? context mismatch?)
+- **Quarterly steering committee:** Reviews all risk indicators; approves immediate adjustments (curriculum refinements, reinforcement frequency, targeted support for resistant managers)
+- **Real-time monitoring:** HR business partners surface concerns within 48 hours; anonymous feedback channels reviewed weekly
 
 ## Timeline for Assessment
 
-### Short-term (30-90 days)
-Any sort of diversity training along with survey feedback.
+### Short-term (Months 3-6: Pilot Period)
+- **Training completion:** 85%+ of pilot cohort (30-40 managers)
+- **Satisfaction:** 4.0+ ratings on training modules
+- **Early behavior change:** 25-40% improvement on 360-degree inclusive behavior ratings by Month 6
+- **Bias interrupter adoption:** 100% usage in talent decisions by Month 4
+- **Stakeholder confidence:** Maintains ≥80% (Month 6 survey)
 
-### Medium-term (3-6 months)
-Survey responses become better and more thorough.
+### Medium-term (Months 7-12: Full Rollout & Critical Checkpoint)
+- **Scale implementation:** All 180 managers complete training by Month 12
+- **Turnover trajectory:** ≥10% reduction from baseline (27%→≤24.3%)—if not achieved, pause and reassess
+- **Engagement movement:** Gap narrows 25-50% (12 points→6-9 points)
+- **Behavior sustainability:** 360 ratings maintain 3.5-3.7+ range at Month 12 wave
+- **ROI early estimate:** ≥1.5:1 to stay on track for 2.5:1+ target
 
-### Long-term (6-12 months)
-The practices that employees were trained to do continue and become a normal way of work.
+### Long-term (Months 13-24: Performance Impact & Summative Evaluation)
+- **Turnover target achieved:** 35-42% reduction (27%→16-18%)
+- **Engagement gap closure:** ≤4 points
+- **Promotion equity:** Within 5-10% of majority employees
+- **Team performance:** 12-19% improvement in diverse units
+- **ROI confirmation:** 2.5:1-6.5:1
+- **Sustainability assessment:** Are behaviors institutionalized? Cultural diffusion evidence?
+
+### Very Long-term (Years 3-5: Longitudinal Tracking)
+- **Effect persistence:** Do outcomes sustain or decay?
+- **Cultural transformation:** Inclusion normalized beyond trained managers
+- **Intersectional effectiveness:** Does program work equally across all demographic groups?
+- **Generational adaptation:** Program resonates with new workforce cohorts
 
 ## Reporting Framework
 
