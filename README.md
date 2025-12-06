@@ -1,53 +1,124 @@
-# 🎯 Your Evidence-Based Management Dashboard Project
+# Evidence-Based Management Dashboard: Turning Diversity into Competitive Advantage
 
-## 🚀 Welcome to Your Semester-Long Project!
+## Executive Summary
 
-You're about to build your own **professional Evidence-Based Management dashboard** that will become a portfolio-worthy showcase of your skills. This isn't just an assignment - it's a real tool you'll use throughout your career!
+**The Problem:** Organizations increase diversity hiring but lose diverse talent at 69% higher rates, costing $26.2M annually. Despite diverse teams having innovation potential, without the right management practices they underperform homogeneous teams by 8-15%.
 
-### 📋 What You're Building
+**The Solution:** Evidence-based inclusive leadership training (40-60 hours behavioral + accountability mechanisms + quarterly reinforcement) transforms diversity from cost center to competitive advantage, delivering 2.5:1-6.5:1 ROI.
 
-Your dashboard will guide you through the complete Evidence-Based Management process:
-1. **ASK** - Define problems and frame questions
-2. **ACQUIRE** - Gather four types of evidence (Scientific, Practitioner, Organizational, Stakeholder)
-3. **APPRAISE** - Evaluate the quality and relevance of your evidence
-4. **APPLY** - Make evidence-based recommendations
-5. **ASSESS** - Evaluate the results and learn from the process
+**The Evidence:** Four evidence types converge—scientific meta-analyses (10k+ teams, 31 years), Fortune 500 practitioner cases (Intel, J&J, Salesforce), internal organizational data (15.2% vs. 23.8% turnover in high vs. low inclusion units), and stakeholder voice (86% support).
 
-### 🎯 Core Requirements (Everyone Must Meet These)
-
-✅ **Complete all 5 tabs** in your dashboard  
-✅ **Populate all content files** with real evidence and analysis  
-✅ **Follow the Evidence-Based Management process** as outlined in OLI modules  
-✅ **Submit milestone checkpoints** on schedule  
-✅ **Maintain your project tracker** (we'll help you with this!)  
-
-### 🛠️ What You Can Customize (Optional for Tech-Interested Students)
-
-- 🎨 **Colors and styling** - Make it match your personal brand
-- 📊 **Add charts or graphs** - Visualize your evidence
-- 🔧 **Additional features** - With AI assistance, sky's the limit!
-- 💼 **Professional enhancements** - Extra polish for your portfolio
+**The Outcome:** 35-42% turnover reduction, 12-19% team performance gains, $9-11M annual savings, achieved in 18-24 months.
 
 ---
 
-## 📁 Your Project Files
+## 🚀 Quick Start
 
-### 🏠 Main Dashboard
-- `dashboard.html` - Your main dashboard (open this in a web browser)
+### **For First-Time Readers (5 minutes):**
+1. Open **[index.html](index.html)** in your browser to see the interactive dashboard
+2. Start with the **Overview tab** for the 30-second pitch
+3. Then read **Synthesis tab** to see how all evidence converges
 
-### 📝 Content Files (You'll Edit These)
-- `content/ask-problem-definition.txt`
-- `content/ask-stakeholder-analysis.txt`
-- `content/ask-success-criteria.txt`
-- `content/evidence-scientific-methods.txt`
-- `content/evidence-scientific-sources.txt`
-- `content/evidence-scientific-appraisal.txt`
-- `content/evidence-practitioner-methods.txt`
-- `content/evidence-practitioner-sources.txt`
-- `content/evidence-practitioner-appraisal.txt`
-- `content/evidence-organizational-methods.txt`
-- `content/evidence-organizational-sources.txt`
-- `content/evidence-organizational-appraisal.txt`
+### **For Skeptics Who Need Proof (20 minutes):**
+1. Read **[Synthesis](content/synthesis-integration.txt)** - Shows how scientific + practitioner + organizational + stakeholder evidence all agree
+2. Read **[Problem Definition](content/ask-problem-definition.txt)** - Quantifies the $26.2M problem with specific metrics
+3. Skim **Evidence KEY FINDINGS boxes** - Each of 12 evidence docs has 30-second executive summary at top
+
+### **For Implementation Teams (45 minutes):**
+1. Read **[Implementation Plan](content/application-implementation.txt)** - 4-phase rollout (Months 1-24)
+2. Read **[Assessment Plan](content/assessment-monitoring.txt)** - Success metrics and decision points
+3. Review **[Success Criteria](content/ask-success-criteria.txt)** - Evidence-based targets (not aspirational)
+
+---
+
+## 📊 Dashboard Structure
+
+This dashboard demonstrates **Evidence-Based Management in action** through 5 systematic steps:
+
+### **1. ASK - Define the Problem**
+- **[Problem Definition](content/ask-problem-definition.txt)** - X→Y framework: 27% vs. 16% turnover, $26.2M cost
+- **[Stakeholder Analysis](content/ask-stakeholder-analysis.txt)** - 180 managers, 750+ diverse employees, HR/exec leadership
+- **[Success Criteria](content/ask-success-criteria.txt)** - Evidence-based targets: 35-42% turnover reduction, ROI 2.5:1-6.5:1
+
+### **2. ACQUIRE - Gather Evidence (4 Types)**
+
+**Scientific Evidence** (What research shows):
+- [Sources](content/evidence-scientific-sources.txt) - Meta-analyses of 708 orgs, effect sizes d ≈ 0.08 (training alone) vs. d ≈ 0.42 (training + accountability)
+- [Methods](content/evidence-scientific-methods.txt) - How we searched peer-reviewed journals
+- [Appraisal](content/evidence-scientific-appraisal.txt) - Quality assessment: HIGH (9/10 confidence)
+
+**Practitioner Evidence** (What Intel, J&J, Salesforce achieved):
+- [Sources](content/evidence-practitioner-sources.txt) - ROI 2.5:1-6.5:1, $65M-$84M savings
+- [Methods](content/evidence-practitioner-methods.txt) - Senior DEI practitioners (15-25+ years experience)
+- [Appraisal](content/evidence-practitioner-appraisal.txt) - Quality: HIGH (8/10 confidence)
+
+**Organizational Evidence** (Our internal data):
+- [Sources](content/evidence-organizational-sources.txt) - $26.2M cost breakdown, internal proof-of-concept
+- [Methods](content/evidence-organizational-methods.txt) - HRIS, engagement surveys, 360 feedback
+- [Appraisal](content/evidence-organizational-appraisal.txt) - Quality: HIGHEST (9/10 confidence—this is our data)
+
+**Stakeholder Evidence** (Employee/manager voice):
+- [Sources](content/evidence-stakeholder-sources.txt) - 86% support, 62% weekly exclusion, manager blind spot
+- [Methods](content/evidence-stakeholder-methods.txt) - 217 stakeholders surveyed/interviewed
+- [Appraisal](content/evidence-stakeholder-appraisal.txt) - Quality: HIGH (8/10 confidence)
+
+### **3. APPRAISE - Evidence Integration**
+- **[Synthesis](content/synthesis-integration.txt)** - Shows how all 4 evidence types converge on same solution
+
+### **4. APPLY - Implementation Plan**
+- **[Application](content/application-implementation.txt)** - 40-60 hour program design, 4-phase rollout
+
+### **5. ASSESS - Evaluation Design**
+- **[Assessment](content/assessment-monitoring.txt)** - Success metrics, decision points at Months 6/12/18/24
+
+---
+
+## 🎯 Key Findings
+
+### **What Doesn't Work (Why Most Diversity Training Fails):**
+- ❌ 2-hour awareness training: d ≈ 0.08 effect (negligible)
+- ❌ Training without accountability: 80%+ failure rate
+- ❌ One-and-done programs: behavior change requires sustained practice
+
+### **What Works (Evidence-Based Approach):**
+- ✅ 40-60 hour behavioral training: d ≈ 0.42 effect (moderate-large)
+- ✅ Mandatory accountability (bias interrupters in hiring/promotion/assignments)
+- ✅ Quarterly reinforcement: sustains behavior change
+- ✅ Leadership framing (not compliance): reduces resistance
+
+### **The Internal Proof-of-Concept:**
+High-inclusion units (≥80% managers trained) vs. Low-inclusion units (<70% trained):
+- **Turnover:** 15.2% vs. 23.8% (36% lower)
+- **Revenue/FTE:** $98,200 vs. $68,400 (44% higher)
+- **Engagement:** 72 vs. 60 points (12-point gap)
+
+**Translation:** We already have internal evidence the solution works. Just need to scale.
+
+---
+
+## 📈 Expected Outcomes
+
+**Timeline:**
+- **Months 6-12:** Behavior change visible (360 feedback improves, bias interrupter compliance)
+- **Months 12-18:** Business outcomes emerge (turnover declining, engagement improving)
+- **Months 18-24:** Full impact (35-42% turnover reduction, ROI 2.5:1-6.5:1)
+
+**Success Metrics:**
+- Diverse employee turnover: 27% → 16-18% (35-42% reduction)
+- Engagement gap: 12 points → ≤4 points
+- Promotion equity: 35% slower → ≤10% slower
+- Team performance: +12-19% in diverse teams
+- ROI: $9-11M annual savings on $360-540k investment
+
+---
+
+## 💼 About This Project
+
+This dashboard was created as part of **MGT357 Evidence-Based Management** (Fall 2025) to demonstrate the systematic EBM process applied to a real organizational challenge.
+
+**Contact:** [Your contact info]
+
+**View Interactive Dashboard:** Open [index.html](index.html) in your browser
 - `content/evidence-stakeholder-methods.txt`
 - `content/evidence-stakeholder-sources.txt`
 - `content/evidence-stakeholder-appraisal.txt`
