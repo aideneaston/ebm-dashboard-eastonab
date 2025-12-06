@@ -1,4 +1,28 @@
-Practitioner Evidence Summary
+## KEY FINDINGS FOR HR MANAGERS
+
+**Bottom Line:** Intel, J&J, and Salesforce achieved 2.5:1 to 6.5:1 ROI using 40-60 hour behavioral programs + accountability + bias interrupters. Results appeared in 6-18 months. All three emphasize: awareness training fails, behavioral training + systems works.
+
+**What Fortune 500 Companies Achieved:**
+- **Intel:** 19% turnover reduction, 15% innovation increase, $84M savings
+- **J&J:** 26% turnover reduction, 18% patient satisfaction improvement, $65M savings  
+- **Salesforce:** 26% turnover reduction, 22% innovation increase, $75M savings
+
+**Common Success Factors:**
+- 40-60 hour behavioral skill training (not 2-hour awareness sessions)
+- Bias interrupters in systems (rubrics, diverse panels, pay equity audits)
+- Manager accountability (metrics in performance reviews, compensation linkage)
+- Quarterly reinforcement (not one-and-done)
+
+**Timeline Expectations:**
+- Manager behavior change: 6-12 months
+- Turnover/performance improvements: 12-18 months
+- Full cultural transformation: 3-5 years
+
+**Why This Matters to Us:** If Intel reduced diverse turnover 19% and we're starting with a 69% higher rate (27% vs. 16%), we have even more room for improvement. Their approach is exactly what we're proposing.
+
+---
+
+## Practitioner Evidence Summary
 
 Expert Insights & Case-Based Evidence on Diversity → Training → Performance
 
@@ -8,22 +32,24 @@ Overview
 - Evidence Base: Practitioner interviews + 3 in-depth case studies (Intel, J&J, Salesforce)
 - Core Finding: Organizations often achieve demographic diversity without achieving performance gains due to missing "inclusion infrastructure." All experts emphasize that manager behavior is the mediating mechanism that turns diversity into performance.
 
-Key Practitioner Insights
-Universal Problem: “Diversity Without Inclusion”
+## Why Most Diversity Programs Fail: Practitioner Insights
 
-Results in:
-- Higher turnover of diverse talent (60%+ leave within 2 years)
-- Stagnant innovation despite workforce diversity
-- Exclusion from high-visibility work
-- Plateauing promotion rates for underrepresented employees
+**Universal Problem: "Diversity Without Inclusion"**
+
+**Symptoms (seen across tech, healthcare, finance, manufacturing):**
+- 60%+ diverse talent turnover within 2 years
+- Innovation stays flat despite diverse workforce
+- Diverse employees excluded from high-visibility work
+- Promotion rates plateau for underrepresented groups
 - "Diversity fatigue" among all employees
-- Estimated cost: $50K–$150K per lost diverse hire; U.S. economy loses $64B+ annually from this dynamic.
+- **Cost:** $50K-$150K per lost diverse hire; U.S. economy loses $64B+ annually
 
-Root causes consistently identified:
-- Managers lack inclusive leadership skills
-- Systems (hiring, promotion, evaluation) contain hidden bias
-- Training is often "awareness-only" instead of behavior-based
-- Organizations treat DEI as compliance—not performance strategy
+**Root Causes (Why Awareness Training Fails):**
+- **Managers lack behavioral skills:** Know bias exists, don't know how to interrupt it in daily decisions
+- **Systems contain hidden bias:** Subjective criteria ("culture fit," "executive presence") disadvantage diverse employees  
+- **Training is awareness-only:** Focuses on knowledge ("unconscious bias exists"), not behavior change
+- **No accountability:** Training evaporates without manager metrics, consequences, reinforcement
+- **Treated as compliance:** Framed as legal requirement (not performance strategy) → resistance
 
 Practitioner Guidance: What Actually Works (the “M”)
 1. Behavior-Focused Training
