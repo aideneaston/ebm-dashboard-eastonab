@@ -161,6 +161,56 @@ Outcomes (12–24 months)
 
 Implementation Phases
 
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                         24-MONTH IMPLEMENTATION TIMELINE                                        │
+│                     (4 Phases with Decision Checkpoints)                                        │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                 │
+│  MONTH:  1───2───3───4───5───6───7───8───9──10──11──12──13──14──15──16──17──18──19──20──21──24│
+│                                                                                                 │
+│  PHASE 1: PREPARATION                                                                           │
+│          ████████                                                                               │
+│          • Secure exec buy-in                                                                   │
+│          • Finalize 6-module curriculum                                                         │
+│          • Install bias interrupters + tracking                                                 │
+│                                                                                                 │
+│  PHASE 2: PILOT (30-40 managers)                        ⚠️ CHECKPOINT                          │
+│                  ████████████████████████████████       │                                       │
+│                  • Voluntary pilot with execs                                                   │
+│                  • Full 6-module program                                                        │
+│                  • Operationalize bias interrupters     Month 6: Early indicators?             │
+│                  • Quarterly reinforcement starts       • 360 scores improving?                 │
+│                                                         • Psychological safety up?              │
+│                                                         • Pilot satisfaction ≥85%?              │
+│                                                                                                 │
+│  PHASE 3: FULL ROLLOUT (all 180 managers)                                  🚦 GO/NO-GO         │
+│                                          ████████████████████████████████  │                    │
+│                                          • Train all managers in cohorts                        │
+│                                          • 12-month outcome evaluation     Month 12: Proceed?   │
+│                                          • Intersectional analysis         • Turnover ↓10%+?    │
+│                                          • Program refinement              • ROI ≥1.5:1?        │
+│                                                                            • Engagement gap      │
+│                                                                              shrinking?          │
+│                                                                                                 │
+│  PHASE 4: INSTITUTIONALIZATION                                                                  │
+│                                                                      ████████████████████        │
+│                                                                      • Embed in leadership      │
+│                                                                        expectations             │
+│                                                                      • Internal facilitators    │
+│                                                                      • Standard practice        │
+│                                                                                                 │
+│  SUCCESS METRICS BY PHASE:                                                                      │
+│  ├─ Month 6:  30-40% behavior improvement, 85%+ pilot satisfaction                             │
+│  ├─ Month 12: ≥10% turnover reduction, ≥1.5:1 ROI, engagement gap shrinking                    │
+│  ├─ Month 18: All managers trained, 15-20% turnover reduction, ≥2.5:1 ROI                      │
+│  └─ Month 24: 35-42% turnover reduction (16-18% target), ≥4-6:1 ROI, sustained behaviors       │
+│                                                                                                 │
+│  DECISION POINTS: If Month 6 or Month 12 checkpoints show insufficient progress, we pause      │
+│  and reassess. This is NOT a "hope and pray" approach—we have clear go/no-go criteria.         │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
 Phase 1: Preparation (Months 1–2)
 
 Key Activities

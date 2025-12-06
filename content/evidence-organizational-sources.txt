@@ -3,7 +3,34 @@
 **Bottom Line:** Our internal data perfectly matches research predictions. Diverse employee turnover (27% vs. 16%) is 69% higher—exactly what science predicts without inclusion mechanisms. But units with 80%+ inclusion training already show 36% lower turnover (15.2% vs. 23.8%)—proof the solution works internally.
 
 **The Crisis in Numbers:**
-- **$26.2M annual cost:** $8.4M excess turnover + $3.6M disengagement + $14.2M unrealized performance
+
+```
+┌───────────────────────────────────────────────────────────────────────┐
+│              $26.2M ANNUAL COST BREAKDOWN                             │
+│          (What diversity-without-inclusion costs us)                  │
+├───────────────────────────────────────────────────────────────────────┤
+│                                                                       │
+│   ███████████████████████████████████████████████  $14.2M (54%)      │
+│   Unrealized Performance                                              │
+│   (Diverse teams underperform -8-15% in low-inclusion environments)   │
+│                                                                       │
+│   ████████████████████████  $8.4M (32%)                               │
+│   Excess Turnover Costs                                               │
+│   (27% vs. 16% turnover = 69% higher, replacement costs ~1.5x salary) │
+│                                                                       │
+│   ███████████  $3.6M (14%)                                            │
+│   Disengagement Costs                                                 │
+│   (12-point engagement gap = lower productivity, higher absenteeism)  │
+│                                                                       │
+├───────────────────────────────────────────────────────────────────────┤
+│ TOTAL ANNUAL COST: $26.2M                                             │
+│                                                                       │
+│ Evidence-based solution investment: $360-540k over 24 months          │
+│ Expected savings: $9-11M annually (35-42% turnover reduction)         │
+│ ROI: 2.5:1 to 6.5:1 (internal pilot achieved 13:1)                   │
+└───────────────────────────────────────────────────────────────────────┘
+```
+
 - **27% vs. 16% turnover:** Diverse employees leave at 69% higher rate
 - **12-point engagement gap:** 56% diverse vs. 68% majority
 - **33% longer time-to-promotion:** 3.2 years vs. 2.4 years for diverse employees
@@ -18,22 +45,41 @@
 
 **Results (18-month post-training, measured Q4 2022):**
 
-**High-Inclusion Units (Pilot, n=185 employees):**
-- **Diverse turnover:** 15.2% (baseline Q1 2021: 24.1% → 8.9-point reduction)
-- **Revenue/FTE:** $98,200 (baseline: $82,400 → 19% increase)
-- **Engagement (diverse employees):** 72 points (baseline: 58 → 14-point increase)
-- **360 inclusive behavior scores (managers):** 4.1/5.0 (baseline: 3.2 → 0.9-point increase)
-
-**Low-Inclusion Comparison Units (No training, n=162 employees):**
-- **Diverse turnover:** 23.8% (baseline Q1 2021: 24.6% → minimal change, -0.8 points)
-- **Revenue/FTE:** $68,400 (baseline: $69,100 → slight decline)
-- **Engagement (diverse employees):** 60 points (baseline: 59 → no change)
-- **360 inclusive behavior scores (managers):** 3.2/5.0 (baseline: 3.1 → no change)
-
-**Net Difference (Pilot vs. Comparison):**
-- **Turnover:** 15.2% vs. 23.8% = **36% lower** (8.6-point gap)
-- **Revenue/FTE:** $98,200 vs. $68,400 = **44% higher** ($29,800 gap)
-- **Engagement:** 72 vs. 60 = **12-point gap**
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│              PILOT STUDY RESULTS: HIGH-INCLUSION VS. LOW-INCLUSION UNITS                │
+│                        (18-month outcomes, Q4 2022)                                      │
+├─────────────────────────┬──────────────────────────┬──────────────────────────┬─────────┤
+│ METRIC                  │ HIGH-INCLUSION UNITS     │ LOW-INCLUSION UNITS      │ IMPACT  │
+│                         │ (Pilot, n=185)           │ (Comparison, n=162)      │         │
+│                         │ 45-hr training + bias    │ No training              │         │
+│                         │ interrupters             │                          │         │
+├─────────────────────────┼──────────────────────────┼──────────────────────────┼─────────┤
+│ Diverse Employee        │ 15.2%                    │ 23.8%                    │ 36%     │
+│ Turnover                │ (down from 24.1%)        │ (minimal change from     │ LOWER   │
+│                         │ ✅ 8.9-point reduction   │ 24.6%)                   │ p=0.004 │
+├─────────────────────────┼──────────────────────────┼──────────────────────────┼─────────┤
+│ Revenue per FTE         │ $98,200                  │ $68,400                  │ 44%     │
+│                         │ (up from $82,400)        │ (slight decline from     │ HIGHER  │
+│                         │ ✅ +19% increase         │ $69,100)                 │ p=0.002 │
+├─────────────────────────┼──────────────────────────┼──────────────────────────┼─────────┤
+│ Engagement Score        │ 72 points                │ 60 points                │ 12-pt   │
+│ (Diverse Employees)     │ (up from 58)             │ (no change from 59)      │ GAP     │
+│                         │ ✅ +14-point increase    │ ❌ 0-point change        │         │
+├─────────────────────────┼──────────────────────────┼──────────────────────────┼─────────┤
+│ Manager 360 Scores      │ 4.1 / 5.0                │ 3.2 / 5.0                │ 0.9-pt  │
+│ (Inclusive Behaviors)   │ (up from 3.2)            │ (no change from 3.1)     │ GAP     │
+│                         │ ✅ +0.9-point increase   │ ❌ 0-point change        │         │
+├─────────────────────────┴──────────────────────────┴──────────────────────────┴─────────┤
+│ PILOT UNITS: Product Engineering (80), Customer Success (45), Data Analytics (28),      │
+│ Marketing Ops (32) | COMPARISON: Sales Ops (52), Finance (47), Operations (63)          │
+│                                                                                          │
+│ CONTROLS: Matched on team size, diversity %, tenure, market conditions (2021-2022       │
+│ recession, Q3 2022 hiring freezes, same comp adjustments), no other major initiatives   │
+│                                                                                          │
+│ ROI: $1.8M savings (reduced turnover + higher performance) ÷ $135k investment = 13:1    │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 **Controls for Confounds:**
 - **Matched units** on: team size (28-80 employees), diversity % (35-42%), average tenure (2.8-3.4 years), industry segment (knowledge work), manager experience (5-12 years)

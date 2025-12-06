@@ -2,6 +2,35 @@
 
 **The Core Insight:** Diversity is neither inherently good nor inherently bad for performance—it's a double-edged sword. Without the right management practices, diverse teams underperform homogeneous teams by 8-15%. WITH evidence-based inclusive leadership practices, diverse teams outperform by 12-19%. The difference is inclusion mechanisms (M).
 
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    THE DIVERSITY PARADOX VISUAL                         │
+│                                                                         │
+│                         WORKFORCE DIVERSITY                             │
+│                         (42% diverse hires)                             │
+│                                 │                                       │
+│                                 ▼                                       │
+│                    ┌────────────┴────────────┐                         │
+│                    │                         │                         │
+│       LOW INCLUSION PATH          HIGH INCLUSION PATH                  │
+│   (No behavioral training,      (40-60 hr training +                   │
+│    no bias interrupters)         bias interrupters)                    │
+│                    │                         │                         │
+│                    ▼                         ▼                         │
+│                                                                         │
+│         ❌ PERFORMANCE LIABILITY      ✅ COMPETITIVE ADVANTAGE          │
+│                                                                         │
+│    • Teams underperform -8-15%     • Teams outperform +12-19%          │
+│    • Turnover 27% (69% higher)     • Turnover 16-18% (35-42% lower)    │
+│    • Engagement gap 12 points      • Engagement gap ≤4 points          │
+│    • Cost: $26.2M annually         • ROI: 2.5:1-6.5:1                  │
+│    • Effect size: d ≈ -0.18        • Effect size: d ≈ +0.42            │
+│                                                                         │
+│  The SAME diversity input → OPPOSITE outcomes                          │
+│  The difference = Inclusion Mechanisms (M)                              │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
 **What All Four Evidence Types Agree On:**
 - **The Problem (X without M):** Our 27% diverse employee turnover vs. 16% majority (69% higher) mirrors scientific research showing 23-27% higher turnover in low-inclusion environments. $26.2M annual cost.
 - **The Solution (M):** 40-60 hour behavioral training + accountability mechanisms (bias interrupters) + quarterly reinforcement. NOT 2-hour awareness training (d ≈ 0.08—negligible).
