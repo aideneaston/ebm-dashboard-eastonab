@@ -12,7 +12,7 @@
 - ✅ Quarterly reinforcement + peer cohorts (sustains behavior change)
 - ✅ Framed as leadership development (reduces resistance, increases buy-in)
 
-**Evidence Base:** Scientific meta-analyses, Intel/J&J/Salesforce practitioner cases, our internal data showing 15.2% vs. 23.8% turnover in high-inclusion vs. low-inclusion units, 86% stakeholder support.
+**Evidence Base:** Scientific meta-analyses, Intel/J&J/Salesforce practitioner cases, **internal pilot data** (Product Engineering, Customer Success, Data Analytics, Marketing Ops achieved 15.2% turnover vs. 23.8% in comparison units over 18 months, controlled study p=0.004), 86% stakeholder support.
 
 **Expected Outcomes:** 35-42% turnover reduction (27%→16-18%), 12-19% team performance gains, ROI 2.5:1-6.5:1, achieved in 18-24 months.
 

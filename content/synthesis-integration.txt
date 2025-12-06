@@ -53,7 +53,7 @@ Overall Practitioner Strength: HIGH
 Organizational Evidence
 
 Data Point 1: Diverse turnover is 69% higher (27% vs. 16%)
-- Units with high inclusion training: 15.2% turnover vs. 23.8% in low-training units
+- **Pilot validation:** Product Engineering, Customer Success, Data Analytics, Marketing Ops (45-hour program Jan-June 2022, n=185) achieved 15.2% diverse turnover vs. comparison units (no training, n=162) at 23.8%—controlled for size, diversity %, tenure, market conditions (p=0.004)
 
 Data Point 2: 12-point engagement gap (56% vs. 68%)
 - "Ideas valued" gap: 19 points

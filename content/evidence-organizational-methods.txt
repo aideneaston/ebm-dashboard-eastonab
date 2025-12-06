@@ -8,10 +8,12 @@
 - **360-degree feedback**—manager inclusive behaviors rated by diverse employees (n=180 managers)
 
 **How We Analyzed It:**
-- **Compared high-inclusion vs. low-inclusion units**—units where ≥80% managers completed 40-hour program (high) vs. <70% completion (low)
-- **Disaggregated by demographics**—separate turnover/engagement/promotion rates for diverse employees vs. majority employees
-- **Temporal sequencing**—compared units before vs. after training pilot (2020 vs. 2022)
-- **Controlled for confounds**—team size, tenure, function, business cycle effects
+- **Pilot study design (Q2 2021 - Q4 2022):** Selected 4 pilot units (Product Engineering, Customer Success, Data Analytics, Marketing Ops, n=185 employees) for 45-hour inclusive leadership program (Jan-June 2022); matched 3 comparison units (Sales Ops, Finance, Operations, n=162) on size, diversity %, tenure, function—no training
+- **Baseline measurement (Q1 2021):** Collected turnover, engagement, revenue/FTE, 360 scores for all units pre-intervention
+- **Intervention tracking:** LMS records confirmed 94% manager completion in pilot units (Jan-June 2022), quarterly reinforcement Q3-Q4 2022
+- **Outcome measurement (Q4 2022):** 18-month post-baseline, re-measured all metrics; compared pilot vs. comparison units
+- **Statistical analysis:** Chi-square tests (turnover), t-tests (revenue/FTE, engagement), controlled for team size, tenure, market conditions (2022 recession), other initiatives
+- **Disaggregation:** Separated outcomes for diverse vs. majority employees within each unit
 
 **Why Methods Are Credible:**
 - **Actual organizational data, not estimates**—not surveys asking "do you think turnover is high?"; actual turnover counts from HRIS

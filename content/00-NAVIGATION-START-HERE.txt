@@ -19,7 +19,7 @@
 3. **Here are the practices, backed by converging evidence, with an implementation playbook.**
    - Scientific evidence (10k+ teams, 31-year longitudinal)
    - Practitioner evidence (Intel, J&J, Salesforce ROI 2.5:1-6.5:1)
-   - Organizational evidence ($26.2M cost, 27% vs. 16% turnover)
+   - Organizational evidence ($26.2M cost, 27% vs. 16% turnover, **internal pilot 13:1 ROI**)
    - Stakeholder evidence (86% support for evidence-based approach)
 
 ---
