@@ -16,13 +16,13 @@
 
 **Expected Outcomes:** 35-42% turnover reduction (27%→16-18%), 12-19% team performance gains, ROI 2.5:1-6.5:1, achieved in 18-24 months.
 
----
+═══════════════════════════════════════════════════════════════════════════
 
-Solution Design Summary
+## **Solution Design Summary**
 
-Final Solution: Inclusive Leadership Development Program (ILDP)
+### **Final Solution: Inclusive Leadership Development Program (ILDP)**
 
-Core Components
+**Core Components:**
 - 40–60 hour inclusive leadership training over 6 months (monthly modules + deliberate practice)
 - Mandatory accountability systems: bias interrupters for hiring, promotion, assignments; demographic tracking
 - Quarterly reinforcement sessions + peer cohorts for sustained behavior change
@@ -41,6 +41,8 @@ Core Components
   - Hour 7-8: Personal action planning (identify 2-3 high-leverage behaviors to change)
 - **Takeaway Tool:** Inclusive meeting checklist (pre-assign speaking roles, rotate note-takers, use chat for introverts, track who speaks)
 
+---
+
 **Module 2: Bias Interrupters for Hiring (8 hours, Month 2)**
 - **Content:** How unstructured hiring introduces bias, evidence-based structured hiring practices
 - **Activities:**
@@ -49,6 +51,8 @@ Core Components
   - Hour 5-6: Practice scoring candidate responses using rubric (reduce "gut feel" variation)
   - Hour 7-8: Role-play diverse interview panels (how to surface different perspectives without groupthink)
 - **Takeaway Tool:** Structured interview guide template + scoring rubric (embedded in ATS system, 100% usage required for all manager-led interviews)
+
+---
 
 **Module 3: Fair Performance Evaluations (8 hours, Month 3)**
 - **Content:** Performance rating bias patterns (leniency bias, recency bias, stereotype threat), evidence-based evaluation practices
@@ -88,12 +92,18 @@ Core Components
   - Hour 11-12 (optional): Executive panel—senior leaders share their inclusion journey, model vulnerability
 - **Takeaway Tool:** Accountability dashboard (shows each manager's bias interrupter usage %, 360 behavior scores, team outcomes—transparent to skip-level leaders)
 
+
+-
+
 **Ongoing Reinforcement (Post-Training):**
 - **Quarterly 2-hour cohort sessions** (case study discussions, skill refreshers, new research updates)
 - **Monthly peer coaching check-ins** (30-minute triads, observe meetings, give feedback)
 - **Annual 360 feedback refresh** (track behavior change longitudinally)
 
 ---
+
+
+-
 
 **What Are "Bias Interrupters"? Concrete Examples**
 
@@ -130,15 +140,18 @@ Core Components
 
 ---
 
-Evidence Base
+
+**Evidence Base:**
 - Scientific evidence: 40+ hours + accountability → moderate–large effects (d ≈ 0.42); training alone → negligible
 - Practitioner evidence (Intel, J&J, Salesforce): 40–60 hour programs + structural changes → ROI 2.5:1–6.5:1
 - Organizational evidence: $26.2M annual cost, high diverse turnover (27% vs. 16%)
 - Stakeholder evidence: 86% support, broad buy-in if training is spaced and framed as leadership development
 
-Theory of Change
+---
 
-Problem
+### **Theory of Change**
+
+**Problem**
 - Diverse employees leave at higher rates due to inconsistent inclusive leadership behaviors and lack of structural accountability
 
 Inputs
@@ -159,7 +172,9 @@ Outcomes (12–24 months)
 - Promotion parity within 5–10%
 - 12–19% performance lift in diverse teams
 
-Implementation Phases
+═══════════════════════════════════════════════════════════════════════════
+
+## **Implementation Phases**
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────┐

@@ -1,9 +1,13 @@
+═══════════════════════════════════════════════════════════════════════════════
+
 ## **X → Y Framework**
 ### **Current State (X - What's happening now that's problematic?)**
 Our organization is losing diverse talent at 69% higher rates than majority employees (27% vs. 16% turnover), costing $26.2M annually. Despite increasing diversity in hiring (42% of new hires), we have a "revolving door" problem—diverse employees leave within 18 months or stall in their careers (33% longer time-to-promotion). The gap isn't representation; it's day-to-day inclusion: diverse employees report 12-point lower engagement, with 62% experiencing weekly exclusion. Without the right management practices, our diversity is currently a performance liability—diverse teams in low-inclusion units underperform by 8-15% and show 23.8% turnover vs. 15.2% in high-inclusion units.
 
 ### **Desired State (Y - What outcome do we want to achieve?)**
 Transform diversity from a cost center into a competitive advantage. With evidence-based inclusive leadership practices, we can flip diverse team performance from -8-15% to +12-19%, reduce diverse employee turnover by 35-42% (from 27% to 16-18%), close the 12-point engagement gap to ≤4 points, and achieve promotion equity within 5-10%. This translates to ROI of 2.5:1 to 6.5:1 through reduced turnover costs, increased innovation, and stronger team performance—while becoming an employer of choice for top diverse talent.
+
+---
 
 ## **PICOC Framework**
 ### **Population (P - Who is affected by this problem?)**
@@ -23,8 +27,12 @@ Evidence-based targets within 18-24 months: 35-42% reduction in diverse employee
 ### **Context (C - Where/when does this apply?)**
 Our organization, starting with 180 managers over 24 months. Generalizable to other organizations with similar diversity-without-inclusion patterns, particularly those with: high diverse hiring but high diverse turnover, engagement gaps between diverse and majority employees, and managers lacking behavioral inclusive leadership training.
 
+---
+
 ## **Clear Problem Statement**
 We have successfully increased workforce diversity (42% diverse new hires), but managers lack the behavioral skills and structural tools to translate diversity into performance advantage. This creates a "diversity paradox": our diverse teams currently underperform homogeneous teams by 8-15%, diverse employees leave at 69% higher rates (27% vs. 16%), and we're spending $26.2M annually managing the consequences—when evidence shows the right inclusive leadership practices would flip these outcomes to 12-19% performance gains and 2.5:1-6.5:1 ROI.
+
+---
 
 ## **Why This Problem Matters**
 ### **Impact on Organization**
