@@ -1,4 +1,4 @@
-## KEY FINDINGS FOR HR MANAGERS
+## **KEY FINDINGS FOR HR MANAGERS**
 
 **Bottom Line:** Our internal data perfectly matches research predictions. Diverse employee turnover (27% vs. 16%) is 69% higher—exactly what science predicts without inclusion mechanisms. But units with 80%+ inclusion training already show 36% lower turnover (15.2% vs. 23.8%)—proof the solution works internally.
 
@@ -95,7 +95,7 @@
 
 ---
 
-## Organizational Data Analysis
+## **Organizational Data Analysis**
 
 **Data Sources (Full-year 2022):**
 - HRIS (demographics, headcount, promotions, turnover)

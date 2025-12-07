@@ -1,4 +1,4 @@
-## ORGANIZATIONAL METHODS SUMMARY
+## **ORGANIZATIONAL METHODS SUMMARY**
 
 **What Data We Collected:**
 - **HRIS data (2022 full-year)**—demographics, turnover, promotions, compensation (disaggregated by race/ethnicity, gender)
@@ -25,9 +25,9 @@
 
 ---
 
-## Detailed Organizational Evidence Methods
+## **Detailed Organizational Evidence Methods**
 
-## Purpose of Organizational Evidence Collection
+## **Purpose of Organizational Evidence Collection**
 
 **Primary Goal:** Establish baseline levels of X→M→Y model using internal data
 
@@ -55,7 +55,7 @@
 
 ---
 
-## Data Sources
+## **Data Sources**
 
 **HRIS / People Analytics System (Primary Source):**
 - **Employee demographics:** Race/ethnicity, gender, tenure, job level, function, location (from HR records)
@@ -92,7 +92,7 @@
 
 ---
 
-## Data Collection Approach
+## **Data Collection Approach**
 
 **Time Period:** 2022 full-year (most recent complete year with all data sources available)
 
@@ -126,7 +126,7 @@
 
 ---
 
-## Why Organizational Methods Are Credible
+## **Why Organizational Methods Are Credible**
 
 **Strengths:**
 

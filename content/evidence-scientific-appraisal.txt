@@ -1,4 +1,4 @@
-## SCIENTIFIC EVIDENCE QUALITY SUMMARY
+## **SCIENTIFIC EVIDENCE QUALITY SUMMARY**
 
 **Overall Quality: HIGH**
 
@@ -24,9 +24,9 @@
 
 ---
 
-## Detailed Scientific Evidence Appraisal
+## **Detailed Scientific Evidence Appraisal**
 
-## Overall Scientific Evidence Rating: HIGH
+## **Overall Scientific Evidence Rating: HIGH**
 
 **Confidence Level:** ~9/10
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Strengths of Scientific Evidence
+## **Strengths of Scientific Evidence**
 
 **1. Meta-Analyses Provide Strong Synthesis**
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Limitations of Scientific Evidence (Acknowledged)
+## **Limitations of Scientific Evidence (Acknowledged)**
 
 **1. Western/Anglophone Bias**
 
@@ -124,7 +124,7 @@
 
 ---
 
-## Confidence Assessment: HIGH (9/10)
+## **Confidence Assessment: HIGH (9/10)**
 
 **Why 9/10 (not 10/10):**
 - Small remaining uncertainty about optimal implementation details (e.g., 40 hours vs. 60 hours of training)

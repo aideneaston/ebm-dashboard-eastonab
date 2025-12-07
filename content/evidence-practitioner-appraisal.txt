@@ -1,4 +1,4 @@
-## PRACTITIONER EVIDENCE QUALITY SUMMARY
+## **PRACTITIONER EVIDENCE QUALITY SUMMARY**
 
 **Overall Quality: HIGH**
 
@@ -23,11 +23,11 @@
 
 ---
 
-## Detailed Practitioner Evidence Appraisal
+## **Detailed Practitioner Evidence Appraisal**
 
-## Individual Practitioner Credibility
+## **Individual Practitioner Credibility**
 
-### Expert 1: Pamela Fuller (FranklinCovey Co-CEO)
+### **Expert 1: Pamela Fuller (FranklinCovey Co-CEO)**
 
 **Professional Credibility:**
 - **20+ years** in organizational development and inclusion
@@ -49,7 +49,7 @@
 
 ---
 
-### Expert 2: Dr. Ella F. Washington (Georgetown Professor & Ellavate Solutions)
+### **Expert 2: Dr. Ella F. Washington (Georgetown Professor & Ellavate Solutions)**
 
 **Professional Credibility:**
 - **15+ years** in organizational psychology and DEI strategy
@@ -71,9 +71,9 @@
 
 ---
 
-## Case Study Credibility
+## **Case Study Credibility**
 
-### Case Study 1: Intel Inclusive Leadership Program
+### **Case Study 1: Intel Inclusive Leadership Program**
 
 **Source Credibility:**
 - **Data sources:** Intel public diversity reports, HBR case study, interviews with Intel CDO
@@ -101,7 +101,7 @@
 
 ---
 
-### Case Study 2: Johnson & Johnson (J&J) Inclusive Leadership
+### **Case Study 2: Johnson & Johnson (J&J) Inclusive Leadership**
 
 **Source Credibility:**
 - **Data sources:** J&J D&I Impact Reports (2019-2023), interviews with CDO Wanda Bryant Hope, *Organizational Dynamics* peer-reviewed case study
@@ -129,7 +129,7 @@
 
 ---
 
-### Case Study 3: Salesforce Inclusive Leadership
+### **Case Study 3: Salesforce Inclusive Leadership**
 
 **Documented in:** HBR case study, Salesforce public equality reports
 
@@ -149,9 +149,9 @@
 
 ---
 
-## Evidence Quality & Consistency
+## **Evidence Quality & Consistency**
 
-### Where Practitioner Evidence Strongly Agrees (Convergence)
+### **Where Practitioner Evidence Strongly Agrees (Convergence)**
 
 **Across practitioners (Fuller, Washington) and case studies (Intel, J&J, Salesforce):**
 
@@ -185,7 +185,7 @@
 
 ---
 
-## Limitations & Gaps (Acknowledged)
+## **Limitations & Gaps (Acknowledged)**
 
 **1. Success Case Bias:**
 - **Limitation:** Intel/J&J/Salesforce case studies represent successful implementations—failures less likely to be published in HBR
@@ -209,7 +209,7 @@
 
 ---
 
-## Confidence Assessment: HIGH (8/10)
+## **Confidence Assessment: HIGH (8/10)**
 
 **Why 8/10:**
 - Senior practitioners with 15-25+ years experience across 200+ organizations

@@ -1,4 +1,4 @@
-## PRACTITIONER METHODS SUMMARY
+## **PRACTITIONER METHODS SUMMARY**
 
 **Who We Consulted:**
 - **3 senior DEI practitioners** (15-25+ years experience)—Chief Diversity Officers from Fortune 500 tech/healthcare companies
@@ -21,9 +21,9 @@
 
 ---
 
-## Detailed Practitioner Evidence Methods
+## **Detailed Practitioner Evidence Methods**
 
-## Purpose of Practitioner Evidence
+## **Purpose of Practitioner Evidence**
 
 **Primary Goal:** Collect practitioner insights on real-world challenges in managing diverse teams
 - Why do most diversity initiatives fail? (resistance patterns, barriers, implementation pitfalls)
@@ -36,7 +36,7 @@
 
 ---
 
-## Who We Consulted
+## **Who We Consulted**
 
 **Senior DEI Practitioners (n=3)**
 
@@ -71,7 +71,7 @@
 
 ---
 
-## How We Collected Practitioner Evidence
+## **How We Collected Practitioner Evidence**
 
 **Practitioner Interviews (n=3)**
 
@@ -104,7 +104,7 @@
 
 ---
 
-## Why Practitioner Methods Are Credible
+## **Why Practitioner Methods Are Credible**
 
 **Strengths:**
 - **Senior practitioners with 15-25+ years experience**—not entry-level HR, seasoned experts who've seen many implementations succeed and fail

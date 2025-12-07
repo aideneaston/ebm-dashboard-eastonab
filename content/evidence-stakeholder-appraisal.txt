@@ -1,4 +1,4 @@
-## STAKEHOLDER EVIDENCE QUALITY SUMMARY
+## **STAKEHOLDER EVIDENCE QUALITY SUMMARY**
 
 **Overall Quality: HIGH**
 
@@ -26,11 +26,11 @@
 
 ---
 
-## Detailed Stakeholder Evidence Appraisal
+## **Detailed Stakeholder Evidence Appraisal**
 
-## Overall Evidence Quality Assessment
+## **Overall Evidence Quality Assessment**
 
-### Sample Representativeness: HIGH
+### **Sample Representativeness: HIGH**
 
 **Target Population:** ~400 relevant internal stakeholders
 - ~50 managers
@@ -67,7 +67,7 @@
 - **Gender:** 59% female vs. 33% in org—oversamples women (appropriate, as key affected group)
 - **Performance level:** 32% high performers vs. ~15% org average—**intentional oversampling** to learn exemplar behaviors from "what's working"
 
-### Response Quality Indicators: HIGH
+### **Response Quality Indicators: HIGH**
 
 **Survey Quality:**
 - **163 total survey responses:** 148 complete (91%), 15 partial (9%)
@@ -101,9 +101,9 @@
 
 ---
 
-## Credibility by Stakeholder Group
+## **Credibility by Stakeholder Group**
 
-### Senior Leaders (n=9)
+### **Senior Leaders (n=9)**
 
 **Credibility: HIGH for strategy, resources, and business case**
 
@@ -120,7 +120,7 @@
 
 **Mitigation:** Executive sponsors participate in training (model behaviors), quarterly progress reports (manage expectations), early wins from pilot (build credibility)
 
-### Mid-Level Managers (n=35 surveyed; 12 interviewed)
+### **Mid-Level Managers (n=35 surveyed; 12 interviewed)**
 
 **Credibility: MEDIUM-HIGH on implementation realities, LOWER on self-awareness**
 

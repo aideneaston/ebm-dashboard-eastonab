@@ -1,4 +1,4 @@
-## ORGANIZATIONAL EVIDENCE QUALITY SUMMARY
+## **ORGANIZATIONAL EVIDENCE QUALITY SUMMARY**
 
 **Overall Quality: HIGH (Strongest of All Four Evidence Types)**
 
@@ -23,9 +23,9 @@
 
 ---
 
-## Detailed Organizational Evidence Appraisal
+## **Detailed Organizational Evidence Appraisal**
 
-## Data Source Reliability
+## **Data Source Reliability**
 Primary Data Sources
 
 Data Source 1: HRIS (Workday)

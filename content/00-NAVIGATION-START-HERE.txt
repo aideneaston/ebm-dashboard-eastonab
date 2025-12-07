@@ -1,4 +1,4 @@
-## HOW TO USE THIS DASHBOARD
+## **HOW TO USE THIS DASHBOARD**
 
 **Purpose:** This dashboard demonstrates evidence-based management in action—showing how to transform workforce diversity from a $26.2M cost center into a competitive advantage delivering 2.5:1-6.5:1 ROI.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## KEY MESSAGES
+## **KEY MESSAGES**
 
 1. **Diversity can be a competitive advantage, but only if we manage it right.**
    - Without inclusion practices: diverse teams underperform by 8-15%, diverse turnover 69% higher
@@ -24,7 +24,7 @@
 
 ---
 
-## NAVIGATION GUIDE
+## **NAVIGATION GUIDE**
 
 ### **Busy? Read These First (15 minutes):**
 
@@ -71,7 +71,7 @@
 
 ---
 
-## DOCUMENT FLOW LOGIC
+## **DOCUMENT FLOW LOGIC**
 
 **ASK Section** → Defines problem and success criteria using evidence-based targets (not initial guesses)
 
@@ -85,7 +85,7 @@
 
 ---
 
-## WHAT TO LOOK FOR
+## **WHAT TO LOOK FOR**
 
 ### **If You're a Skeptical Manager:**
 - Check synthesis evidence convergence (all four types agree—rare in management research)
@@ -111,7 +111,7 @@
 
 ---
 
-## KEY TERMS GLOSSARY
+## **KEY TERMS GLOSSARY**
 
 **Bias Interrupters:** Structural processes that reduce bias in talent decisions without relying solely on manager goodwill. Examples: standardized interview guides with scoring rubrics, blind resume review, calibration meetings for performance ratings, transparent assignment criteria. These are system-level guardrails embedded in workflows—not just awareness training.
 
@@ -129,7 +129,7 @@
 
 ---
 
-## THE BOTTOM LINE
+## **THE BOTTOM LINE**
 
 **Current state:** Diversity is costing us $26.2M annually because we lack inclusion mechanisms. Diverse teams underperform, diverse employees leave at 69% higher rates, and we're missing competitive advantage.
 

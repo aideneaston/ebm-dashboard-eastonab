@@ -1,55 +1,55 @@
-## X → Y Framework
-### Current State (X - What's happening now that's problematic?)
+## **X → Y Framework**
+### **Current State (X - What's happening now that's problematic?)**
 Our organization is losing diverse talent at 69% higher rates than majority employees (27% vs. 16% turnover), costing $26.2M annually. Despite increasing diversity in hiring (42% of new hires), we have a "revolving door" problem—diverse employees leave within 18 months or stall in their careers (33% longer time-to-promotion). The gap isn't representation; it's day-to-day inclusion: diverse employees report 12-point lower engagement, with 62% experiencing weekly exclusion. Without the right management practices, our diversity is currently a performance liability—diverse teams in low-inclusion units underperform by 8-15% and show 23.8% turnover vs. 15.2% in high-inclusion units.
 
-### Desired State (Y - What outcome do we want to achieve?)
+### **Desired State (Y - What outcome do we want to achieve?)**
 Transform diversity from a cost center into a competitive advantage. With evidence-based inclusive leadership practices, we can flip diverse team performance from -8-15% to +12-19%, reduce diverse employee turnover by 35-42% (from 27% to 16-18%), close the 12-point engagement gap to ≤4 points, and achieve promotion equity within 5-10%. This translates to ROI of 2.5:1 to 6.5:1 through reduced turnover costs, increased innovation, and stronger team performance—while becoming an employer of choice for top diverse talent.
 
-## PICOC Framework
-### Population (P - Who is affected by this problem?)
+## **PICOC Framework**
+### **Population (P - Who is affected by this problem?)**
 180 managers across our organization who lead diverse teams. Secondary impact: 750+ diverse employees experiencing inclusion gaps (62% weekly exclusion, 79% considering leaving), HR leadership responsible for $26.2M annual diversity-related costs, and executive leadership seeking competitive advantage through diversity.
 
-### Intervention (I - What solution/action are we considering?)
+### **Intervention (I - What solution/action are we considering?)**
 Implement a 40-60 hour Inclusive Leadership Development Program (ILDP) combining behavioral skill training, accountability mechanisms (bias interrupters in hiring/promotion/assignment decisions), and quarterly reinforcement—framed as leadership effectiveness training, not compliance. This addresses the root cause: managers lack specific behavioral tools to create inclusion, leading to diverse team underperformance.
 
-### Comparison (C - What alternatives exist?)
+### **Comparison (C - What alternatives exist?)**
 1. Continue current 2-hour awareness training (internal evidence shows zero measurable impact; scientific evidence shows d ≈ 0.08 effect—negligible)
 2. Hire more diverse talent without changing management practices (perpetuates "revolving door"—42% diverse hires but 27% turnover)
 3. Do nothing and accept $26.2M annual cost plus reputation risk
 
-### Outcomes (O - What will success look like?)
+### **Outcomes (O - What will success look like?)**
 Evidence-based targets within 18-24 months: 35-42% reduction in diverse employee turnover (27%→16-18%), engagement gap closure from 12 points to ≤4 points, promotion equity within 5-10% of majority employees, 12-19% performance improvement in diverse teams, and ROI of 2.5:1 to 6.5:1 on program investment ($360-540k).
 
-### Context (C - Where/when does this apply?)
+### **Context (C - Where/when does this apply?)**
 Our organization, starting with 180 managers over 24 months. Generalizable to other organizations with similar diversity-without-inclusion patterns, particularly those with: high diverse hiring but high diverse turnover, engagement gaps between diverse and majority employees, and managers lacking behavioral inclusive leadership training.
 
-## Clear Problem Statement
+## **Clear Problem Statement**
 We have successfully increased workforce diversity (42% diverse new hires), but managers lack the behavioral skills and structural tools to translate diversity into performance advantage. This creates a "diversity paradox": our diverse teams currently underperform homogeneous teams by 8-15%, diverse employees leave at 69% higher rates (27% vs. 16%), and we're spending $26.2M annually managing the consequences—when evidence shows the right inclusive leadership practices would flip these outcomes to 12-19% performance gains and 2.5:1-6.5:1 ROI.
 
-## Why This Problem Matters
-### Impact on Organization
+## **Why This Problem Matters**
+### **Impact on Organization**
 **Current State:** $26.2M annual cost from turnover, lost productivity, and disengagement. Diverse teams underperforming homogeneous teams. 33% longer time-to-promotion for diverse employees creates pipeline bottleneck. Reputation risk as employer brand weakens among diverse talent pools.
 
 **Opportunity Cost:** If we implement evidence-based practices, we gain 12-19% performance improvement in diverse teams (our largest and fastest-growing segment), achieve 35-42% turnover reduction saving $9-11M annually, and become employer of choice for diverse talent—a competitive advantage in tight labor markets.
 
-### Stakeholder Impact
+### **Stakeholder Impact**
 **Diverse Employees:** 62% experience weekly exclusion, 79% considering leaving, career advancement 33% slower—represents both ethical imperative and business risk.
 
 **Managers:** Currently lack tools to lead effectively (self-rate 4.2 on inclusion but receive 3.1 from direct reports), leading to team underperformance and higher stress from turnover churn.
 
 **HR/Leadership:** Accountable for $26.2M cost, reputation risk, and unrealized performance potential.
 
-### Strategic Alignment
+### **Strategic Alignment**
 Addressing this transforms diversity from compliance obligation to competitive advantage: stronger innovation (diverse teams generate more patents/ideas when inclusion is high), better financial performance (top-quartile inclusion units show $98,200 revenue per employee vs. $68,400 in bottom quartile), and employer brand strength in diverse talent markets.
 
-## Evidence Questions to Explore
-### For the Problem (Step 2)
+## **Evidence Questions to Explore**
+### **For the Problem (Step 2)**
 - What does scientific evidence show about diversity without inclusion? (Effect sizes, longitudinal patterns)
 - Do our internal metrics match research findings? (Turnover rates, engagement gaps, performance differentials)
 - What do diverse employees actually experience day-to-day? (Stakeholder voice)
 - What differentiates high-performing diverse teams from low-performing ones?
 
-### For the Solution (Step 4)
+### **For the Solution (Step 4)**
 - What's the evidence on diversity training effectiveness? (Why do most programs fail? What design features work?)
 - What program dosage/intensity is required for behavior change? (2 hours vs. 40 hours vs. 60 hours)
 - What accountability mechanisms convert training to sustained practice?

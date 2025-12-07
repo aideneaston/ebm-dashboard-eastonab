@@ -1,4 +1,4 @@
-## SCIENTIFIC METHODS SUMMARY
+## **SCIENTIFIC METHODS SUMMARY**
 
 **Research Question:** How can we turn diversity into competitive advantage? Under what conditions does diversity improve performance vs. create conflict?
 
@@ -22,9 +22,9 @@
 
 ---
 
-## Detailed Scientific Evidence Methods
+## **Detailed Scientific Evidence Methods**
 
-## Research Question
+## **Research Question**
 
 **Primary Question:** How can we use diversity in the workplace to better the organization and increase teams' engagement and performance?
 
@@ -44,7 +44,7 @@
 
 **Why this framing matters:** HR managers need to know diversity itself isn't the solution—it's diversity + the right mechanisms (M) that produce performance gains. Research directly tests this.
 
-## Database & Source Strategy
+## **Database & Source Strategy**
 
 **Primary Databases Used:**
 
@@ -68,7 +68,7 @@
 
 ---
 
-## Search Terms (Simplified for HR Managers)
+## **Search Terms (Simplified for HR Managers)**
 
 **HR managers don't need Boolean search strings—here's what we searched for:**
 
@@ -90,7 +90,7 @@
 
 ---
 
-## Quality Criteria & Filters
+## **Quality Criteria & Filters**
 
 **To ensure HIGH-QUALITY scientific evidence, included only studies meeting these criteria:**
 

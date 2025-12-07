@@ -1,4 +1,4 @@
-## KEY FINDINGS FOR HR MANAGERS
+## **KEY FINDINGS FOR HR MANAGERS**
 
 **Bottom Line:** Most diversity training fails because it's awareness-only. Training + accountability produces moderate-to-large effects (d ≈ 0.42). Research predicts 23-27% higher diverse turnover without inclusion mechanisms—we see exactly that (27% vs. 16%).
 
@@ -58,9 +58,9 @@
 
 ---
 
-## Detailed Research Findings
+## **Detailed Research Findings**
 
-### Study 1: Why Most Diversity Training Fails (Kalev, Dobbin, & Kelly, 2006)
+### **Study 1: Why Most Diversity Training Fails (Kalev, Dobbin, & Kelly, 2006)**
 
 **Research Design:** 708 Fortune 500 organizations tracked over 31 years (1971-2002)
 
@@ -83,7 +83,7 @@
 
 **What This Means for Our Solution:** Training must be paired with structural accountability. "Check-the-box" programs won't work—we need behavioral skill training plus systems that sustain change.
 
-### Study 2: How Diversity Becomes Performance Advantage (Van Knippenberg & Schippers, 2007; Shore et al., 2011)
+### **Study 2: How Diversity Becomes Performance Advantage (Van Knippenberg & Schippers, 2007; Shore et al., 2011)**
 
 **Research Design:** Meta-analysis of 108 studies, 10,632 teams across 23 countries
 
@@ -106,9 +106,9 @@ Diversity has two competing pathways:
 
 ---
 
-## Scientific Evidence Summary: What All the Research Agrees On
+## **Scientific Evidence Summary: What All the Research Agrees On**
 
-### The Problem (Diversity Without Inclusion Mechanisms)
+### **The Problem (Diversity Without Inclusion Mechanisms)**
 
 **Consistent finding across all studies:**
 - Diverse employee turnover: 23-27% higher than majority employees
@@ -123,7 +123,7 @@ Diversity has two competing pathways:
 
 **Conclusion:** We're experiencing the standard "diversity paradox" documented in research. This is good news—it means the problem is solvable using known approaches.
 
-### The Solution (What Actually Works)
+### **The Solution (What Actually Works)**
 
 **Training dosage matters:**
 - <20 hours: Little to no effect
@@ -147,7 +147,7 @@ Diversity has two competing pathways:
 - Sustain through reinforcement (quarterly, not one-and-done)
 - Link to manager performance reviews (real accountability)
 
-### Important Caveats
+### **Important Caveats**
 
 **Context matters:** Effect sizes vary by industry, baseline culture, implementation quality. We may see higher or lower than average—hence our Month 12 go/no-go checkpoint.
 

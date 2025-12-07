@@ -1,4 +1,4 @@
-## STAKEHOLDER METHODS SUMMARY
+## **STAKEHOLDER METHODS SUMMARY**
 
 **Who We Asked:** 217 stakeholders across all organizational levels
 - Senior leadership (10)—funding, commitment, accountability expectations
@@ -22,9 +22,9 @@
 
 ---
 
-## Detailed Stakeholder Evidence Methods
+## **Detailed Stakeholder Evidence Methods**
 
-## Purpose of the Stakeholder Evidence Strategy
+## **Purpose of the Stakeholder Evidence Strategy**
 
 **Primary Goal:** Understand lived experiences of diverse employees and managers within X→M→Y causal framework
 
@@ -43,11 +43,11 @@
 - What concerns must be addressed for successful implementation?
 
 
-## Stakeholder Groups and Engagement Methods
+## **Stakeholder Groups and Engagement Methods**
 
 **Stakeholder evidence collected across 217 individuals using structured mixed-methods approach (surveys, interviews, focus groups, 360-degree feedback). Sampling ensured representativeness, diversity of perspectives, and deep insight into X→M→Y mechanisms.**
 
-### Senior Leadership (n=10)
+### **Senior Leadership (n=10)**
 
 **Why this group matters:** Fund, sponsor, sustain initiative; shape organizational norms; control performance/accountability structures; 100% support required for credibility
 
@@ -57,7 +57,7 @@
 
 **Response rate:** 100% (CEO secured mandatory participation)
 
-### Mid-Level Managers (n=50)
+### **Mid-Level Managers (n=50)**
 
 **Why this group matters:** Directly create, reinforce, or fail to create inclusion mechanisms (M); they are the intervention target
 
@@ -68,7 +68,7 @@
 
 **Response rate:** 68% survey; 30% interviews (purposive sampling for depth)
 
-### High-Performing Inclusive Managers (n=15)
+### **High-Performing Inclusive Managers (n=15)**
 
 **Why this group matters:** Serve as exemplars of strong inclusion mechanisms (M); provide behavioral models for training design
 
@@ -79,7 +79,7 @@
 
 **Response rate:** 100%
 
-### Diverse Employees (n=150)
+### **Diverse Employees (n=150)**
 
 **Why this group matters:** Directly experience consequences of weak inclusion mechanisms; essential for validating X→M→Y and quantifying problem severity
 
@@ -91,7 +91,7 @@
 
 **Response rate:** 57% survey; 50+ focus group participants
 
-### 360-Degree Feedback (n=180 managers)
+### **360-Degree Feedback (n=180 managers)**
 
 **Why this matters:** Identifies manager self-awareness gap—do managers realize their behaviors aren't inclusive?
 
@@ -104,9 +104,9 @@
 
 ---
 
-## Data Collection Methods
+## **Data Collection Methods**
 
-### Surveys
+### **Surveys**
 
 **Platform:** Qualtrics (anonymous, secure, advanced branching logic)
 
@@ -122,7 +122,7 @@
 
 **Why credible:** Anonymous (reduces social desirability bias), validated scales (not ad hoc questions), large sample (n=150 diverse employees, n=50 managers)
 
-### Interviews
+### **Interviews**
 
 **Structure:** Semi-structured with core questions + flexibility for follow-up
 
@@ -133,7 +133,7 @@
 
 **Why credible:** Depth and nuance beyond survey responses; opportunity to probe for specifics; builds trust through confidentiality
 
-### Focus Groups
+### **Focus Groups**
 
 **Structure:** 6 sessions, stratified by:
 - Gender (2 women-only, 2 men-only, 2 mixed)
@@ -146,7 +146,7 @@
 
 ---
 
-## Sampling Strategy
+## **Sampling Strategy**
 
 **Purpose:** Ensure representativeness and avoid "vocal minority" bias
 
