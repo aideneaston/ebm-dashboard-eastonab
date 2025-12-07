@@ -56,7 +56,7 @@
 
 **Why This Matters to Us:** Research predicts diverse employee turnover 23-27% higher without inclusion mechanisms. Our data: 27% vs. 16% (69% higher)—perfect match. This validates that our problem is solvable using evidence-based approaches.
 
----
+═══════════════════════════════════════════════════════════════════════════
 
 ## **Detailed Research Findings**
 
@@ -83,6 +83,8 @@
 
 **What This Means for Our Solution:** Training must be paired with structural accountability. "Check-the-box" programs won't work—we need behavioral skill training plus systems that sustain change.
 
+---
+
 ### **Study 2: How Diversity Becomes Performance Advantage (Van Knippenberg & Schippers, 2007; Shore et al., 2011)**
 
 **Research Design:** Meta-analysis of 108 studies, 10,632 teams across 23 countries
@@ -104,7 +106,7 @@ Diversity has two competing pathways:
 - Inclusion climate (created by manager behavior) is the mechanism that flips diverse team performance positive
 - Focus on manager behavioral skills (not awareness) is the right lever
 
----
+═══════════════════════════════════════════════════════════════════════════
 
 ## **Scientific Evidence Summary: What All the Research Agrees On**
 

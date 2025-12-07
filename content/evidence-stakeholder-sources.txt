@@ -31,7 +31,7 @@
 
 **Why This Matters:** Strong stakeholder support (86%) de-risks implementation. Diverse employee experiences validate the $26.2M problem is real (not perception, not exaggeration). Manager self-awareness gap (4.2 vs. 3.1) confirms they need skill training, not just awareness. This isn't a fringe complaint—87% organization-wide agree problem exists.
 
----
+═══════════════════════════════════════════════════════════════════════════
 
 ## **Detailed Stakeholder Evidence**
 
@@ -50,7 +50,9 @@
 - Senior leadership (100%)
 - Managers of diverse teams (95%)
 
-**Lived Experience of Exclusion (Diverse Employee Voice)**
+---
+
+### **Lived Experience of Exclusion (Diverse Employee Voice)**
 
 Diverse employees consistently report:
 - **High frequency of exclusion (62% weekly/daily)**—not occasional, chronic pattern
@@ -65,6 +67,8 @@ Diverse employees consistently report:
 - **1.1-point gap** indicates managers think they're inclusive but behaviors don't match
 
 **Validation:** These patterns closely align with the organizational evidence (27% diverse turnover) and the scientific evidence (diversity without inclusion → exclusion, conflict, disengagement, turnover).
+
+---
 
 ## **Stakeholder Support for Proposed Solution**
 
@@ -91,7 +95,7 @@ Stakeholders broadly support a behavior-focused, 40-60 hour inclusive leadership
 - **Quarterly reinforcement: 74%** (not one training and done)
 - **External facilitators: 71%** (neutral third-party credibility)
 
----
+═══════════════════════════════════════════════════════════════════════════
 
 ## **Key Stakeholder Concerns (Despite High Support)**
 

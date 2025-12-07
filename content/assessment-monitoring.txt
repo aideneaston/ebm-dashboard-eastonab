@@ -1,4 +1,4 @@
-1. Core Evaluation Questions
+## **Core Evaluation Questions**
 
 - Is ILDP reducing diverse employee turnover by the predicted 35–42%?
     - Baseline: 27% → Target: 16–18%
@@ -16,9 +16,11 @@
 
 - Do stakeholders maintain confidence, and is inclusion authentically improving?
 
-2. Success Metrics Dashboard (Executive Summary)
+═══════════════════════════════════════════════════════════════════════════════
 
-Primary Outcome KPIs:
+## **Success Metrics Dashboard (Executive Summary)**y)**
+
+### **Primary Outcome KPIs:**
 
 - Diverse turnover: Baseline 27% → Target 16–18% (18–24 months)
 - Engagement gap: Baseline 12 pts → Target ≤4 pts (18–24 months)
@@ -26,7 +28,7 @@ Primary Outcome KPIs:
 - 360 leadership behaviors: Baseline 3.1 → Target 3.8+ (12–18 months)
 - ROI: Target ≥2.5:1 (18–24 months)
 
-Process KPIs:
+### **Process KPIs:**
 
 - 85%+ training completion
 - 90%+ quarterly reinforcement attendance
@@ -34,7 +36,9 @@ Process KPIs:
 - Stakeholder support ≥80%
 - Zero retaliation incidents
 
-3. Evaluation Design
+═══════════════════════════════════════════════════════════════════════════════
+
+## **Evaluation Design**
 
 Approach:
 
@@ -47,13 +51,15 @@ Approach:
     - Manager interviews (Month 12)
     - Financial ROI modeling (Months 12, 18, 24)
 
-Why it works:
+### **Why it works:**
 
 - This design directly tests whether the training → behavior change → talent outcomes pathway operates as predicted by scientific evidence
 
-4. Timeline for Executive Decision Points
+═══════════════════════════════════════════════════════════════════════════════
 
-Month 6 – Early Pilot Readout:
+## **Timeline for Executive Decision Points**ts**
+
+### **Month 6 – Early Pilot Readout:**
 
 - Executives see:
     - Behavior change emerging (360s + observations)
@@ -62,7 +68,7 @@ Month 6 – Early Pilot Readout:
     - Stakeholder confidence score
 - Decision: Proceed to full rollout? Adjust curriculum? Strengthen accountability?
 
-Month 12 – Critical Go/No-Go Evaluation:
+### **Month 12 – Critical Go/No-Go Evaluation:**
 
 - Executives receive:
     - Turnover trajectory (≥10% reduction required to stay on track)
@@ -72,7 +78,7 @@ Month 12 – Critical Go/No-Go Evaluation:
     - Support levels (≥80%)
 - Decision: Continue / Modify / Pause
 
-Month 18 – Performance Impact Window:
+### **Month 18 – Performance Impact Window:**
 
 - Executives receive:
     - Turnover reduction approaching target
@@ -81,7 +87,7 @@ Month 18 – Performance Impact Window:
     - ROI estimate trending ≥2.5:1
 - Decision: Institutionalize ILDP? Scale to new managers? Adjust reinforcement cadence?
 
-Month 24 – Final Summative Evaluation:
+### **Month 24 – Final Summative Evaluation:**
 
 - Comprehensive outcome review
 - ROI confirmation
@@ -89,28 +95,32 @@ Month 24 – Final Summative Evaluation:
 - Recommendations for Years 3–5
 - Decision: Embed ILDP into core leadership model
 
-5. Executive-Facing Success Thresholds
+═══════════════════════════════════════════════════════════════════════════════
 
-Must-Achieve (Program success depends on these):
+## **Executive-Facing Success Thresholds**ds**
+
+### **Must-Achieve (Program success depends on these):**
 
 - 35–42% turnover reduction (primary ROI driver)
 - ROI ≥2.5:1 by Month 24
 - No retaliation incidents
 - Stakeholder confidence ≥80%
 
-Should-Achieve:
+### **Should-Achieve:**
 
 - Engagement gap closes by ≥60%
 - Promotion equity gap cut in half
 - 360 behaviors rise to ≥3.7
 
-Could-Achieve (strategic upside):
+### **Could-Achieve (strategic upside):**
 
 - Revenue-per-FTE gap narrows significantly
 - Psychological safety reaches high-performing team norms
 - Inclusion becomes normalized cultural behavior
 
-6. Reporting to Executives
+═══════════════════════════════════════════════════════════════════════════════
+
+## **Reporting to Executives**
 
 Monthly Dashboard:
 
@@ -134,7 +144,9 @@ Quarterly Executive Review:
 - Intersectional analysis
 - Recommendations for continuation and scaling
 
-7. Risks Monitored at the Executive Level
+═══════════════════════════════════════════════════════════════════════════════
+
+## **Risks Monitored at the Executive Level**
 
 - Premature abandonment:
     - Executive Signal: Leaders question ROI before Month 12

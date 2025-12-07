@@ -20,7 +20,7 @@
 
 **Why This Matters to Us:** If Intel reduced diverse turnover 19% and we're starting with a 69% higher rate (27% vs. 16%), we have even more room for improvement. Their approach is exactly what we're proposing.
 
----
+═══════════════════════════════════════════════════════════════════════════
 
 ## **Practitioner Evidence Summary**
 
@@ -31,6 +31,8 @@ Overview
 - Industries Covered: Tech, healthcare, finance, professional services, manufacturing, retail
 - Evidence Base: Practitioner interviews + 3 in-depth case studies (Intel, J&J, Salesforce)
 - Core Finding: Organizations often achieve demographic diversity without achieving performance gains due to missing "inclusion infrastructure." All experts emphasize that manager behavior is the mediating mechanism that turns diversity into performance.
+
+---
 
 ## **Why Most Diversity Programs Fail: Practitioner Insights**
 
@@ -51,8 +53,11 @@ Overview
 - **No accountability:** Training evaporates without manager metrics, consequences, reinforcement
 - **Treated as compliance:** Framed as legal requirement (not performance strategy) → resistance
 
-Practitioner Guidance: What Actually Works (the “M”)
-1. Behavior-Focused Training
+---
+
+### **Practitioner Guidance: What Actually Works (the "M")**
+
+**1. Behavior-Focused Training**
 
 Experts unanimously emphasize skills-based training—not awareness workshops. Effective programs teach managers:
 - How to interrupt bias in talent decisions
@@ -61,7 +66,7 @@ Experts unanimously emphasize skills-based training—not awareness workshops. E
 - How to run inclusive meetings
 - How to sponsor and advocate for diverse talent
 
-2. Accountability
+**2. Accountability**
 
 Training alone fails. Successful programs require:
 - Inclusion metrics in manager performance reviews
@@ -69,7 +74,7 @@ Training alone fails. Successful programs require:
 - Quarterly audits of promotion and assignment patterns
 - Transparent reporting of team-level diversity data
 
-3. System-Level Interventions (Bias Interrupters)
+**3. System-Level Interventions (Bias Interrupters)**
 
 Experts recommend structural fixes:
 - Standardized interviews
@@ -91,8 +96,11 @@ Key timeline consensus:
 - Performance improvements: 12–18 months
 - Culture transformation: 3–5 years
 
-Case Evidence (Condensed)
-Intel
+---
+
+### **Case Evidence (Condensed)**
+
+**Intel**
 - Problem: Diverse hiring success but low leadership diversity and weak innovation
 - Intervention: Global inclusive leadership training + accountability + systemic equity audits
 - Results:

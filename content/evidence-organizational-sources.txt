@@ -93,7 +93,7 @@
 
 **What This Means:** We have internal proof-of-concept. Product Engineering, Customer Success, Data Analytics, and Marketing Ops show the 45-hour program works. Net ROI for pilot: $1.8M savings (reduced turnover + higher performance) on $135k investment = 13:1 return. Just need to scale to remaining 145 managers across all units.
 
----
+═══════════════════════════════════════════════════════════════════════════
 
 ## **Organizational Data Analysis**
 
@@ -127,8 +127,11 @@ Y: Performance Outcomes (Turnover & Revenue)
     - Diverse + high training units (80%+): 15.2% turnover, $98,200 per employee
     - Homogeneous units (any training level): ~17.5% turnover, $79,100 per employee
 
-Internal Reports: What They Tell Us
-Engagement & Inclusion (Survey Data)
+---
+
+### **Internal Reports: What They Tell Us**
+
+**Engagement & Inclusion (Survey Data)**
 - Overall engagement is 68% favorable, which is typical for the industry, but only 56% for underrepresented employees.
 - Inclusion-type items show the sharpest gaps:
     - "My ideas are valued": 52% (diverse) vs. 71% (majority)
@@ -136,18 +139,20 @@ Engagement & Inclusion (Survey Data)
 - Exit interviews back this up: diverse leavers cite "lack of belonging" (74%) and "unfair evaluation" (68%) as top reasons.
 - Takeaway: The problem is not just representation; it is day-to-day inclusion and perceived fairness, especially tied to manager behavior.
 
-Diversity & Talent Analytics
+**Diversity & Talent Analytics**
 - Hiring is relatively strong (about 42% of new hires are from underrepresented groups), but 27% leave within 18 months.
 - Promotion and progression show a 33% longer time-to-promotion for diverse employees (3.2 vs. 2.4 years).
 - Representation drops dramatically as levels rise: 38% diverse at entry down to 12% at VP+.
 - Takeaway: We have a "revolving door" and leaky pipeline: we bring diversity in, then lose it or stall it.
 
-Training Program Evaluation
+**Training Program Evaluation**
 - The current unconscious bias training, rolled out to 89% of managers, showed no measurable impact on behavior or outcomes.
 - In contrast, a separate 40-hour leadership development program (not focused on inclusion) produced measurable behavior change and better team outcomes.
 - Takeaway: Quick, check-the-box bias training doesn't work. Longer, skill-based, practice-heavy training with accountability does. That is the model we'd need to follow for inclusive leadership.
 
-Process Example: Performance Management
+---
+
+### **Process Example: Performance Management**
 
 The performance management and talent review process is one of the main places where the diversity–inclusion gap becomes structural:
 - Ratings show clear disparities: diverse employees are far more likely to sit in "meets expectations" even when objective productivity is similar.
@@ -155,14 +160,18 @@ The performance management and talent review process is one of the main places w
 - Historical data is very telling: pre-2018 (when the workforce was less diverse), performance ratings and promotion rates were relatively equitable. As diversity grew rapidly, processes were not updated, and bias started to show up in ratings and promotions.
 - Bottom line: This core process is currently amplifying the problem rather than correcting it, and it is exactly where inclusive leadership skills plus structured "bias interrupters" would make the most difference.
 
-Financial Summary
+---
+
+### **Financial Summary**
 
 Using conservative assumptions:
 - Excess turnover cost attributable to the inclusion problem is roughly $8.4M per year.
 - Productivity and time-to-productivity impacts add several more million (e.g., ~$3.6M from disengagement and ~$1.8M from slower ramp-up).
 - Opportunity cost from underperforming diverse teams (compared to our own high-inclusion teams) is estimated around $14.2M in unrealized contribution.
 
-Readiness & Success Factors
+---
+
+### **Readiness & Success Factors**
 
 Overall organizational readiness looks moderate-to-high:
 
