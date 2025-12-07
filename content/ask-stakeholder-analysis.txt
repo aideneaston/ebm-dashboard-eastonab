@@ -1,5 +1,7 @@
 ## **Internal Stakeholders**
 
+---
+
 ### **Senior Management**
 - **Interest in Problem:** Problems with diversity can harm an organization's reputation. Often times management will face a lot of pressure regarding inclusion.
 - **Interest in Solution:** Leadership would gain an increase in image, innovation, employee turnover would decrease and people would want to join the company.
@@ -24,6 +26,8 @@
 - **Interest in Solution:** If they can create good management strategies it shows that they have knowledge on the topic and that they care.
 - **Influence Level:** High, they help shape policies.
 - **Support Level:** Likely supporter
+
+---
 
 ## **External Stakeholders**
 
@@ -50,6 +54,8 @@
 - **Interest in Solution:** It leads to more opportunity for everyone, represents what the majority of society wants.
 - **Influence Level:** Medium, society can easily topple an organization ruining their sales.
 - **Support Level:** Likely supportive
+
+---
 
 ## **Stakeholder Engagement Strategy**
 

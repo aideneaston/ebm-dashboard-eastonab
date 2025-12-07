@@ -27,6 +27,8 @@
 
 ## **Detailed Organizational Evidence Methods**
 
+---
+
 ## **Purpose of Organizational Evidence Collection**
 
 **Primary Goal:** Establish baseline levels of X→M→Y model using internal data

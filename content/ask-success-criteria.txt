@@ -1,5 +1,8 @@
 ## **SMART Success Criteria**
+
 *Note: Initial criteria updated based on evidence synthesis. Evidence predicts specific effect sizes and timelines that inform realistic targets.*
+
+---
 
 ### **Criterion 1: Diverse Employee Turnover Reduction**
 - **Specific:** Reduce diverse employee voluntary turnover rate tracked monthly via HRIS, disaggregated by race × gender × identity
@@ -21,6 +24,8 @@
 - **Achievable:** Yes—bias interrupters in promotion processes + manager behavior change address root cause (subjective criteria like "executive presence" currently disadvantage diverse employees)
 - **Relevant:** Pipeline sustainability—if diverse employees hired but don't advance, problem perpetuates; also tests whether bias interrupters work structurally
 - **Time-bound:** Expect 15-20% improvement by Month 12, full target 5-10% gap by Month 24; tracked via HRIS quarterly
+
+---
 
 ## **Measurement Framework**
 
@@ -51,6 +56,8 @@
 - Promotion equity shifts (rate parity movement visible Month 12-18)
 - Team performance improvements (12-19% gains in diverse teams, measured via revenue per FTE or productivity metrics)
 - ROI confirmation (≥1.5:1 by Month 12, ≥2.5:1 by Month 24)
+
+---
 
 ## **Baseline Measurements**
 
