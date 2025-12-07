@@ -2,23 +2,23 @@
 **MGT357 Evidence-Based Management Dashboard**  
 **Track your progress through evidence type milestones**
 
-**Student Name:** [Your Name]  
+**Student Name:** Aiden Easton  
 **Course:** MGT357 - Evidence-Based Management  
 **Semester:** Fall 2025  
-**Last Updated:** [Today's Date]
+**Last Updated:** December 7, 2025
 
 ---
 
 ## 🎯 **MY PROJECT OVERVIEW**
 
 ### **My Management Problem**
-**Problem Statement:** [Write your specific management problem here using PICOC framework]
+**Problem Statement:** Organizations increase diversity hiring (42% diverse new hires) but lose diverse talent at 69% higher rates (27% vs. 16% turnover), costing $26.2M annually. Managers lack behavioral skills and structural tools to translate diversity into performance advantage, creating a "diversity paradox" where diverse teams underperform by 8-15% instead of outperforming by 12-19%.
 
-**Organization Context:** [Where you're studying this problem - work, internship, student org]
+**Organization Context:** Mid-to-large organization (180 managers, 750+ diverse employees) with successful diversity recruitment but failing inclusion management practices.
 
-**Why This Matters:** [Explain the significance and impact of solving this problem]
+**Why This Matters:** Currently spending $26.2M annually on diversity-related costs ($8.4M excess turnover + $3.6M disengagement + $14.2M unrealized performance). With evidence-based inclusive leadership practices, could achieve 35-42% turnover reduction, 12-19% performance gains, and 2.5:1-6.5:1 ROI—transforming diversity from cost center to competitive advantage.
 
-**Success Vision:** [Describe what success looks like when this problem is solved]
+**Success Vision:** Within 18-24 months: diverse employee turnover reduced to 16-18% (from 27%), engagement gap closed to ≤4 points (from 12), promotion equity achieved (within 5-10%), diverse teams outperforming by 12-19%, and $9-11M in annual savings realized through evidence-based inclusive leadership training (40-60 hours behavioral + accountability mechanisms + quarterly reinforcement).
 
 ---
 
