@@ -18,7 +18,7 @@
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-## **Success Metrics Dashboard (Executive Summary)**y)**
+## **Success Metrics Dashboard (Executive Summary)**
 
 ### **Primary Outcome KPIs:**
 
@@ -57,7 +57,7 @@ Approach:
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-## **Timeline for Executive Decision Points**ts**
+## **Timeline for Executive Decision Points**
 
 ### **Month 6 – Early Pilot Readout:**
 
@@ -97,7 +97,7 @@ Approach:
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-## **Executive-Facing Success Thresholds**ds**
+## **Executive-Facing Success Thresholds**
 
 ### **Must-Achieve (Program success depends on these):**
 
